@@ -1,0 +1,886 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ventos regioninis parkas</name>
+    <description><![CDATA[Ventos regioninis parkas]]></description>
+    <Folder>
+      <name>Ventos regioninis parkas</name>
+      <Placemark>
+        <name>Juros periodo atodanga</name>
+        <description>
+          <![CDATA[Geologinė vertybė<br>
+<p>Viename iš seniausių ir gražiausių Žemaitijos miestelių Papilėje, Ventos slėnio šlaituose atsiveria 20 metrų aukščio ir 130 metrų ilgio Papilės atodanga. Papilės atodangoje surasta ir aprašyta daugiau kaip 300 Juros periodo gyvūnų ir augalų fosilijų. </p><br>
+<p><b>Aprašymas:</b> Viename iš seniausių ir gražiausių Žemaitijos miestelių Papilėje, Ventos slėnio šlaituose atsiveria 20 metrų aukščio ir 130 metrų ilgio Papilės atodanga. Juros periodo fosilijomis garsi atodanga turi didelę pasaulinę mokslinę reikšmę. Tai seniausiai (nuo 1825 m.) tiriamas ir saugomas (nuo 1964 m.) geologinis objektas Lietuvoje. 1997 m. atodanga įtraukta į vertingiausių Lietuvos geologinių vietovių sąrašą. 
+
+Papilės atodangoje surasta ir aprašyta daugiau kaip 300 Juros periodo gyvūnų ir augalų fosilijų. Ventos upės krantuose galime prisiliesti prie uolienų, kurių amžius – net 160-180 mln. metų. Čia randami suakmenėję ir virtę fosilijomis tų laikų gyviai. Atodangoje dažniausiai aptinkamos galvakojų moliuskų amonitai ir belemnitų fosilijos. Šitie gyvūnai klestėjo Juros periodo vandenyse ir išnyko kartu su dinozaurais. Papilės atodanga šiuo metu yra valstybės saugomas gamtos paminklas.
+Juros periodo atodanga yra pritaikyta lankymui. Atodanga nuo liūčių apsaugota medinių skiedrų stogu, skardžio šlaitai virš atodangos ir aplink ją sutvirtinti specialiu tinklu. Lankytojams paruošta akmenimis grįsta apžvalgos aikštelė su mediniais suolais.
+ </p><br>
+<p><b>Kaip atvykti:</b> Atodanga yra Ventos upės dešiniajame krante, apie 150 metrų į pietus nuo Papilės geležinkelio stoties ir apie 1,3 kilometro į rytų šiaurę nuo gelžbetonio tilto per Ventos upę Papilėje. Atodanga pasiekiama judant Papilės miestelio pagrindine Nepriklausomybės gatve ir, vadovaujantis informacine rodykle, pasukus į dešinę A. Mockaus skersgatviu, toliau judama iki šalia paskutinių prie aukšto šlaito stovinčių daugiabučių namų esančios mašinų stovėjimo aikštelės. Nusileidus laiptais žemyn, upės dešini</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.806861214064789,56.147887732483454,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ventos regioninio parko direkcija</name>
+        <description>
+          <![CDATA[Parko administracija<br>
+<p> </p><br>
+<p>Dariaus ir Girėno g. 2, Viekšniai</p><br>
+<p><b>Kaip atvykti:</b> Ventos regioninio parko direkcija įsikūrusi Viekšnių miestelio centre, šalia Viekšnių vaistinės - muziejaus, autobusų stotelės ir paminklo Biržiškų šeimai Dariaus ir Girėno g. 2 antrame aukšte.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.51786448618126,56.233287492843694,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viekšnių vaistinė</name>
+        <description>
+          <![CDATA[Muziejus, ekspozicija<br>
+<p> </p><br>
+<p>Tilto g. 3, Viekšniai</p><br>
+<p><b>Aprašymas:</b> Pačiame Viekšnių miesto centre, buvusios aikštės kampe, baltomis langinėmis kviečia užsukti senoji Viekšnių vaistinė. Tai seniausias Viekšnių pastatas, manoma, statytas XVIII amžiuje. Tačiau kaip išsilaikęs! 1860 m. jį įsigijo telšiškis farmacininkas Teodoras Geldneris ir įsteigė vaistinę, regis, po Palangos ir Telšių vaistinių, viekšniškė farmacijos įstaiga buvo seniausia šiaurės Žemaitijoje.  </p><br>
+<p><b>Kaip atvykti:</b> Muziejus yra Viekšnių miestelio centre, šalia autobusų stotelės, paminklo Biržiškų šeimai ir Ventos regioninio parko administracinio pastato,</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.517649969815963,56.232322233698696,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viekšnių malūnas</name>
+        <description>
+          <![CDATA[Inžinerinis paveldas<br>
+<p> </p><br>
+<p>Akmenės g. 24, Viekšniai</p><br>
+<p><b>Aprašymas:</b> 1897 m. Viekšnių malūną pastatė Pranciškus Lengvenis, Milių kaimo ūkininko sūnus. Buvo įrengtos dvejos girnos, pastatytos milui velti mašinos, supiltas pylimas ir užtvenkta Ventos upė. Kai supylė pylimą ir užtvenkė Ventą, pakilęs upės vanduo apsemdavo Zaventės (dabar - Užventės ir Kegrių kaimų ūkininkų žemę. Todėl P. Lengvenis buvo įsipareigojęs šiems ūkininkams grūdus malti veltui. Taip pat už dyką malūninkas maldavo ir tiems ūkininkams, kurie po ledonešio ir pavasario potvynių veždavo žvyrą, akmenis, virbus suardytam ir apgadintam pylimui sutvarkyti. 
+Po 1920 m. buvo pastatyti valcai, 1925 m. įrengta vilnų karšykla (pastatos vilnoms šukuoti mašinos), vilnų verpykla ir milo velyklą. Be to, apie 1928 m. pradėta tiekti visam miesteliui elektrą. Malūne išlikę autentiški ir veikiantys įrengimai.  </p><br>
+<p><b>Kaip atvykti:</b> Malūnas yra pietinėje Viekšnių miestelio dalyje, dešiniajame Ventos upės krante, netoli aviacijos pradininko A. Griškevičiaus memorialinio muziejaus</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.520985952976201,56.231691843272444,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aviacijos pradininko A. Griškevičiaus memorialinis muziejus</name>
+        <description>
+          <![CDATA[Muziejus, ekspozicija<br>
+<p>Aviacijos pradininko Lietuvoje Aleksandro Griškevičiaus memorialinis muziejus atidarytas 1981 metais. </p><br>
+<p>Akmenės g. 10, Viekšniai</p><br>
+<p><b>Aprašymas:</b> Aviacijos pradininko Lietuvoje Aleksandro Griškevičiaus memorialinis muziejus atidarytas 1981 metais.
+Muziejuje eksponuojamas A. Griškevičiaus „garlėkio“ maketas, Lietuvos aviacijos istoriją bei lakūnų Stepono Dariaus ir Stasio Girėno gyvenimą atskleidžiančios fotonuotraukos, paveikslai, knygos, filatelijos kolekcija.
+Kitame kambaryje įrengta etnografinė ekspozicija, pasakojanti apie Viekšnių krašto žmonių buitį, papročius ir tradicijas XIX a. – XX a. pr. Eksponuojami namų apyvokos daiktai, buities reikmenys, baldai, drabužiai, linų apdirbimo įrankiai. Eksponatus šiai ekspozicijai surinko muziejaus įkūrėjas mokytojas Algirdas Gedvilas ir kraštotyrininkė medikė Apolonija Sriubaitė. Saugoma kraštotyrininkės Amelijos Urbienės surinkta ir apibendrinta medžiaga apie Viekšnių krašto žmonių papročius, kalbą, amatus.
+Muziejuje taip pat veikia Viekšnių tautodailininkų dailės darbų ir tautodailininko Juozo Rušino drožinių ekspozicijos. </p><br>
+<p><b>Kaip atvykti:</b> Muziejus yra pietinėje Viekšnių  miestelio dalyje, apie 130 m nuo Dariaus ir Girėno g., dešinėje Akmenės g. pusėje</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.519490083706767,56.232413200982911,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paminklas Biržiškų šeimai</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p> </p><br>
+<p>Dariaus ir Girėno g. pradžia, Viekšniai</p><br>
+<p><b>Aprašymas:</b> 1995 m. miestelio centre atidengtas Č. Pečiulio sukurtas paminklas Antanui ir Elžbietai Biržiškoms bei trims jų sūnums profesoriams: Mykolui, Vaclovui ir Viktorui. </p><br>
+<p><b>Kaip atvykti:</b> Paminklas stovi aikštėje, prie Dariaus ir Girėno bei Akmenės gatvių sankirtos, prie Ventos regioninio parko direkcijos pastato</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.517820386051966,56.232937543538576,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viekšnių Šv. Jono Krikštytojo bažnyčia</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p>Dabartinė mūrinė bažnyčia pastatyta 1854 metais </p><br>
+<p>Bažnyčios g. 4, Viekšniai</p><br>
+<p><b>Aprašymas:</b> Viekšnių bažnyčią XVI a. pabaigoje pasisavino evangelikai reformatai. Bažnyčiai 1626 m. dovanotas Milių kaimas. 1634 m. pastatyta nauja medinė bažnyčia. 1680 ir 1816 m. atnaujinta.
+1841 m. patvirtintas inžinieriaus Keršteino mūrinės bažnyčios projektas. 1854 m. pastatyta dabartinė mūrinė bažnyčia. Altoriai perkelti iš senosios. 1915 m. birželio 14 d. vokiečių artilerija bažnyčią padegė ir sugriovė. Klebono V. Jarulaičio rūpesčiu 1915 m. pastatyta laikina. Kunigas Valentinas Gudavičius su parapijiečiais bažnyčią 1921 m. atstatė. Atstatant stengtasi išsaugoti jos pirmykštę išvaizdą. Langai pasiaurinti, padaryti 2 nauji. 1939 m. spalio 23 d. bažnyčios bokšte kilo gaisras, nukrito varpai.
+Bažnyčia kryžminio plano, vienabokštė. Įrengti 5 altoriai. Šventoriaus tvora akmenų mūro.
+ </p><br>
+<p><b>Kaip atvykti:</b> Viekšnių bažnyčia stovi miestelio centre, apie 140 m nutolusi šiaurės vakarų kryptimi nuo Ventos regioninio parko direkcijos pastato, už 180 m Dariaus ir Girėno g. važiuojant Bažnyčios g.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.516481806672179,56.234224101146154,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paminklas Vytautui Didžiajam</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p>Lietuvos didžiojo kunigaikščio Vytauto paminklas Viekšniuose atidengtas ir pašventintas 1930-07-13 </p><br>
+<p>prie Biržiškų ir Bažnyčios gatvių  sankirta, Viekšniai</p><br>
+<p><b>Aprašymas:</b> Lietuvos didžiojo kunigaikščio Vytauto paminklas Viekšniuose atidengtas ir pašventintas 1930-07-13. Pašventino Telšių kunigų seminarijos rektorius prelatas V. Borisevičius. Autorius Kostas Remeika iš Veiviržėnų. Paminklo statybą sumanė ir organizavo Viekšnių progimnazijos kapelionas Juozas Stasiulis ir Vytautų klubas. Paminklas betoninis, 4 m aukščio. Vienoje pusėje yra Vytautas, Trakų pilis, Vytis, kitoje pusėje - šv. Aloyzas, trijų kryžių kalnas ir žemaičių simbolis - meška. 1983-1984 m. restauruotas. 1999 m. jį restauravo Paminklų restauravimo konservavimo institutas. Paskelbtas vietinės reikšmės dailės paminklu (D V641).  </p><br>
+<p><b>Kaip atvykti:</b> Paminklas stovi Viekšnių miestelio centre, prie Biržiškų ir Bažnyčios gatvių sankirtos dešinėje pusėje.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.515679518132757,56.234663732644989,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Profesorių M. V. V. Biržiškų memorialinė ekspozicija </name>
+        <description>
+          <![CDATA[Muziejus, ekspozicija<br>
+<p>Muziejaus rinkinį sudaro Biržiškų šeimoje naudoti baldai, knygos, dokumentai, nuotraukos. </p><br>
+<p>Bažnyčios g. 6, Viekšniai</p><br>
+<p><b>Aprašymas:</b> Namas, kuriame gyveno įžymių, Lietuvai daug nusipelnusių trijų brolių profesorių – Mykolo, Vaclovo, Viktoro Biržiškų – šeima, yra atstatytas ant senųjų namo pamatų, palikus dalį autentiškų medžiagų pagal turimą seno namo planą.
+Dabar čia, buvusiuose Biržiškų šeimos kambariuose, glaudžiasi miestelio biblioteka bei yra įrengta profesorių M. V. V. Biržiškų memorialinė ekspozicija. </p><br>
+<p><b>Kaip atvykti:</b> Einant/važiuojant Biržiškų g. link Bažnyčios g. Biržiškų g. gale dešinėje pusėje esančiame name įrengta Profesorių M. V. V. Biržiškų memorialinė ekspozicija </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.515765557295392,56.234866810397072,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viekšnių Šv. Sergijaus Radonežiečio cerkvė</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p> </p><br>
+<p>Vytauto g. 1, Viekšniai</p><br>
+<p><b>Aprašymas:</b> Po 1863 m. sukilimo į Viekšnius ir jų apylinkes pradėjo keltis rusakalbiai stačiatikiai. Čia pradėta statyti cerkvė. 1875 m. Jai suteiktas šventojo Stebukladario Sergiejaus Radoniešio vardas. Cerkvė buvo prailginto kryžiaus formos, viduje išdažyta geltona spalva, papuošta baltais piliastrais ir karnizais. Nuo XIX a. pab. iki XX a. IV deš. buvo cerkvės klestėjimo laikotarpis. Parapijiečiai gausiai lankėsi cerkvėje ir dosniai jai aukojo.
+Karo metais (1940-1945-aisiais) cerkvės veikla apmirė. Sekmadieniais buvo laikomos mišios, nors šventiką A.Černaj sovietinė valdžia terorizavo. Nuniokotai cerkvei atstatyti parapijiečiai aukojo pinigus, dalį lėšų skyrė Lietuvos stačiatikių cerkvės vadovybė.
+ </p><br>
+<p><b>Kaip atvykti:</b> Cerkvė yra miestelio centrinėje dalyje, Vytauto gatvės pradžioje, tarp Viekšnių poilsio parko, Viekšnių gimnazijos ir dr. A. Biržiškos sveikatos namų.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.510782424638613,56.235810027767059,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snieginos Chriščinavičienės paveikslų galeriją „Snieginos giesmė akmenėliui“</name>
+        <description>
+          <![CDATA[Dailės galerija<br>
+<p>Nuo 1995 metų  Sniegina Chriščinavičienė kuria unikalius paveikslus iš žemėje gaunamos medžiagos (smėlio, molio, akmenukų). </p><br>
+<p>Vytauto g. 43, Viekšniai</p><br>
+<p><b>Aprašymas:</b> Nuo 1995 metų  Sniegina Chriščinavičienė kuria unikalius paveikslus iš žemėje gaunamos medžiagos (smėlio, molio, akmenukų). Daugiau nei prieš dešimtmetį savo namuose Viekšniuose (Vytauto g. 43) ji įkūrė paveikslų galeriją „Snieginos giesmė akmenėliui“. Čia nemokamai priimami pavieniai lankytojai ir jų grupės. Galeriją gausiai lanko ne tik lietuviai, bet ir svečiai, atvykę iš įvairių pasaulio šalių: Švedijos, Suomijos, Vokietijos, JAV, Indijos, Čekijos, Pabaltijo valstybių. </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant Pakalupio kaimu link Viekšnių centro, pravažiavus Kalupio upelį, Žalgirio ir Papilės g. privažiavus Vytauto g. sukame į kairę. Pavažiavus Vytauto g. apie 200 m, kairėje stovi pastatas, kuriame įrengta paveikslų galerija.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.521540681123987,56.235737009380394,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juodasis (Meilės) akmuo</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p> </p><br>
+<p>Žibikų k, Viekšnių sen.</p><br>
+<p><b>Aprašymas:</b> Geologijos gamtos paminklas, esantis Mažeikių raj., Viekšnių seniūnijoje, Žibikų miške. Dar kitaip vadinamas Žibikų, Didžiuoju ar Meilės akmeniu. Gamtos paminklu paskelbtas 1964 metais. Akmuo yra granitas, kurio ilgis siekia 5,59 m, plotis – 3,76 m, o aukštis – 1,98 m. Akmenį sudaro plagioklazas, mikroklinas, kvarcas, biotitas ir granatas.
+1906 m. šiuo akmeniu susidomėjo prof. L. Kšivickis, kuris spėliojo, kad tai gali būti meteoritas.
+
+Apie šį akmenį yra užrašyta keletą padavimų:
+    Velnias nešė šį akmenį, norėdamas sugriauti Viekšnių bažnyčią, bet nespėjo to padaryti, nes ryte užgiedojo gaidys. 
+    Naktimis akmuo prasiveria, iš jo išlenda mergaitės ir per naktį čia šoka. 
+    Saulei leidžiantis ant akmens verpia laumės. Jeigu žmogus, eidamas nuo akmens, atsisuka ir pamato laumes, tai tuoj pavirsta į pušelę. 
+    Prie akmens paslėptas Napoleono auksas.
+
+ </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Viekšnių Žibikų kaimo link, Žibikų miško gale (maždaug 2,2 km nuo sankryžos) reikia sukti į dešinę (medinė rodyklė rodo kryptį) ir važiuoti apie 80 m kol privažiuosite atokvėpio vietą, iš kurios rytų pusėje pamatysite Juodąjį akmenį.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.474773769319452,56.229935094710562,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juodeikių poilsiavietė</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p>Poilsiavietę įrengė ir ją tvarko Mažeikių miškų urėdija. Jos plotas - kiek daugiau nei 1 ha. </p><br>
+<p>Užventės k., Viekšnių sen.</p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Viekšnių į Kapėnus, Užventės kaimo pabaigoje reikia sukti į kairę. Pavažiavus tiesiai apie 1,4 km prieš prasidedant Kegrių miškui, reikia sukti į kairę (stovi informacinė rodyklė) ir važiuoti apie 0,7 km. Kai privažiuosite keliuko išsišakojimą, sukite į dešinę ir pavažiavus beveik 100 m pamatysite Juodeikių poilsiavietę.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.535612323002212,56.231430845431035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skleipių akmuo</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p> </p><br>
+<p>Skleipių kaimas, Viekšnių sen.</p><br>
+<p><b>Aprašymas:</b> Akmuo guli dešiniajame Virvytės upės krante, apatinėje upės slėnio terasoje. Aptiktas 1999 metais, statant Skleipių hidroelektrinę.
+Palei Skleipių akmenį matomos senovinių aukurų įtvirtinimo vietos. Aplink akmenį išryškėjęs juodas apie vieno metro storio anglingų nuogulų sluoksnis, aptiktos senovinių aukurų įtvirtinimo vietos. Didžioji dalis vertingų paveldo pėdsakų buvo sunaikinti, vykdant hidroelektrinės statybos darbus. Archeologų teigimu yra galimas lineamentinis ryšys ŠV – PR kryptimi su kitais regiono mitologiniais rieduliais (Juoduoju akmeniu, Krakių akmeniu). </p><br>
+<p><b>Kaip atvykti:</b> Atvykstama krašto keliu Nr. 194 Viekšniai – Tryškiai - Užventis. Septintame šio kelio kilometre, 600 metrų už tilto per Virvytės upę pasukama į dešinėje pusėje esanti kelią su žvyro danga, kurio 1,4 km. atkarpa, judant vaizdinga Virvytės upės pakrante, atvykstama prie įspūdingo Skleipių akmens. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.524150689630535,56.167343335326684,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gudų vandens malūnas</name>
+        <description>
+          <![CDATA[Inžinerinis paveldas<br>
+<p>Gudų vandens malūnas - medinis, pastatytas 1922 m. dešiniajame Virvytės krante. </p><br>
+<p>Virvytės g. 111, Gudai, Viekšnių sen.</p><br>
+<p><b>Aprašymas:</b> Artėdama prie Ventos, Virvytės srovė ties Gudais sulėtėja, vingiuose panirdama į sietuvas, pavasariais užliedama senvages. 1922 m. suvokietėjusi, anot profesorės V. Daugirdaitės-Sruogienės, latvių Vilio ir Alvinos Jungų šeima Guduose pastatydino vandens malūną. Iki II pasaulinio karo Jungai nuomojo ir Santeklių dvaro malūną. Gudų malūno vardas buvo garsesnis, net iš Telšių čionai atvažiuodavę vežimai su grūdais. Baigiantis II pasauliniam karui, malūno savininkai pasitraukė į Vakarus, V. Daugirdaitės-Sruogienės žiniomis, dar apie 1970 metus Šlezvigo Holšteino žemėje gyvenusios trys Jungų dukterys. 
+Į rezistencijos kovų istoriją Gudų malūnas pateko 1946 m. rugsėjo 30 dieną, kuomet „Vyčio“ partizanų formuotė čia susikovė su Mažeikių apskrities stribais ir milicininkais. Kautynėse žuvo du karininkai ir pora kareivių. 
+1995 m. Gudų malūnas parduotas aukcione, jį įsigiję verslininkai čia įrengė nedidelę hidroelektrinę, tačiau išsaugojo ir malūno pastatą.
+ </p><br>
+<p><b>Kaip atvykti:</b> Atvykstama krašto keliu Nr. 194 Viekšniai – Tryškiai - Užventis. Septintame šio kelio kilometre, 900 metrų už tilto per Virvytės upę pasukama į kairėje pusėje esanti kelią Nr. 1008 Palnosai – Gyvoliai - Gudai su žvyro danga, juo važiuojama  1,5 km. atkarpa, kol privažiuojame keliuką kairėje, vedantį į malūną. Pavažiavus juo 300 m privažiuosite atokvėpio vietą, nuo kurios šiaurinėje pusėje matosi Gudų vandens malūnas.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.540909931364457,56.187371411365156,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gyvolių piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Piliakalnio aikštelė 40x30 m dydžio, ovali, pailga pietų-šiaurės kryptimi, perimetras 100-200 m. Aikštelės pietiniame ir rytiniame kraštuose išlikęs supiltas pylimas, kuris yra apie 60 m ilgio, 2 m aukščio ir 13 m pločio.  </p><br>
+<p>Gyvolių k., Viekšnių sen.</p><br>
+<p><b>Aprašymas:</b> Piliakalnio aikštelė 40x30 m dydžio, ovali, pailga pietų-šiaurės kryptimi, perimetras 100-200 m. Aikštelės pietiniame ir rytiniame kraštuose išlikęs supiltas pylimas, kuris yra apie 60 m ilgio, 2 m aukščio ir 13 m pločio. Pylimo išorinis 4 m aukščio šlaitas leidžiasi į 50 m ilgio, 17 m pločio bei 1,5 m gylio griovį. Piliakalnio šlaitai statūs, 11 m aukščio. Apaugęs lapuočiais medžiais, tačiau aikštelės medžiai beveik visi iškirsti. Šalia piliakalnio yra kapinaitės, kuriose palaidota maro metu mirę žmonės.
+Piliakalnis datuojamas I tūkst. - XIII a. Manoma, kad iki XIII a. ant piliakalnio stovėjo nedidelė gynybinė pilis, tikriausiai sunaikinta 1201 metais baltų genties žemėse įsikūrus kryžiuočių ir kalavijuočių ordinams. Mažeikių rajono savivaldybė piliakalnį planuoja konservuoti ir pritaikyti lankymui. Piliakalnis prižiūrimas, iškirsti krūmai, nupjaunama žolė, padarytas privažiavimas, automobilių stovėjimo aikštelė, suoliukai, 2 informaciniai stendai, laiptai ir kt. </p><br>
+<p><b>Kaip atvykti:</b> Atvykstama rajoniniu keliu Nr. 1008 Palnosai – Gyvoliai - Gudai. ketvirtame šio kelio kilometre, 200 metrų už Gyvolių kaimo, dešinėje pusėje yra įrengta atokvėpio vieta, nuo kurios takelis veda į piliakalnį.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.558105677504244,56.211569014715593,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jadvygos Balvočiūtės ekologinis vaistažolių ūkis</name>
+        <description>
+          <![CDATA[Kūrėjų darbai, amatininkas<br>
+<p>Čia dažnai užsuka lankytojai - įsigyti arbatų, sužinoti apie vaistažoles, žolelių rinkimą ir ruošimą, ekologinį ūkininkavimą. Ūkyje yra vaistinių augalų ekspozicija po atviru dangumi, norintiems pravedamos ekskursijos. </p><br>
+<p>Virvytės g. 27, Gyvoliai</p><br>
+<p><b>Aprašymas:</b> Ūkyje yra beveik 20 ha nuosavos žemės, iš jų 14 ha plėtojama ekologinė žemdirbystė. Čia auginama per 300 pavadinimų augalinių rūšių žaliavų. Daugiausia arbatų mišiniams ir pavieniams fasavimams bei asmeniniams receptams ruošti naudojamos varnalėšos, medetkos, svilarožės, sukatžolės, kartusis kiekis, pelynas, rausvažiedė ežiuolė, šventagaršė, sėjamosios avižos ir grikiai, kiti augalai.
+2010 m. konkurse „Pažangiausias ekologinis ūkis" tarp penkių šalies geriausiųjų ūkių pripažintas ir J. Balvočiūtės ekologinis ūkis. J. Balvočiūtei už ekologinį vaistažolininkystės puoselėjimą įteikta žemės ūkio ministro Kazio Starkevičiaus padėkos raštas.  </p><br>
+<p><b>Kaip atvykti:</b> Atvykstama rajoniniu keliu Nr. 1008 Palnosai – Gyvoliai - Gudai. Trečiame šio kelio kilometre, įvažiavus į Gyvolių kaimą kiek daugiau kaip 400 metrų reikia sukti į  dešinę (kryptį rodo medinė rodyklė). Pavažiavus 100 m Jūs atvyksite į Jadvygos Balvočiūtės ekologinis vaistažolių ūkį.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.555799142944579,56.220617488615794,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santeklinės pušis</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Santeklinės pušis – įspūdingas, didelės kamieno apimties, gamtinę brandą pasiekęs medis </p><br>
+<p><b>Aprašymas:</b> Valstybės saugomas botaninis gamtos paveldo objektas. Aukštis - 30 m, lajos aukštis - 13 m, plotis - 10 m, forma -  vertikaliai ovali, netaisyklinga, projekcijos plotas - 100 m2. Amžius apie 250 m. Priskiriama prie vietinių mitologinių šventųjų žemaičių pušų, Viekšnių krašto savitumą atspindintis reiškinys. Tai viena iš Viekšnių krašte žmonių vadinamų „Šventųjų pušų“. Šalia medžio ir pačiame medyje (vietinių gyventojų teigimu – nuo neatmenamų laikų) kabinami įvairūs sakraliniai atributai (kryžiai, kryžiukai, rožančiai, koplytėlės), dedamos gėlės. </p><br>
+<p><b>Kaip atvykti:</b> Medis yra apie 35 metrai į š.r. nuo miško keliuko vedančio į Virvytės stovyklavietę dešinėje rajoninio kelio Nr. 1008 Palnosai – Gyvoliai – Gudai pusėje. Medis yra betarpiška rekreacinio Santeklių miško dalis.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.557782442455764,56.225004794510312,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santeklių poilsiavietė</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p> </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant rajoninio kelio Nr. 1008 Palnosai – Gyvoliai – Gudai 3 kilometre prieš pat Gyvolių kaimą, besibaigiant staigiam kelio posūkiui sukti į dešinę ir pavažiavus palei Virvytės upę apie 300 m. atvyksite į Santeklių poilsiavietę.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.553638214779966,56.22690435860207,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta prie Viekšnių malūno</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p>Atokvėpio vietą įrengta prie Viekšnių malūno, įrengti 4 suoliukai, informacinis stendas </p><br>
+<p><b>Kaip atvykti:</b> Atokvėpio vieta yra pietinėje Viekšnių miestelio dalyje, dešiniajame Ventos upės krante, prie Viekšnių malūno</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.521622666646056,56.232113053000724,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta prie Juodojo akmens</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p>Atokvėpio vieta įrengta prie Gamtos paminklo - Juodojo akmens, kurioje yra informacinis stendas, 6 suolai, automobilių stovėjimo aikštelė, atitvarai. </p><br>
+<p>Žibikų kaimas, Viekšnių sen.</p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Viekšnių Žibikų kaimo link, Žibikų miško gale (maždaug 2,2 km nuo sankryžos) reikia sukti į dešinę (medinė rodyklė rodo kryptį) ir važiuoti apie 80 m kol privažiuosite atokvėpio vietą.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.47431671861268,56.229946098185948,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta prie Gudų malūno</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p>Atokvėpio vieta įrengta prie Gudų malūno, kurioje yra informacinis stendas,  suoliukai, automobilių stovėjimo aikštelė </p><br>
+<p>Gudų kaimas, Viekšnių sen.</p><br>
+<p><b>Kaip atvykti:</b> Atvykstama krašto keliu Nr. 194 Viekšniai – Tryškiai - Užventis. Septintame šio kelio kilometre, 900 metrų už tilto per Virvytės upę pasukama į kairėje pusėje esanti kelią Nr. 1008 Palnosai – Gyvoliai - Gudai su žvyro danga, juo važiuojama  1,5 km. atkarpa, kol privažiuojame keliuką kairėje, vedantį į malūną. Pavažiavus juo 300 m privažiuosite atokvėpio vietą.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.540098495912098,56.186401518531298,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vietą prie Gyvolių piliakalnio</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p>Atokvėpio vieta įrengta prie Gyvolių piliakalnio, joje yra informacinis stendas, 4 suoliukai, automobilio stovėjimo aikštelė, laiptai, informacinė rodyklė </p><br>
+<p>Gyvolių kaimas, Viekšnių sen.</p><br>
+<p><b>Kaip atvykti:</b> Atvykstama rajoniniu keliu Nr. 1008 Palnosai – Gyvoliai - Gudai. ketvirtame šio kelio kilometre, 200 metrų už Gyvolių kaimo, dešinėje pusėje yra įrengta atokvėpio vieta.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.559425398290244,56.211522592019371,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santeklių apžvalgos aikštelė</name>
+        <description>
+          <![CDATA[Apžvalgos aikštelė<br>
+<p>Apžvalgos aikštelė įrengta šalia Ventos Virvytės santakos, miško pakraštyje, kurioje įrengtas stalas, 2 suolai, tiltelis, šalia yra apžvalgos bokštas </p><br>
+<p>Santeklių kaimas, Viekšnių sen.</p><br>
+<p><b>Kaip atvykti:</b> Apžvalgos aikštelė yra apie 0,5 km į šiaurę nuo Santeklių poilsiavietės į kurią galima atvykti važiuojant rajoninio kelio Nr. 1008 Palnosai – Gyvoliai – Gudai 3 kilometre prieš pat Gyvolių kaimą, besibaigiant kelio posūkiui sukti į dešinę ir važiuoti palei Virvytės upę apie 300 m.   </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.551801640762594,56.23079659715976,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Virvytės stovykla</name>
+        <description>
+          <![CDATA[Poilsio bazė<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Nuo 2009 metų čia veikia vaikų vasaros poilsio stovykla. Ją organizuoja A.Jarošaičio įmonė “MALORIJA”. 
+ Virvytės stovykloje laukia daug naujovių, vaikų laukia naujai įrengtas futbolo stadionas, kuriame galės žaisti ne tik futbolą, bet ir beisbolą. Įrengtos dvi tinklinio, kvadrato, krepšinio aikštelės. Veiks jodinėjimo žirgais “Žemaitukais” būrelis. Bus organizuojami naktiniai žygiai su nakvyne į skautų salą. Stovykloje įrengta baidarių ir vandens dviračių prieplauka, kurioje pastoviai budi ir vaikus prižiūri atsakingi vadovai.
+Didelis vaikų susidomėjimas yra dailės ir menų studija, kurioje dirba patirtį šioje srityje turintys vadovai. </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant keliu Nr. 194 Užventis – Tryškiai - Viekšniai, įvažiavus į Užventės kaimą  reikia sukti į dešinę ir važiuoti toliau pagrindiniu keliu (Virvytės g.) apie 2,6 km., kol privažiuosite Virvytės stovyklą.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.551807615443941,56.227471248899192,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santeklių pušis</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Valstybės saugomas botaninis gamtos paveldo objektas </p><br>
+<p>Gyvolių kaimas, Viekšnių sen.</p><br>
+<p><b>Aprašymas:</b> Santeklių pušis Santeklių miške, Kapėnų girininkijoje, Kv. Nr. 45, skl. Nr. 11. Tai  įspūdingas, gamtinę brandą pasiekęs medis, su pakabintų koplytėlių liekanomis. Ji 26 m aukščio, kamieno apimtis 1,3 m aukštyje - 2,81 m. Lajos aukštis - 12 m, plotis - 9 m, forma - vertikaliai ovali, netaisyklinga, projekcijos plotas - 100 m2.
+Santeklių pušis - taip pat mitologinis medis. Viena iš Viekšnių krašte žmonių vadinamų „Šventųjų pušų“. Šalia medžio ir pačiame medyje (vietinių gyventojų teigimu – nuo neatmenamų laikų) kabinami įvairūs sakraliniai atributai (kryžiai, kryžiukai, rožančiai, koplytėlės), dedamos gėlės. </p><br>
+<p><b>Kaip atvykti:</b> Medis yra prie kelio  Nr. 1008 Palnosai – Gyvoliai – Gudai
+2 kilometre, 400 m už tilto per Ventos upę, kairėje kelio pusėje, apie 12 metrų į rytus nuo pagrindinio kelio.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.573540088853949,56.2272340896915,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rekčių piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Ventos dešiniajame krante, netoli Kuršėnų - Mažeikių kelio, yra Rekčių piliakalnis (spėjama, buvęs įrengtas ir apgyvendintas žiemgalių), kitaip vadinamas Viniavos kalnu. Jis įrengtas Ventos upės kranto kyšulyje. </p><br>
+<p>Rekčių kaimas, Kuršėnų kaimiškoji seniūnija</p><br>
+<p><b>Aprašymas:</b> Piliakalnis įrengtas aukštumos kyšulyje, Ventos dešiniajame krante, santakoje su bevardžiu upeliu. Aikštelė beveik apvali, 7 m ilgio šiaurės – pietų kryptimi ir 6 m pločio, iš visų pusių apjuosta pylimu, kuris šiaurės pusėje yra 2 m aukščio, 22 m pločio, pietų - atitinkamai 1 ir 14 m, šonuose - 0,5 ir 4 m. Išorinėje šiaurinio pylimo pusėje, 4 m žemiau aikštelės iškastas 25 m ilgio, 13 m pločio, 1 m gylio griovys. Pietiniame šlaite, 6 m žemiau pylimo viršaus yra 9 m ilgio, 5 m pločio trikampio formos terasa. Šlaitai statūs, 8-12 m aukščio.
+ 1995 m. sutvirtintas erodavęs šiaurės rytų šlaitas. Piliakalnis dirvonuoja.
+Į šiaurės rytus nuo piliakalnio, 0,7 ha plote yra papėdės gyvenvietė.
+Piliakalnis datuojamas I tūkst. viduriu – XIV a. </p><br>
+<p><b>Kaip atvykti:</b> Piliakalnis pasiekiamas plentu (155) Kuršėnai – Papilė pravažiavus Rekčius (9,1 km nuo kelių Nr. 155 ir Nr. 203 sankryžos), prieš kanalą pasukus į kairę vakarų kryptimi lauko keliuku už 280 m. Piliakalnis yra  kitapus kanalo, per kurį padarytas tiltelis. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.853489900874361,56.077371264545434,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Papartynės (Rudikių) vandens malūnas</name>
+        <description>
+          <![CDATA[Inžinerinis paveldas<br>
+<p>Papartynės slėnyje, kur nuo senų laikų vešliai augo ir tebeauga daug paparčių, jau nuo 1867 metų veikė vandens malūnas, kartu gaminęs ir elektros energiją, pjovęs medienos lenteles (malksnas). </p><br>
+<p>Pagamės kaimas, Papilės seniūnija</p><br>
+<p><b>Aprašymas:</b> Papartynės slėnyje, kur nuo senų laikų vešliai augo ir tebeauga daug paparčių, jau nuo 1867 metų veikė vandens malūnas, kartu gaminęs ir elektros energiją, pjovęs medienos lenteles (malksnas). Jame buvo fabrikinės gamybos turbina, dvi poros girnų, pitlius.
+XIX a. pabaigoje-XX a. pradžioje malūnas priklausė Joniškiams. Nuo 1934 m. iš Joniškienės malūno nusipirkęs Isaakas Vilkas jį suremontavo ir malė iki 1940 metų. 1941 metais jį kartu su kitais žydais Šiaudinės miške sušaudė vokiečiai. Karo metu malūnas priklausė vokiečiui. Pokario metais  Papartynės malūnas malė iki 1953 metų.1999 metais Papartynės malūną atgaivino verslininkai, čia atstatę kadaise buvusią užtvanką ir įrengę hidroelektrinę.
+Besidomintiems geologine ir istorine krašto praeitimi verta užsukti į Papartynės slėnį, dar ir dėl to, kad patys be didesnio vargo galime susirasti unikalių suvenyrų iš amžių glūdumos-fosilijų- prieš 150 mln. metų gyvenusių gyvūnų suakmenėjusių liekanų. </p><br>
+<p><b>Kaip atvykti:</b> Malūnas pasiekiamas plentu (155) Kuršėnai – Mažeikiai už 14,7 km nuo kelių Nr. 155 ir Nr. 203 sankryžos, prieš Gamės upelį pasukus į kairę vakarų kryptimi. Už 400 m atvažiavus į atokvėpio vietą, kitoje Ventos upės pusėje pamatysite malūną, kurį galėsite apžiūrėti, perėjus netoliese esančiu pėsčiųjų tiltu.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.856145914277018,56.123998099727096,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juros periodo (Papartynės) atodanga</name>
+        <description>
+          <![CDATA[Geologinė vertybė<br>
+<p>Tai Juros periodo atodanga, atidengta 2007 m. </p><br>
+<p>Pagamės kaimas, Papilės sen.</p><br>
+<p><b>Aprašymas:</b> Čia, vaizdingoje vietoje, prie Papartynės malūno atidengtame Juros smiltainio su gausiomis fosilijomis sklype, kiekvienas nesunkiai gali aptikti suakmenėjusių, prieš 160 milijonų metų gyvenusių, dvigeldžių moliuskų, brachiopodų, amonitų kiaukutų.  </p><br>
+<p><b>Kaip atvykti:</b> Atodanga pasiekiama plentu (155) Kuršėnai – Mažeikiai už 14,7 km nuo kelių Nr. 155 ir Nr. 203 sankryžos, prieš Gamės upelį pasukus į kairę vakarų kryptimi. Už 400 m atvažiavus į atokvėpio vietą, rytų pusėje už 50 m pamatysite atidengtą žemės plotą, kuriame gausu įvairių fosilijų.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.858531167764855,56.124497925370534,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Augustaičių vandens malūnas</name>
+        <description>
+          <![CDATA[Inžinerinis paveldas<br>
+<p>Dabartinis Augustaičių vandens malūnas pastatytas 1932 metais, bet šioje vietoje malūno stovėta jau XIX amžiaus pabaigoje. </p><br>
+<p>Augustaičių kaimas, Papilės sen.</p><br>
+<p><b>Aprašymas:</b> Dabartinis Augustaičių vandens malūnas pastatytas 1932 metais, bet šioje vietoje malūno stovėta jau XIX amžiaus pabaigoje. Mūrinis pastatas iškilo sudegus anksčiau buvusiam mediniui ir iki Antrojo  pasaulinio karo priklausė Papilės verslininkui Vilkui. 
+Malūno įrenginius suko Ventos upės srovė, tačiau ilgainiui jame buvo įrengtas dyzelinis variklis – kad prireikus būtų galima malti ir per vasaros sausras, ir per žiemos speigus, kai vandens upėje sumažėja. Yra išlikusi vandens turbina, dvejos girnos, švediška kruopų šatravimo mašina, piklius, švediška transmisija, medinis keltas kroviniams kilnoti. Malūnas paskelbtas vietinės reikšmės technikos paminklu. Šalia malūno įsikūręs Algirdo Martyšiaus žirgynas. 
+ </p><br>
+<p><b>Kaip atvykti:</b> Vandens malūnas pasiekiamas plentu (155) Kuršėnai – Mažeikiai už 18,7 km nuo kelių Nr. 155 ir Nr. 203 sankryžos, prieš Papilės miestelį, pasukus į kairę pietvakarių kryptimi. Už 1,8 km atvažiavus į atokvėpio vietą, paėjėjus toliau keliuku 100 m pamatysite Augustaičių vandens malūną.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.8006545137291,56.140012947764994,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta prie Augustaičių malūno</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p> </p><br>
+<p>Augustaičių kaimas , Papilės sen.</p><br>
+<p><b>Aprašymas:</b> Atokvėpio vieta įrengta netoli Augustaičių malūno, kurioje yra Informacinis stendas, 2 suoliukai, 11 vietų automobilių stovėjimo aikštelė. Netoli atokvėpio vietos be malūno yra žirgynas. </p><br>
+<p><b>Kaip atvykti:</b> Atokvėpio vieta pasiekiama plentu (155) Kuršėnai – Mažeikiai už 18,7 km nuo kelių Nr. 155 ir Nr. 203 sankryžos, prieš Papilės miestelį, pasukus į kairę pietvakarių kryptimi ir pavažiavus 1,8 km.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.802398927915601,56.139019669301781,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raudonskardžio atodanga</name>
+        <description>
+          <![CDATA[Geologinė vertybė<br>
+<p>Valstybės saugomas geologinis gamtos paveldo objektas </p><br>
+<p>Raudonskardžio g., Papilė</p><br>
+<p><b>Aprašymas:</b> Raudonskardžio atodanga yra dešiniajame Ventos upės krante. Po 0,3 metro dirvožemio sluoksniu slūgso raudonas karbonatingas moreninis priemolis. Jis purus, dar nesusigulėjęs ir turi abliacinės morenos, kuri liko sutirpus šiame rajone paskutiniojo Nemuno apledėjimo Baltijos stadijos Vidurio Lietuvos fazės ledynui, požymius. Po ja yra kitas taip pat raudonos spalvos moreninis priemolio sluoksnis. Gargždo ilgųjų ašių matavimų duomenys rodo, kad ašys moreniniame priemolyje yra ištysusios daugiausiai iš šiaurės rytų į pietų vakarus. Galima teigti, kad suklojęs šį morenos sluoksnį, ledynas į Ventos vidurupio moreninę lygumą čia atslinko iš šiaurės rytų, tai yra iš Šiaurės Lietuvos glaciodepresinio duburio, atsiskirdamas nuo Vidurio Lietuvos ledyninės plaštakos. Gargždo petrografinėje sudėtyje vyrauja Devono periodo dolomitai. Akivaizdu, kad morena šioje vietoje buvo suklota Nemuno apledėjimo Baltijos stadijos Vidurio Lietuvos fazės ledyno. Giliau 7,5 metro slūgso pilkas priemolis su gausiu gargždu. Gargždo ilgųjų ašių matavimai ryškiai rodo, kad ledynas nuguldęs šį moreninį priemolio sluoksnį plito iš rytų į vakarus. Gargždo petrografinėje sudėtyje vyrauja vietinės kilmės klintys. Pagal turimus analitinius duomenis, šis sluoksnis yra priskirtinas Nemuno apledėjimo Baltijos stadijos Pietų Lietuvos fazės ledynui.
+Tai labai reta atvira Nemuno apledėjimo Baltijos stadijos Vidurio Lietuvos fazės ledyno nuogulų atodanga. </p><br>
+<p><b>Kaip atvykti:</b> Atodanga pasiekiama plentu (155) Kuršėnai – Mažeikiai 20-ame km, įvažiavus į Papilę ties kelio posūkiu reikia sukti į kairę (Raudonskardžio g.). Pavažiavus nurodytu keliu 350 m sukite į dešinę ir šiek tiek daugiau kaip 100 m privažiuosite atokvėpio vietą nuo kurios atodanga matosi V-ŠV pusėje.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.814422449270033,56.144574046913803,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta prie Raudonskardžio atodangos</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Atokvėpio vieta įrengta netoli Raudonskardžio atodangos, kurioje yra informacinis stendas, 2 suoliukai, 4 vietų automobilių stovėjimo aikštelė. </p><br>
+<p><b>Kaip atvykti:</b> Atokvėpio vieta pasiekiama plentu (155) Kuršėnai – Mažeikiai 20-ame km, įvažiavus į Papilę kelio posūkyje reikia sukti į kairę (Raudonskardžio g.). Pavažiavus nurodytu keliu 350 m sukite į dešinę ir šiek tiek daugiau kaip 100 m privažiuosite atokvėpio vietą nuo kurios atodanga matosi V-ŠV.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.815246252134802,56.144230162242721,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Papilės piliakalnis II</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Antrasis piliakalnis (Pašalpos kalnas) yra Ventos dešiniajame krante, jos santakoje su bevardžiu upeliu. </p><br>
+<p>Kranto g., Papilė</p><br>
+<p><b>Aprašymas:</b> Antrasis piliakalnis, vadinamas Pašalpos kalnu, yra dešiniajame Ventos krante, jos santakoje su taip pat kadaise tekėjusiu bevardžiu upeliu ir primena natūralų Ventos skardžio iškyšulį. Ventos upės link leidžiasi statūs 13 m šlaitai. Piliakalnis stipriai suardytas, bet žinoma, kad jo viršūnėje buvusi aikštelė, o rytų pusėje apie 30 m. ilgio ir 28 m pločio priešpilio aikštelė. Dar XIX a. iš čia buvo imamas žvyras, kasami rūsiai bulvėms laikyti, rasta nemažai metalinių buities daiktų.  </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant Papilės pagrindine gatve (Nepriklausomybės g., kelio Nr. 155), sukti į Kranto g., kur už 200 m, netoli prie sankryžos su J. Basanavičiaus g. kairėje pusėje pamatysite piliakalnį.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.795101155206179,56.148784493204666,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Papilės penkiolikamienė liepa</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Valstybės saugomas botaninis gamtos paveldo objektas </p><br>
+<p>Liepų g., Papilė</p><br>
+<p><b>Aprašymas:</b> 1870 m. V. Butkevičius priešais Papilės piliakalnį pasodino parką. Dauguma medžių neišliko. Iš parko augalų įdomiausia 15-kamienė liepa. Žmonės ją vadina „Dvylika brolių“. 1960 m. liepa paskelbta gamtos paminklu. 1987 m. priskirta prie respublikinės reikšmės gamtos paminklų.
+Liepos amžius - apie 150 m., šiuo metu likę 13 augančių kamienų ir 1 nuvirtęs. </p><br>
+<p><b>Kaip atvykti:</b> Iš Nepriklausomybės g. pasukus į S. Daukanto g. ir pavažiavus ja 400 m sukite į kairę (Ventos g.), po 60 m sukite į dešinę (Liepų g.) ir važiuokite apie 180 m, kol pamatysite Y formos sankryžą, kurioje sukite į dešinę. Pavažiavus apie 50 m ŠV pamatysite penkiolikamienę liepą</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.785212471126172,56.1476061723858,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Papilės piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Išvaizdžiausias ir žinomiausias, vadinamasis Pirmasis piliakalnis, stūkso kairiajame Ventos upės krante, jos santakoje su kadaise čia tekėjusiu bevardžiu upeliuku. </p><br>
+<p>S. Daukanto g. , Papilė</p><br>
+<p><b>Aprašymas:</b> Išvaizdžiausias ir žinomiausias, vadinamasis Pirmasis piliakalnis, stūkso kairiajame Ventos upės krante, jos santakoje su kadaise čia tekėjusiu bevardžiu upeliuku. Viršūnėje buvusi pailga 55 x 25 m aikštelė, jos pietiniame pakraštyje buvęs 5,5 m aukščio, apie 28 m ilgio bei 20 m pločio pylimas, kurio šlaitas leidžiasi į buvusį 24 m pločio griovį. 
+Piliakalnį sužalojo jau iki XIX a. čia įrengtos kapinės, 1864 m. amžinajam poilsiui prigaudusios didįjį Lietuvos istoriką ir rašytoją S. Daukantą. Į šiaurę ir vakarus yra buvusi papilio gyvenvietė. Ją archeologai tyrinėjo 1986, 1998 ir 2000 m. Manoma, kad piliakalnis tarnavo nuo mūsų eros I tūkstantmečio antrosios pusės iki XIV amžiaus. Istoriniuose raštuose minimi Kalavijuočių ordino antpuoliai 1339 ir 1359 m. 
+Šiuo metu piliakalnyje veikia kapinės, kuriose palaidota nemažai garbių asmenų. Vienas iš jų Simonas Daukantas, tai žymus 19 a. Lietuvos istorikas, rašytojas, lietuvių tautinės savigarbos žadintojas. </p><br>
+<p><b>Kaip atvykti:</b> Iš Nepriklausomybės g. pasukus į S. Daukanto g. ir pavažiavus ja 600 m, netoli sankryžos su keliu 1011,  kairėje pamatysite piliakalnį   
+</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.784217222898867,56.149593014589861,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jurakalnio griovos atodanga ir atragis</name>
+        <description>
+          <![CDATA[Geologinė vertybė<br>
+<p>Valstybės saugomas geologinis gamtos paveldo objektas </p><br>
+<p>Daubiškių kaimas, Papilės sen.</p><br>
+<p><b>Aprašymas:</b> Jurakalnio atragis - tai tipiška linijinės erozijos suformuota reljefo forma. Čia vizualiai susipažįstama su linijinės erozijos procesu ir jo padariniais – pačiu eroziniu atragiu, raguvomis bei griovomis, kuriose formuojasi šaltiniai. Griovoje vyksta gilinamoji erozija, nes jos išilginis profilis dar nepasiekė dinaminės pusiausvyros. Statūs griovos šlaitai nuolat griūva, nesuspėja apaugti augmenija, kuri juos sutvirtintų. Todėl griovos kairiajame šlaite nesunku pasiekti senuosius sluoksnius, priklausančius juros sistemai. Griovos dugne upelio vandens tėkmė natūraliai atidengia uolienų su fosilijomis sluoksnius. Nuo apžvalgos bokštelio atsiveria puikus vaizdas į Ventos slėnį, jo terasas.
+Po nestora (vos apie 2 m storio) kvartero - jauniausio geologinio periodo -nuogulų danga (0,0-2,0 m intervalas) slūgso juros sistemos nuogulos. Kvartero nuogulos - moreniniai priemoliai - yra aplinkinių dirvų dirvodarinės (gimtosios) uolienos. 2,0-5,5 m gylyje pasirodo juodas riebus žėrutingas molis, šiek tiek karbonatingas su limonitizuoto (geltono) smiltainio tarpsluoksniais. Šis sluoksnis paleontologų priskirtas juros sistemos viršutinio skyrio oksfordžio aukštui. Jame surandama gausi amonitų fauna. Surasti ir apibūdinti šie amonitai: Cardioceras (Plasmatoceras) tenuicostatum Nik., Cardioceras (Plasmatoceras) tenuistriatum Bor., Cardioceras (Plasmatoceras) popilaniene Bod.Giliau, 5,5-7,5 m gylyje, jau surastas senesnis viršutinės juros (juros sistemos viršutinio skyriaus) juodo žėrutingo, karbonatingo ir smėlingo molio sluoksnis, ku¬ris priskirtas kelovėjo aukštui.
+Žemiau 5,5 m slūgsantys sluoksniai pri¬klauso kelovėjui - juros sistemos viršutiniam skyriui. </p><br>
+<p><b>Kaip atvykti:</b> Iš Papilės vykstant į Gumbakių kaimą pro Papilės piliakalnį,  Papilė-Gumbakiai- Švendriai kelio Nr. 1011 1-ame km prieš į važiavimą į Daubiškių kaimą sukite į kairę, po 30 m vėl į kairę ir Jūs atvykote į atokvėpio vietą. Toliau paėjus 200 m įrengtu pėsčiųjų takeliu pamatysite Jurakalnio griovos atodangą ir atragį.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.782413550147073,56.145427493060836,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta prie Jurakalnio</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Atokvėpio vieta įrengta prie Jurakalnio, kurioje yra 2 informaciniai stendai, 4 suoliukai, tualetas, 28 vietų automobilių stovėjimo aikštelė. Einant link atodangos ir atragio - įrengta pavėsinė ir laužavietė </p><br>
+<p><b>Kaip atvykti:</b> Iš Papilės vykstant į Gumbakių kaimą pro Papilės piliakalnį,  Papilė-Gumbakiai- Švendriai kelio Nr. 1011 1-ame km prieš į važiavimą į Daubiškių kaimą sukite į kairę, po 30 m vėl į kairę ir Jūs atvykote į atokvėpio vietą. Toliau paėjus 200 m įrengtu pėsčiųjų takeliu pamatysite Jurakalnio griovos atodangą ir atragį.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.782360431956441,56.143606230706339,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Simono Daukanto muziejus</name>
+        <description>
+          <![CDATA[Muziejus, ekspozicija<br>
+<p>1986 m. pastate, kuriame kadaise gyveno S. Daukantas, atidarytas jo atminimo muziejus </p><br>
+<p>J. Basanavičiaus g. 6, Papilė</p><br>
+<p><b>Aprašymas:</b> Muziejus veikia šalia Papilės bažnyčios stovinčioje tradicinėje žemaitiškoje troboje, buvusioje Papilės altarijoje. Čia paskutiniuosius savo gyvenimo metus praleido rašytojas, švietėjas ir istorikas Simonas Daukantas. 
+Simono Daukanto muziejų 1986 m. įsteigė rajono savivaldybė. Dabar muziejuje apie 300  eksponatų. Čia lankytojams pateikiami A. Švažo, R. Tarabildos, A. Každailio, S. Šakalio, A. Banio, A.  Surgailienės, K. Šimonio muziejui padovanoti paveikslai Simono Daukanto kūrinių motyvais, įvairi dokumentinė medžiaga, žymių žmonių prisiminimai ir kt., pasakojantys apie šį iškilų žemaitį. Apsilankiusieji susipažįsta su S. Daukanto gyvenimo keliu, jo istoriniais ir kalbiniais darbais bei kitų autorių kūriniais apie šį istoriką, rašytoją, švietėją. </p><br>
+<p><b>Kaip atvykti:</b>  Muziejus yra šalia Papilės bažnyčios. Važiuojant miesto centre Nepriklausomybės g. reikia pasukti į S. Daukanto g. Ja pavažiavus 130 m sukti į dešinę (J. Basanavičiaus g.) ir važiuoti apie 200 m, kol kairėje pamatysite automobilių stovėjimo aikštelę, prie kurios ir yra S. Daukanto muziejus.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.788917542397943,56.151785543458715,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Papilės Šv. Juozapo bažnyčia</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p> </p><br>
+<p>Basanavičiaus g. 4A, Papilė</p><br>
+<p><b>Aprašymas:</b> Kaip ir daugelyje Žemaitijos miestelių, Papilėje aukščiausia ir iš toliausiai matoma raudonų plytų mūro bažnyčia, turinti šv. Juozapo vardą. Vyskupas M. Valančius rašė, jog pirmoji bažnyčia Papilėje pastatyta 1493 metais, tais pačiais, kai Papilės dvaras atiteko žemaičių vyskupų valdomai Luokei. Tačiau kiti istorikai spėja, kad jei ne bažnyčia, tai koplyčia Pilies kalne galėjo būti pastatyta jau Vytauto ir Jogailos laikais, pirmaisiais XV a. dešimtmečiais.
+Antroji bažnyčia Papilėje buvo konsekruota 1636 m. Šventoriuje stovėjo medinė varpinė su dideliu varpu. Nuo 1774 m. Papilės parapija ir bažnyčia priklausė Viekšnių dekanatui. Trečioji bažnyčia buvo statoma 1791 m. vyskupo Stepono Giedraičio pastangomis. Šventoriuje buvo medinė varpinė dvejomis durimis, jos antrame aukšte kabėjo 1666, 1705 ir 1774 m. pagaminti varpai. Piliakalnyje tuo metu jau buvusiose kapinėse stovėjo vieno altoriaus medinė koplyčia. 
+Klebonui Juozapui Ambrozevičiui išrūpinus Rusijos vidaus reikalų ministerijos leidimą, ši, ketvirtoji, bažnyčia pradėta statyti 1880 m. šalia senosios ir greta buvusio dvaro. Vienrankių kaime įrengta speciali plytų dirbtuvė. Medieną kirto netoli miestelio buvusioje giraitėje, vadintoje Spanguoline. Statyba baigta 1887 m. Tais pačiais metais bažnyčia konsekruota.
+Deja, Papilės bažnyčiai buvo lemta patirti ne vieną skaudų išbandymą. 1898 m. audra apgriovė abu bokštus, I pasaulinio karo metais nugriuvo siena, tapo nuardytas stogas, žuvo vargonai. Kaizerinė okupacinė valdžia rekvizavo varpus. Sugriovimus pavyko likviduoti tik 1929 metais. Antrasis pasaulinis karas vėl atnešė skriaudų: artilerijos kautynių metu buvo apgriauti abu bokštai, sudegė stogas, klebonija. Bažnyčią didelėmis klebono A. Žuko ir parapijiečių pastangomis pavyko atstatyti. Tačiau bokštų smailės į projektinį 22,6 m aukštį sugrįžo tik 1993 m. Bažnyčios atstatymu rūpinęsis kunigas A. Žukas tapo apkaltintas „antitarybine veikla“, suimtas ir išsiųstas į Sibiro lagerius.
+ </p><br>
+<p><b>Kaip atvykti:</b> Papilės bažnyčia yra šalia S. Daukanto muziejaus. Važiuojant miesto centre Nepriklausomybės g. reikia pasukti į S. Daukanto g. Ja pavažiavus 130 m sukti į dešinę (J. Basanavičiaus g.) ir važiuoti apie 200 m, kol kairėje pamatysite automobilių stovėjimo aikštelę, prie kurios ir yra Papilės bažnyčia.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.788477543302658,56.152099741014936,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paminklas S. Daukantui</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p> </p><br>
+<p>Centrinė miestelio ailšte, Papilė</p><br>
+<p><b>Aprašymas:</b> Virš mažo Papilės miestelio dangaus fone visu ūgiu iškyla elegantiška Simono Daukanto figūra. Paminklą 1928 m. sukūrė skulptorius Vincas Grybas. Atidengimo iškilmės įvyko 1930 m. rugsėjo 31 d. Paminklas, tapęs ne vien miestelio, bet ir V. Grybo kūrybos simboliu, skleidžia tiek išorinio, tiek vidinio dvasinio pasaulio harmoniją. Tai vienas iškiliausių V.Grybo darbų, pareikalavęs iš kūrėjo milžiniškų dvasinių ir fizinių pastangų. Tuo metu tai buvo ne tik Papilės, bet ir visos Lietuvos simbolis, įprasminęs išmintį, laisvę ir valią.
+      1927 m. Lietuvoje buvo suformuotas Komitetas, turėjęs pasirūpinti Lietuvos istoriko Simono Daukanto įamžinimu. Kol komiteto nariai svarstė paminklo vietos parinkimą, medžiagą ir kita, V. Grybas ėmėsi pirmųjų projektavimo darbų. V. Grybą įkvėpdavo valingo charakterio asmenybės, jų prasmingi siekiai, mąstymas, branda.  Prieš pradėdamas lipdyti portretinį S. Daukanto atvaizdą, skulptorius nuvažiavo į Papilę susitikti su žmonėmis, kurie dar prisiminė S. Daukanto veido bruožus, aprangą, šukuoseną, laikyseną ir kt. Nelengvas toks būdas dailininkui atkurti žmogaus fizinį atvaizdą, o kur dar psichologinė, dvasinė tos asmenybės būsena.V. Grybui reikėjo pasirūpinti nulipdytos S. Daukanto skulptūros liedinimu. Gavęs reikiamą informaciją iš Vokietijos apie skulptūros liedinimą, V. Grybas išvyko į Berlyną, kur jam pačiam prižiūrint buvo nukopijuota S. Daukanto statulos forma ir išlieta bronzos statula. Traukiniu per Tilžę, Pagėgius ji buvo pargabenta į Papilę. Paminklo statybos karštymetis Papilėje prasidėjo 1930 m. Statant bei formuojant postamentą, iškilo daugybė keblumų dėl paminklo medžiagų, nes akmenys, žvyras ir cementas nebuvo patys tinkamiausi dalykai. Tačiau tuometinė ekonominė krašto padėtis geresnės išeities negalėjo pasiūlyti. Rugpjūčio pabaigoje ant 7 metrų pjedestalo buvo užkelta bronzinė S. Daukanto statula. Vėliau vietinis kalvės nukalė grandines, kuriomis vėliau buvo apjuosta apatinė postamento dalis. </p><br>
+<p><b>Kaip atvykti:</b> Paminklas yra miestelio centrinėje aikštėje, šalia S. Daukanto ir J. Basanavičiaus g. sankryžos (35 m į Š. nuo sankryžos)</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.791686567037718,56.151075797995084,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koplytstulpis Rimšių kaime</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p> </p><br>
+<p>Rimšių kaimas, Papilės sen.</p><br>
+<p><b>Aprašymas:</b> Rimšių kaimas yra Papilės seniūnijoje, Akmenės rajone. Koplytstulpis pastatytas 1905 m. Data iškalta prie fundatorių sąrašo. Koplytstulpis (h – 232) granitinis, dviejų tarpsnių su geležiniu kryželiu, proporcingas. Jo postamentas stačiakampis, dviejų pakopų. Stulpas apskritas, ant jo koplytėlė platėja į viršų su nišomis pusapskrite arka. Dengta skardiniu išlenktu stogeliu. Kryželis (h – 112) suvirintas iš strypų. Jo šakos ažūrinės, platėja galuose. Šonuose įkomponuotos strypinės voliutos. Iš kryžmos skleidžiasi vingiuoti spinduliai. Skulptūrų nėra. Koplytstulpis išraiškingo silueto, įdomus kontrastingomis formomis. </p><br>
+<p><b>Kaip atvykti:</b> Iš Papilės centrinės (Nepriklausomybės) g. sukite į S. Daukanto g. ir ja važiuokite iki kelio Rimšiai-Kalniškiai Nr. 1016 - 1,76 km. Pravažiavus šių kelių sankryžą, dešinėje pusėje pamatysite koplytstulpį.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.768133038682826,56.147349145282064,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UŽpelkių vinkšna</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Valstybės saugomas botaninis gamtos paveldo objektas </p><br>
+<p>Užpelkių miškas, kv. Nr. 49, skl. Nr. 22,, Užpelkių kaimas, Papilės sen.</p><br>
+<p><b>Aprašymas:</b> Užpelkių vinkšna (paprastoji vinkšna) - 26 m aukščio. lajos aukštis - 10 m, plotis - 15 m, forma ovali. Amžius apie 200 m. Užpelkių vinkšnoje iki 2005 metų perėjo Juodasis gandras (Ciconia nigra L.), medyje yra paukščio lizdo liekanos. Užpelkių vinkšna – įspūdingas, gamtinę brandą pasiekęs medis. </p><br>
+<p><b>Kaip atvykti:</b> Iš Papilės ar Ventos atvykus į Kalniškių kaimą pasukti į Dvaro g. (kelias Kalniškiai-Kerežiai) ir važiuoti 2,8 km iki miško, kur dešinėje yra keliukas. Pasukus į šį keliuką palikite automobilį ir vinkšną pasieksite vadovaudamiesi rodyklėmis</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.687057391098993,56.152711080714425,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paminklai Lietuvos partizanams Užpelkiuse</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p> </p><br>
+<p>Užpelkių kaimas, Papilės sen.</p><br>
+<p><b>Aprašymas:</b> Plačiai nusidriekę dabartinio Ventos regioninio parko teritorijoje miškai po II pasaulinio karo buvo gana patikima priedanga rezistencijos kovotojams, kurie pasiryžo ginklu pasipriešinti sovietinei okupacinei santvarkai. Vieni siekė atkeršyti už atimtą turtą ir ištremtus ar nužudytus artimuosius, kiti į miškus pasitraukė vengdami tarnauti sovietinėje armijoje, dar kiti tikėjosi, jog Amerika bei kitos Vakarų šalys sugrąžins Lietuvą į demokratinių valstybių šeimą. Dažnam pasipiktinimą ir neapykantą kėlė kraštą okupavusios kariuomenės ir sovietinio saugumo teroras, savivaliavimas. Tad kovotojų gretose buvo ir nepriklausomos Lietuvos kariškių, ir hitlerinės okupacijos meto buvusių pareigūnų, ir nepatyrusių jaunuolių, idealistų, neturėjusių kovų patirties ir žinių.
+Šiose apylinkėse nuo pat 1944 metų rudens veikė daug nedidelių ir gausesnių būrių, kurie palaikė ryšius, siekė vienyti jėgas didesniems žygiams. Ventos upė ilgainiui tapo lyg ir takoskyra, dalijusia dviejų stambių rezistencijos kovotojų apygardų kontroliuojamas teritorijas. Dešiniajame Ventos krante, nuo Papilės į šiaurę bei rytus nusidriekusiuose miškuose, bazavosi ir šias teritorijas kontroliavo Prisikėlimo apygardos partizanai, o kairiajame krante prasidėjo Žemaičių apygardos teritorija, aprėpusi beveik visą kalvotąją Žemaitiją.
+Buvusiame Užpelkių kaime partizanų žūties vietą žymi pastatyta angelo skulptūra bei paminklinis akmuo. </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Ventos į Žerkščius, pravažiavus Ventos upę toliau Tilto g. važiuojam 0,5 km, sankryžoje sukame į dešinę (Dvariškių g.) ir važiuojam 0,45 km, privažiavę sankryžą vėl sukame į dešinę (Miškininkų g.) ir važiuojame 0,2 km kol privažiuosime dar vieną sankryžą. Joje sukame į kairę ir važiuojame 2,9 km kol privažiuojame sankryžą, joje sukame vėl į kairę ir pavažiavę 0,7 km sukame į dešinėje esantį miško keliuką, kuris veda prie minėtų paminklų.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.637275573951463,56.160158839093917,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Užpelkių pušis</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Valstybės saugomas botaninis gamtos paveldo objektas </p><br>
+<p>Užpelkių miškas, Kv. Nr. 38, skl. Nr. 59, Užpelkių kaimas, Papilės sen.</p><br>
+<p><b>Aprašymas:</b> Pušies amžius apie 250 m, aukštis 22  m, lajos aukštis 10 m, plotis 9 m, jos forma skėtiška, netaisyklinga. Užpelkių pušis – įspūdingas, didelės kamieno apimties, gamtinę brandą pasiekęs medis </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Ventos į Žerkščius, pravažiavus Ventos upę toliau Tilto g. važiuojam 0,5 km, sankryžoje sukame į dešinę (Dvariškių g.) ir važiuojam 0,45 km, privažiavę sankryžą vėl sukame į dešinę (Miškininkų g.) ir važiuojame 0,2 km kol privažiuosime dar vieną sankryžą. Joje sukame į kairę ir važiuojame 2,9 km kol privažiuojame sankryžą, joje sukame vėl į kairę ir pavažiavę 1,3 km sukame į dešinę ir važiuojame šiuo keliu iki galo. Čia paliekame mašiną ir einame pamiške Š k. 80 m.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.628267879104307,56.157135490546231,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šiurkiškių pušys Sesės</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Valstybės saugomas botaninis gamtos paveldo objektas </p><br>
+<p>Šiurkiškių kaimas, Papilės sen.</p><br>
+<p><b>Aprašymas:</b> Šiurkiškių pušys sesės – dvi atskiros pušys, kurios 15 metrų aukštyje susiliečia kamienais ir toliau auga, susiglaudusios ir sudarydamos bendrą lają. Medžių susilietimas ir augimas susilietus kamienais kartu labai retas, nes įprastai medžiai turi savas augimo (privatumo) erdves. Medžiuose nuo senų laikų įrengiamos koplytėlės su rūpintojėlio skulptūrėle, po medžiais gyventojai deda gėles. Neįprasta dviejų susilietusių medžių forma yra labai įdomi ir unikali, patraukianti lankytojų, fotomenininkų ir gamtos mylėtojų dėmesį.
+Pušys priskiriamos prie vietinių mitologinių šventųjų žemaičių pušų, Viekšnių krašto savitumą atspindintis reiškinys, išlikę pakabintų koplytėlių liekanos.
+Pušų lajos aukštis - 5 m, plotis - 9 m, forma ovali, netaisyklinga. </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Ventos į Žerkščius, pravažiavus Ventos upę toliau Tilto g. važiuojam 0,5 km, sankryžoje sukame į dešinę (Dvariškių g.) ir važiuojam 0,45 km, privažiavę sankryžą vėl sukame į dešinę (Miškininkų g.) ir važiuojame 0,2 km kol privažiuosime dar vieną sankryžą. Joje sukame į kairę ir važiuojame 2,9 km kol privažiuojame sekančią sankryžą, joje sukame į dešinę ir pavažiavę 0,25 km sukame į kairę ir važiuojame 2 km, už kurių kairėje kelio pusėje, netoli sodybos pamatysite pušis Seses. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.615147937204132,56.162741501955637,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apžadų kapeliai</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p>Už trejeto kilometrų į rytus nuo Kairiškių, pačiame Purvių miško pakraštyje, jaukią ramybę skleidžia senos kapinaitės. Mokslininkai jas vadina Kairiškių senkapiais, o vietos gyventojai tarmiškai – Apžadų kapeliais.  </p><br>
+<p><b>Aprašymas:</b>  Netoliese aptiktas akmeninis kirvukas liudija, kad žmonių šiose vietose gyventa jau pirmojo mūsų eros tūkstantmečio viduryje. Vėliau Ventos ir Virvytės krašte taikiai sugyveno kuršių, žemaičių ir iš pietinių Latvijos rajonų atklydusios žiemgalių gentys. 
+Niekas nebepamena, kada čia buvo paskutinės laidotuvės, gali būti, kad apskritai čia būta ne kapinaičių, o tiesiog sakralinės vietos. Užrašas virš kapinaičių vartų leidžia tradicijos ištakas nukelti į XIX a. pradžią. Iš senolių atėjusiuose padavimuose sakoma, neva čia buvusi bažnyčia ir miestas, kitų tvirtinama, jog smėlingose vietovėse vešėję seni dideli pušynai. Išdalijus žemes gyventojams, miškus ėmė kirti, rauti kelmus ir rengti dirbamą žemę. Palikusios tik dvi aukščiausios pušys. Bandą ganę piemenukai vieną rytmetį pastebėję žolėje brydę – aplink pušis kažin kieno eita keliais. Pušis aptvėrė. Vėl žymė; keliais šliaužta aplink tvorelę. Gyventojai suvokę, jog tai šventa vieta, ir ėmę statyti kryžius, koplytstulpius. Tačiau išlikę keletas antkapinių paminklų, mediniai kryžiai statyti gal po II pasaulinio karo, yra prie medžių pritvirtintų mažų Kristaus kančios ženklų – kryželių. Išlikę keli tautodailės dirbiniai – koplytėlė prie medžio su Švč. Mergelės Marijos skulptūrėle, koplytstulpis su Pietos skulptūrėle, koplytėlė su kryželiu ir Jėzaus Nazariečio skulptūrėle, dar viena koplytėlė pritvirtinta prie medžio liemens. 
+Iki II pasaulinio karo pradžios kapinaičių lankytojai galėjo aukoti ir pinigų: išlikusi prie pušies liemens pritvirtinta metalu apkaustyta skrynelė, kurios trijų užraktų raktus laikę arčiausiai gyvenę ūkininkai Kostas Šimkus, Kostas Jauga ir Jonas Stulpinas. Aukas jie galėdavę išimti tik visi kartu, paaukotus pinigus skirdavo kapinaičių priežiūrai, kas liko – atiduodavo Šiaudinės bažnyčiai, nes Šiaudinėje šių vietų gyventojai dažniausiai laidodavo savo mirusiuosius.  </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Viekšnių į Kairiškes prieš pat kaimo pradžią reikia sukti kairę ir važiuoti 1,7 km, už kurių prieš prasidedant miškui reikia sukti į dešinę ir važiuoti iki Apžadų kapų (apie 0,25 km).</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.597284412727031,56.148301790099296,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milieškų koplyčia</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p> </p><br>
+<p>Avižlių kaimas, Ventos seniūnija</p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Ventos į Žerkščius, pravažiavus Ventos upę toliau Tilto g. važiuojam 0,5 km, sankryžoje sukame į dešinę (Dvariškių g.) ir važiuojam 0,45 km, privažiavę sankryžą vėl sukame į dešinę (Miškininkų g.) ir važiuojame 0,2 km kol privažiuosime dar vieną sankryžą. Joje sukame į kairę ir važiuojame 2,9 km kol privažiuojame sankryžą, joje sukame į dešinę ir pavažiavę 0,35 km kairėje kelio pusėje (apie 40 m nuo kelio) stovi minėta koplyčia.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.642022219972894,56.171342504759487,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juozo Miltinio tėviškė</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p>Purvių miško glūdumoje stabtelėti kviečia senas Ramoniškių kaimas.  </p><br>
+<p>Ramoniškės kaimas, Viekšnių seniūnija</p><br>
+<p><b>Aprašymas:</b> Nepakartojamo grožio jam teikia Uogio upelio vingiai, o civilizacijos nesudarkytas jo žemupio slėnis paskelbtas kraštovaizdžio draustiniu. Anot senbuvių, iki XX a. vidurio šiame tik 135 ha ploto kaime būta 29 ūkių, juose gyveno apie 180 žmonių. Po II pasaulinio karo čia glaudėsi ginkluoti rezistencijos kovotojai. Ilgus metus tai buvo nuošaliausias Viekšnių valsčiaus kaimas, net elektra į jį atvesta tik 1969 metais. 
+Tačiau Ramoniškių vardą bene labiausiai išgarsino teatro ir kino režisieriaus Juozo Miltinio vaikystės takai. Būsimasis Panevėžio dramos teatro įkūrėjas ir vadovas Juozas Miltinis čia gyveno nuo 6 metų, gausi šeima skurdo, tėvą pašaukus į kariuomenę, o motiną uždarius į kalėjimą, vaikai liko tik gerų žmonių globoje. Būsimasis režisierius ganė bandą, iš čia per pelkėtus miškus, per pavasariais patvinstantį Uogį, per sraunią Virvytę ir klastingą Ventą eidavo į Viekšnių pradinę mokyklą. Ramoniškių kaimo palaukėse jis brandino savo talentą, kūrė pirmuosius savo spektaklius ir sakydavo dar vaikiškus pamokslus bendraamžiams. 
+Šis miškuose pasiklydęs kaimas visam gyvenimui liko pasaulio didmiesčiuose gyvenusio, kūrusio ir studijavusio J. Miltinio širdyje, ir po daugelio metų, kai nebebuvo sodybos, kurioje šeimos gyventa, garsusis teatro kūrėjas apsilankydavo Ramoniškėse, žingsniuodamas vaikystės takais pasisemdavo jėgų ir sielai šviesos. 
+Minint J. Miltinio gimimo 90-ąsias metines, 1997 m. rudenį, Ramoniškėse atidengtas S.Adomaičio sukurtas stogastulpis, Uogio upelio vingyje pasodinta ąžuoliukų, įrengta jauki prisiminimų ir poilsio vieta. Netoliese, 100 m piečiau J. Miltinio tėviškės stovi paminklinis akmuo vietiniams senoliams atminti. </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Gyvolių kaimo link Gudų, pravažiavus Gyvolių piliakalnį sukite į kairę ir važiuokite 1,1 km, kol privažiuosite Y formos sankryžą. Joje sukite į kairę ir važiuokite 3,3 km kol privažiuosite J. Miltinio tėviškę, kurioje yra stogastulpis, 2 informaciniai stendai, suoliukai, stalai ir kita rekreacinė infrastruktūra.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.602789069112259,56.184237831531547,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Žaliuonės pušis</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p> </p><br>
+<p>Purvių miškas, Kv. Nr. 58 skl. Nr. 37, Žalionės kaimas, Viekšnių sen.</p><br>
+<p><b>Aprašymas:</b> Pušies šakos vidutinio stambumo, skėstos. Laja labai reta, ją sudaro įvairių formų visomis kryptimis sudėtingai išsiraičiusios šakos.
+Mitologinis medis. Viena iš Viekšnių krašte žmonių vadinamų „Šventųjų pušų“. Medis savo kamieno apimtimi nežymiai lenkia šalia augančius savo gentainius. Šalia medžio ir pačiame medyje (vietinių gyventojų teigimu – nuo neatmenamų laikų) kabinami įvairūs sakraliniai atributai (kryžiai, kryžiukai, rožančiai, koplytėlės).
+Būklė patenkinama, audros nulaužta pagrindinė dešinės pusės aukščiausia šaka, kuri išplyšdama kamieno viršutinėje dalyje padarė gilią medžio žaizdą, yra paukščių uoksų,  medis puošia, įvairina ir turtina  aplinką.
+Medis 12 m aukščio, lajos aukštis 9 m, forma - simetriška, netaisyklinga, vienpusė, lajos plotis - 11 m. </p><br>
+<p><b>Kaip atvykti:</b> Atvykstama krašto keliu Nr. 194 Viekšniai – Tryškiai - Užventis. Krašto kelio aštuntame kilometre pasukame į vietinės reikšmės kelią Žalionė – Ramoniškės – Gyvoliai. Žalionės pušis yra paminėto kelio trečio kilometro dešinėje pusėje (įvažiavus į mišką, 3 metrai nuo kelio). </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.580991222531637,56.171320134150598,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paminklas Lietuvos partizanams Purvių miške</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Ventos regioninio parko teritorijoje nuo pat 1944 metų rudens veikė daug nedidelių ir gausesnių būrių, kurie palaikė ryšius, siekė vienyti jėgas didesniems žygiams. Ventos upė ilgainiui tapo lyg ir takoskyra, dalijusia dviejų stambių rezistencijos kovotojų apygardų kontroliuojamas teritorijas. Dešiniajame Ventos krante, nuo Papilės į šiaurę bei rytus nusidriekusiuose miškuose, bazavosi ir šias teritorijas kontroliavo Prisikėlimo apygardos partizanai, o kairiajame krante prasidėjo Žemaičių apygardos teritorija, aprėpusi beveik visą kalvotąją Žemaitiją.
+Ramoniškių, Purvių ir kituose aplinkiniuose miškuose ilgai išsilaikė „Vyčio“ būrys, vadovaujamas nuo Kruopių kilusio ūkininkų sūnaus Prano Belecko. Jame nuolat būdavo apie 13 – 15 vyrų, žuvusių būrio narių vietą užimdavo kiti. Lemtinga „Vyčio“ kovotojams buvo 1949 metų birželio 6-oji, Sekminių diena. Ramoniškių ir Purvių miškus apsupo šimtai ginkluotų kareivių, suvežtų net iš Latvijos. Nelygiose kautynėse žuvo dauguma „Vyčio“ kovotojų, tačiau vadas P. Beleckas, nors ir sužeistas, su K. Dimavičiumi ir J. Šidlausku sugebėjo pasitraukti ir pro persekiotojų grandinę prasibrauti į dešinį Ventos krantą. Kitą dieną grįžę pasiekė Uogiškių kaimo apylinkes ir miške ilsėjosi; čia buvo stribų būrio apsupti ir žuvo. Buvo suimti ir įkalinti bei ištremti partizanų ryšininkai. Tų pačių metų rugsėjo 31 d. Užpelkių kaime žuvo bene paskutinis „Vyčio“ partizanų būrio kovotojas Jonas Šiušė.
+ „Vyčio“ partizanų būrio vado P. Belecko ir jo bendražygių žūties vietoje dabar miško pakraštys, tarp medžių – kuklus kryželis mena čia susigėrusį kovotojų kraują. Žuvusiųjų palaikai 1988 m. vasarą iškasti ir perlaidoti Viekšnių kapinėse. Partizanų žūties vieta yra keliasdešimt metrų toliau į vakarus, nuo paminklo Lietuvos partizanams. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.635529340130478,56.192647198085119,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rudikių ąžuolas</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Valstybės saugomas botaninis gamtos paveldo objektas </p><br>
+<p>Rudikių kaimas, Papilės sen.</p><br>
+<p><b>Aprašymas:</b> Kamieno apimtis – 6,15 m, storis – 1,95 m, aukštis – 25 m, lajos plotis – 30 m,. </p><br>
+<p><b>Kaip atvykti:</b> Iš Papilės reikia važiuoti į Gumbakių kaimą (kelio Nr. 1011). Pervažiavus išilgai visą kaimą, jo gale ties Gumbakių II tvenkiniu sukite kairę ir važiuokite iki Plukės upelio. Čia palikite automobilį ir lauko keliuku paeikite 0,6 km ir šiaurinėje pusėje pamatysite ąžuolą.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.838262918477017,56.128924982907421,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avižlio geomorfologinis atragis</name>
+        <description>
+          <![CDATA[Geologinė vertybė<br>
+<p> </p><br>
+<p>Purvių kaimas, Ventos sen.</p><br>
+<p><b>Aprašymas:</b> Ypač įdomi ir savo vaizdais kerinti Avižlio bei Ventos santaka. Artėdamas prie Ventos, Avižlys panyra į vis gilėjantį slėnį. Ir štai, likus šimtui metrų iki santakos, Ventos ir Avižlio slėniai susiglaudžia, juos beskiria siaurutis pylimas stačiais, medžiais iš krūmais apaugusiais šlaitais, kuris pačioje santakoje baigiasi stačia atodanga. Joje matyti pleurito ir smėlio sluoksniai, kurie greičiausiai nusėdo čia prieš 50 – 70 tūkstančių metų tyvuliavusiame ežere. Geologų nuomone, šią unikalią žemės raukšlę galėjo sustumti paskutinį kartą šiuos kraštus dengę ledynai, o atragio šlaitus per tūkstančius metų iš abiejų pusių nuskalavo Avižlio ir Ventos tėkmė. 
+Tikrai verta čionai užsukti – ir pavasarį, kai gležnoje žalumoje tirpsta paukščių garsai, ir rudenį, kai viršum šalnų nuauksintos medžių lapijos plasnoja išskrendančių gervių voros.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.642035886588811,56.199980481400772,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Purvių geologinė atodanga</name>
+        <description>
+          <![CDATA[Geologinė vertybė<br>
+<p>Valstybės saugomas geologinis gamtos paveldo objektas </p><br>
+<p>Purvių kaimas, Ventos sen.</p><br>
+<p><b>Aprašymas:</b> Purvių atodanga yra dešiniajame Ventos upės krante. Pavasarį atodanga dažnai - veikiama upinių procesų, šoninės erozijos. Atodangoje atsidengia Kvartero sistemos, Viduriniojo Nemuno nuogulos. Vyrauja molio, dumblo, smulkaus ir smulkučio smėlio nuogulos, kurios yra rudos, geltonai-pilkos ir žalsvai juodos spalvos. Dumble dažnai aptinkami organinės medžiagos mikro-sluoksniai. Retkarčiais nuosėdinėje medžiagoje aptinkamas ir žvirgždas 1-2 cm skersmens. 
+Atodanga aprašyta pagal iškastas dvi perkasas, nuo apačios į viršų, nuo Ventos vandens lygio. Pirmame ir antrame pjūvyje buvo paimti sporų ir žiedadulkių, radiokarboninio ir moliuskų mėginiai, kuriais remiantys buvo nustatytas Purvių atodangos amžius. Mokslininkai teigia, kad minėtos nuosėdos susiklostė kai vyravo vidutinės ir arktinės klimatinės sąlygos.
+Rastų moliuskų kiautų radiokarboninio datavimo analizė atlikta Geologijos ir geografijos instituto laboratorijoje parodė, kad tiriamoje atodangoje aptikti moliuskų kiautai yra 34690 ± 650 amžiaus. Šios datos koreliuojasi su Viduriniojo Nemuno ledynmečiu. 
+Atodangos amžius-Kvartero periodas, Vidurinysis Nemunas, 34 tūkstančių metų, unikalumas-labai reta atvira Viduriniojo Nemuno periodo atodanga. </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Ventos į Viekšnius už 2,5 km nuo Ventos sukite į kairę. Pavažiavę 0,24 km vėl sukite į kairę ir važiuokite 0,18 km, tada vėl sukite į kairę ir važiuokite iki keliuko pabaigos. Privažiavę aikštelę toliau iki atodangos eikite pietų kryptimi, kol pamatysite įrengtus laiptus.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.639002926631981,56.204230443289447,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dešimtkamienė liepa</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p> </p><br>
+<p>Uogiškių kaimas, Viekšnių sen.</p><br>
+<p><b>Aprašymas:</b> Rūšis - mažalapė liepa (Tilia cordata Mill.) Kamieno apimtis 1.3 m aukštyje 1,5 m.
+Medžio aukštis 23 m. Lajos aukštis – 20 m, lajos plotis – 17 m. Kamienų skaičius – dešimt nežymiai besiskiriančių apimtimi kamienų. Amžius – apie 100 metų.
+ </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Palnosų į Gudus pravažiavus Gyvolių kaime 1,17 km sukite į kairę ir važiuokite (3 km) iki kitos sankryžos. Joje sukite į dešinę ir už 1,58 km privažiuosite keliuką kairėje. Čia palikę automobilį ir pėstute pasukus šiuo lauko keliuku už 450 m pamatysite Uogiškių dešimtkamienę liepą.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.625421890857996,56.207474558736948,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaukolinės geomorfologinis atragis</name>
+        <description>
+          <![CDATA[Geologinė vertybė<br>
+<p>Kaukolynės atragis yra būdingoje Ventos vidurupio lygumos, kurios duburiu teka Ventos upė, dalyje, suformuotoje Nemuno apledėjimo Baltijos stadijos Vidurio Lietuvos ledyninio liežuvio slinkties metu. </p><br>
+<p>Uogiškių kaimas, Viekšnių sen.</p><br>
+<p><b>Aprašymas:</b> Ventos slėnis ties Kaukolynės atragiu į supančią lygumą yra įsirėžęs apie 14 m Ventos upės vandens lygis prie atragio yra apie 58 m aukščiau dabartinio Baltijos jūros paviršiaus, taigi upės atkarpoje nuo Papilės iki Kaukolynės Ventos vandens paviršiaus absoliutinis aukštis nukrenta apie 10 m. Slėnio plotis ties Kaukolyne yra 300–400 m. 
+Ventos slėnyje yra trijų aukščių terasų aikštelės. Dvi terasos yra viršsalpinės, kurias neužlieja potvynių vanduo. Aukštesnioji (antroji) viršsalpinė terasa pakilusi aukščiau upės vandens lygio 812 m, žemesnioji (pirmoji)  vos 35 m. Pastaroji retkarčiais pakraščiais semiama potvynio vandens. Prie pat vagos šliejasi žemos salpinės terasos atkarpos. 
+Atragis  raiški erozinė reljefo forma. Atragio ilgis yra 70 m, o plotis nuo 2–5 m jo smaigalyje iki 25 m jo gale, tarp griovos viršutinės dalies ir Ventos slėnio šlaito. Atragio šlaitai labai statūs, o aukštis nuo griovos dugno jos vidurinėje dalyje  apie 6 m, o iš Ventos pusės šlaito aukštis apie 12 m.
+Atragis susiformavo Ventos upės šoninės erozijos ir bevardės griovos gilinamosios erozijos procesų dėka. Atragio ilgoji ašis yra orientuota į pietryčius, kryptimi statmena paskutiniojo ledyno slinkimo krypčiai.
+Kaukolynės atragis – tai geomorfologinis etalonas, turintis didelę mokslinę bei pažintinę vertę. Jo kilmė glaudžiai susijusi su šios Ventos slėnio atkarpos raida, kuri dar mažai ištirta. Gal būt, atragis yra susijęs ir su žemės gelmių tektonine struktūra. 
+Kaukolynės atragis yra unikalus gamtos objektas, išsaugokime jo šlaitus, augmeniją ir aplinką. </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant iš Palnosų į Gudus pravažiavus Gyvolių kaime 1,17 km sukite į kairę ir važiuokite (3 km) iki kitos sankryžos. Joje sukite į dešinę ir už 1,1 km palikite automobilį kelkraštyje (likus 0,16 km iki miško pabaigos). Nuo čia reikia eiti į rytų pusę (priešingą miško pusėj) apie 100 m ir pamatysite atragį.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.621612809439227,56.208085833415893,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viekšnių senosios kapinės</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p> </p><br>
+<p>Miestelio pietvakarinėje dalyje, Netoli Mažeikių g. ir šalia Kalupio upelio, Viekšniai</p><br>
+<p><b>Aprašymas:</b> Viekšnių senosios kapinės - Senųjų kapinių plotas 2,8 ha, iš jų lietuvių, katalikų dalis - 2,15 ha, rusų dalis - 0,65 ha. 
+Viekšnių senosiose kapinėse yra nemažai nukaltų metalinių kryžių, pažymėtų XIX a. ir XX a. pradžios įvairiomis datomis. Šiais kryžiais domėjosi žinomas Lietuvos dailininkas grafikas A. Šakalys, o pedagogas V. Kontutis meniškiausius kryžius įamžino nuotraukose ir 1990 m. Viekšniuose A. Griškevičiaus aviacijos muziejuje surengė parodą „Senųjų Viekšnių kapinių kryžiai”. Viekšnių senosiose kapinėse palaidoti žymūs žmonės: 
+Vincentas Aleksandravičius (1853 - 1926), provizorius,
+Barbora Beržanskienė (1828 - 1893), knygnešė, daraktorė,
+Jonas Beržanskis, Jono (1862 - 1936), „Varpo”, „Žinyčios”, „Lietuvių laikraščio” ir kt. bendradarbis,
+Liudvikas Beržanskis, Jono (1864 - 1888), „Aušros” ir „Lietuviško balso” bendradarbis,
+Juozapas Daugirdas (1754-03-19 — 1819-04-08), Lydos apskrities rotmistras, Aleksandras Griškevičius (1809 - 1863), aviacijos pradininkas Lietuvoje, Edvardas Paulavičius (1837 - 1894), Pavirvytės dvaro dvarininkas, pirmasis Viekšnių krašto bibliotekininkas.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.504353579107033,56.235292730479351,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daktaro Antano Biržiškos sveikatos namai </name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p> </p><br>
+<p> Vytauto g. 2 , Viekšniai</p><br>
+<p><b>Aprašymas:</b> Daktaro Antano Biržiškos sveikatos namai - Gydytojas Antanas Biržiška (1855-1922), baigęs 1880 m. Maskvos universitetą, apsigyveno Viekšniuose ir iki mirties gydė miestelio ir plačių apylinkių žmones. 1937 m. gegužės 17 d. Mykolas Biržiška, Antano sūnus, parašė Viekšnių valsčiaus Viršaičiui pareiškimą, kuriame išreiškė norą Viekšniuose pastatyti “mūrinius sveikatos namus, jei valsčius tam reikalui paskirs tinkamą žemės sklypą”, ir taip išreikšti meilę ir pagarbą savo tėvui, ilgus metus dirbusiam Viekšniuose ir gydžiusiam apylinkės žmones. “Namams pastatyti skiriu visus turimus pinigus ( per 30 tūkstančių litų) </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.510762233847533,56.23531298966536,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

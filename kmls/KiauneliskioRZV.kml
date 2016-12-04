@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kiauneliškio gamtinis rezervatas</name>
+    <description><![CDATA[Kiauneliškio gamtinis rezervatas]]></description>
+    <Folder>
+      <name>Kiauneliškio gamtinis rezervatas</name>
+      <Placemark>
+        <name>Šešios Labanoro pušys</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Objektas yra rezervato teritorijoje, todėl lankytis galima tik su direkcijos darbuotojais. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.860237962830009,55.274021410540662,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

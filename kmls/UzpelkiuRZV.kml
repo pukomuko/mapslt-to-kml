@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Užpelkių gamtinis rezervatas</name>
+    <description><![CDATA[Užpelkių gamtinis rezervatas]]></description>
+    <Folder>
+      <name>Užpelkių gamtinis rezervatas</name>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,576 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pagramančio regioninis parkas</name>
+    <description><![CDATA[Pagramančio regioninis parkas]]></description>
+    <Folder>
+      <name>Pagramančio regioninis parkas</name>
+      <Placemark>
+        <name>Didžioji Akmenos rėva</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>"Didžioji rėva" - išraiškus upės slėnis bei vaga su šniokščiančiomis rėvomis. Šis riedulynas susiformavo ledynų tirpsmo metu. </p><br>
+<p><b>Aprašymas:</b> Pagramančio regioniniame parke, Andriejaičių ir Kilpinės apylinkėse, ledynų tirpsmo metu susiformavo įspūdingas Akmenos upės riedulynas – „Didžioji rėva“. Tai išraiškus upės slėnis bei vaga su šniokščiančiomis rėvomis. Unikalus Akmenos slėnis išsiskiria nepakartojamu ir savitu kraštovaizdžiu, todėl yra saugomas kaip gamtos paveldo objektas.
+
+Upės vandenys čia garma giliu slėniu, nuolydis vietomis didžiulis – net 3m/km. Todėl upė galinga jėga plauna dugne esančias smėlio ir molio daleles, plukdydama jas pasroviui. Tuo tarpu dugne lieka įvairaus dydžio akmenys – rieduliai. Prieš „Didžiąją rėvą“ ilgą laiką buvusi sąsmauka neleido toliau nuplukdyti išplaunamų riedulių. Taip Akmena šioje vietoje surideno akmeninį slenkstį, šiandien vadinamą „Didžiąją rėvą“. Riedulyno plotas – apie trečdalis hektaro.
+
+Akmenos aktyvumu, giliais kanjonais, smarkiomis rėvomis gali įsitikinti kiekvienas, kuriam teko arba teks keliauti šia upe pavasarį ar rudenį. Gražu prie rėvos ir vasarą, kai subaltuoja šimtai tūkstančių akmenų – pasišokinėjant nuo akmens ant akmens, Akmeną galima perbėgti, nesušlapus kojų. Šalia „Didžiosios rėvos“ yra įrengta poilsiavietė, kurioje mėgsta apsistoti, pasiklausyti vandens šniokštimo ne tik vandens turistai.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.239766674589774,55.423022909168616,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>&quot;Lakštingalų slėnis&quot;</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p>Stovyklavietė </p><br>
+<p>Alijošiškės k., </p><br>
+<p><b>Aprašymas:</b> Stovyklavietė su visa infrastruktūra (pavėsinės, takai, suoliukai, estrada, poilsio namelis ir kt.) </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.233611814063533,55.390940555691046,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pagramančio regioninio parko direkcija</name>
+        <description><![CDATA[Parko administracija<br> <p> </p><br> <p>Alijošiškės k., </p><br> ]]></description>
+        <Point>
+          <coordinates>22.228994974794198,55.391722510027911,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dapkiškių piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p>Dapkiškių k., </p><br>
+<p><b>Aprašymas:</b> Dapkiškių piliakalnis su senovės gyvenviete vadinamas Pilaite, įrengtas smailiame aukštumos kyšulyje dešiniajame Jūros krante. Iš rytų, vakarų ir pietų piliakalnį juosia Daubos ir Jūros upių slėniai, iš šiaurės – aukštuma. Šiaurinė piliakalnio dalis atskirta nuo aukštumos iškastu grioviu ir 4,5-5 m aukščio pylimu, už kurio yra siaura, ilga, kiek lenkta trikampė aikštelė, maždaug 25-30 m ilgio. Į šiaurę nuo piliakalnio buvo įrengta gyvenvietė. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.240703971758695,55.272593440562218,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dapkiškių atodanga</name>
+        <description><![CDATA[Geologinė vertybė<br> <p>27 m. aukščio </p><br> <p>Dapkiškių k., </p><br> ]]></description>
+        <Point>
+          <coordinates>22.246967102665632,55.280153549368301,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dapkiškių kapinės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p>Dapkiškių k. kapinaitės </p><br> ]]></description>
+        <Point>
+          <coordinates>22.240302669611307,55.283737992553817,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rekstukų piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Rekstukų piliakalnis </p><br>
+<p><b>Aprašymas:</b> Rekstukų piliakalnis, vadinamas Kaukurine, su priešpiliu įrengtas aukštumos kyšulyje, Jūros upės kairiajame krante ir jos santakoje su Kroklio upeliu. Piliakalnio aikštelė trikampė, 18 m ilgio, žemėjanti šiaurės rytuose, ir 10 m pločio. Šlaitai statūs, 20-25 m aukščio, pietvakarinis nuslinkęs į Jūros upę. Piliakalnis apaugęs lapuočiais medžiais. Piliakalnio prieigose nedidelis priešpilis, nuo aukštumos atskirtas gynybiniu grioviu. Datuojamas I tūkst. pabaiga–II tūkst. pradžia.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.25841717504662,55.298504985979015,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rekstukų atodanga</name>
+        <description><![CDATA[Geologinė vertybė<br> <p>24 m aukščio </p><br> <p>Rekstukų k., </p><br> ]]></description>
+        <Point>
+          <coordinates>22.253237600103517,55.30106522632213,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lėkiškės poilsiavietė</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.295434021266377,55.305950408093246,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lengvenių atodanga</name>
+        <description><![CDATA[Geologinė vertybė<br> <p>23 m. aukščio </p><br> ]]></description>
+        <Point>
+          <coordinates>22.226355952855176,55.300939267909776,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rekstukų kapinės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.229735851858205,55.305144123408333,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jocių atodanga</name>
+        <description><![CDATA[Geologinė vertybė<br> <p>22 m. aukščio; 150 m. ilgio </p><br> ]]></description>
+        <Point>
+          <coordinates>22.206909879955944,55.307069707108298,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alangos atodanga</name>
+        <description><![CDATA[Geologinė vertybė<br> <p>23 m. aukščio; 110 m. ilgio </p><br> ]]></description>
+        <Point>
+          <coordinates>22.208107304852458,55.305656042413176,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jocių-Alangos atodangų regykla</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.206770589883408,55.307200800546035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.22209184603101,55.314095983467602,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jocių kapinės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.232298012613871,55.319312871396129,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matiškių piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Matiškių piliakalnis su senovės gyvenviete yra Jūros dešiniajame krante. Aikštelė apie 20-25 m ilgio ir 3-5 m pločio, pietvakarių dalyje siaurėja ir žemėja. Piliakalnio, kurio šlaitai yra iki 12 m aukščio, gynybinius įrenginius sudarė šiaurinėje piliakalnio dalyje esantis 1 m gylio ir 5 m pločio griovys bei 10-12 m ilgio puslankio formos pylimas. Pietinė dalis remiasi į Jūros upę, kuri po truputį plauna šlaitą ir aikštelę. Į šiaurę nuo piliakalnio gretimoje aukštumoje aptiktos buvusios gyvenvietės liekanos. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.239368145582088,55.325914949287025,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.239755833471662,55.325635241638857,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matiškių senkapiai</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.237452235335152,55.329810119708334,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matiškių kapinaitės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.245130558701923,55.332716541050317,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šaukėnų kapinaitės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.266687179671109,55.329781459837989,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.259768187039384,55.339021684838819,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gudlaukio ąžuolas</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Gudlaukio ąžuolas auga nedideliame Gudlaukio kaimelyje, netoli Jūros upės. Ąžuolo aukštis yra 16 m, kamieno apimtis krūtinės aukštyje – 6,3 m.
+Ąžuolo būklė nėra gera – kamiene yra didžiulė drevė. Ji atsirado medžiui pradėjus pūti iš vidaus, po to dar piktavaliams uždegus. Pasakojama, kad į šimtametį ąžuolą trenkė žaibas. Gerai įsiklausius galima išgirsti ąžuolo girgždėjimą, dejones. Bet medis nepasiduoda: kasmet žaliuoja, džiugina pravažiuojančius, ir jį aplankančius žmones. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.244991123741634,55.346246963590033,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matiškių kapinaitės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.251222934914249,55.34816694232282,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ringių poilsiavietė</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.250028986031243,55.349885380780684,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apžvalgos aikštelė</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p>Akmenos ir Jūros upių santaka </p><br> ]]></description>
+        <Point>
+          <coordinates>22.229838119799062,55.351301563728931,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Genių ąžuolas</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Genių ąžuolas auga dešiniajame Jūros upės krante, Genių kaime. Medžio aukštis – 25 m, kamieno apimtis – 5,6 m. Ąžuolas visiškai sveikas, tad ateityje gali pretenduoti į pačių stambiausių ir didžiausių Lietuvos ąžuolų sąrašus. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.206861287296061,55.351175771195116,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Genių atodanga</name>
+        <description><![CDATA[Geologinė vertybė<br> <p>25 m. aukščio, 160 m ilgio </p><br> ]]></description>
+        <Point>
+          <coordinates>22.173717208889975,55.351112848647048,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regykla</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.172867000966786,55.350909940680573,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poilsiavietė</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.145787868446014,55.361424201514446,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Informacinis stendas</name>
+        <description><![CDATA[Informacinis stendas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.25412377217857,55.259012245981936,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poilsiavietė</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.166629239529392,55.324311137746591,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apžvalgos bokštelis</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p>3 m. aukščio </p><br> ]]></description>
+        <Point>
+          <coordinates>22.143082140038935,55.324050543106402,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.221718879705193,55.350544142498883,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuturių senkapiai</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.209392531145202,55.357772294559403,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lylavėnų senkapis</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.166988526878416,55.360015602048612,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tamošaičių senkapis</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.164469351551144,55.361242607767274,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tamošaičių ąžuolas</name>
+        <description><![CDATA[Gamtinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.164504712994216,55.361019655986645,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Balskų girininkija</name>
+        <description><![CDATA[Girininkija<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.139490985199181,55.363266151726549,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Balskų kapinaitės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.134189001626698,55.363822488514018,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akmuo &quot;Milžinas&quot;</name>
+        <description><![CDATA[Geologinė vertybė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.172517804582125,55.368814219439244,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuturių-Naujininkų piliakalnis</name>
+        <description><![CDATA[Archeologinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.221811567340161,55.362066619339863,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pagramančio kapinės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.228539154138009,55.362449612215528,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pagramančio bažnyčia su varpine</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.231636785413375,55.363369371936912,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pagramančio piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Pagramančio piliakalnis su senovės gyvenviete vadinamas Pilaite stūkso Pagramantyje, Akmenos kairiojo kranto aukštumos kyšulyje, dešiniajame Gramančios upelio krante. Kyšulį iš vakarų supa Akmenos slėnis, iš pietų ir rytų – Gramančios upelio, o šiaurėje jis siekia gretimą aukštumą. Manoma, kad esančioje aukštumoje buvusi gyvenvietė. Piliakalnio šlaitai statūs, 20 m aukščio. Datuojamas I tūkst.–II tūkst. pradžia. Piliakalnis apipintas legendomis, padavimais, pasakojimais. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.234825042907005,55.369007204078088,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pagramančio atodanga</name>
+        <description><![CDATA[Geologinė vertybė<br> <p>31 m. aukščio, 203 m. ilgio </p><br> ]]></description>
+        <Point>
+          <coordinates>22.232181491849136,55.3730581967463,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regykla</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p>Regykla ant Pagramančio atodangos </p><br> ]]></description>
+        <Point>
+          <coordinates>22.232516372811606,55.372663629527118,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.231314168174869,55.372660504169644,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stovėjimo aikštelė</name>
+        <description><![CDATA[Stovėjimo aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.233031174747076,55.363736645935532,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tūkstantmečio parkas</name>
+        <description><![CDATA[Parkas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.214545976255494,55.37548838076868,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.184131061796801,55.382120408284017,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pagramantalio senkapiai</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.233344568327166,55.377311608767016,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alijošiškės kapinaitės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.233670365383123,55.385927393214345,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pagramančio girininkija</name>
+        <description><![CDATA[Girininkija<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.228962682568856,55.391650720243319,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stovėjimo aikštelė</name>
+        <description><![CDATA[Stovėjimo aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.229862433978827,55.392453058302841,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regykla</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.238189718839067,55.388541213706262,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kreivių kapinaitės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.241058488596213,55.393537085346843,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio vieta</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.195075669927043,55.390284999502043,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stovėjimo aikšelė</name>
+        <description><![CDATA[Stovėjimo aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.23563776348551,55.390513342062484,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regykla</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.234581769799533,55.407458685357305,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kreivių piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Kreivių piliakalnis, dar vadinamas Pile įrengtas Akmenos kairiajame krante, prie Skrodupio upelio žiočių. Tai didelė kalva, kurią supa pelkėtas slėnis. Įtvirtinimų ir kultūrinio sluoksnio nebuvo pastebėta, todėl sunku pasakyti kada ir kaip ilgai šiame piliakalnyje galėjo būti gyvenama. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.246667324354682,55.410823060627919,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koplytstulpis</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p>Šv. Antano koplytstulpis </p><br> ]]></description>
+        <Point>
+          <coordinates>22.225786869745928,55.412195623613584,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koplytstulpis</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p>Šv. Jono Nepamuko koplytstulpis </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.240068395033969,55.330437445664899,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andriejaičių kapinaitės</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.238629649996863,55.417155131112828,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poilsiavietė</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.239077936907364,55.423423712169438,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koplyčia</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.25982785962611,55.454978793573325,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Žvilių kapinynas</name>
+        <description><![CDATA[Archeologinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.239043443767031,55.465605636214491,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vaičių vandens malūnas</name>
+        <description><![CDATA[Inžinerinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.250453927687914,55.4672337649871,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vaičių piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Vaičių piliakalnis, dar vadinamas Švedkalniu, stūkso apie 2 km nuo kelio Vaičiai–Šilalė, kairiajame Akmenos upės krante. Jis įrengtas aukštumos kyšulyje, įsiterpiančiame į pelkėtą Akmenos slėnį. Šlaitai statūs, apie 20-25 m aukščio. Aikštelė trapecinė, 39 m ilgio, 22 m pločio R gale, 30 m – V gale. Piliakalnio rytinėje pusėje supiltas status kūgio formos pylimas, kurio aukštis 3 m, plotis – 22 m.  Piliakalnis apardytas arimų, šlaitai – erozijos, jis apaugęs lapuočiais, išskyrus aikštelę. Datuojamas I tūkst.–II tūkst. pradžia.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.264004321508111,55.468850778098499,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Driežų koplytėlė</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.275980216254403,55.482304882109119,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pagramančio regioninio parko lankytojų centras, direkcija</name>
+        <description><![CDATA[Lankytojų centras<br> <p> </p><br> <p>Malūno g. 2, Ringių k., </p><br> ]]></description>
+        <Point>
+          <coordinates>22.229025381987423,55.351776437831838,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pagramančio regioninio parko direkcija</name>
+        <description><![CDATA[Parko administracija<br> <p> </p><br> <p>Malūno g. 2, Ringių k., </p><br> ]]></description>
+        <Point>
+          <coordinates>22.228573137282655,55.351859037128101,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Minijos gamtinis rezervatas</name>
+    <description><![CDATA[Minijos gamtinis rezervatas]]></description>
+    <Folder>
+      <name>Minijos gamtinis rezervatas</name>
+    </Folder>
+  </Document>
+</kml>

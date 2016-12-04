@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Biržų regioninis parkas</name>
+    <description><![CDATA[Biržų regioninis parkas]]></description>
+    <Folder>
+      <name>Biržų regioninis parkas</name>
+      <Placemark>
+        <name>Smardonės šaltinis</name>
+        <description>
+          <![CDATA[Hidrografinė vertybė<br>
+<p>Smardonės šaltinis yra respublikinės reikšmės hidrogeologinis paminklas. Jis trykšta silpnai banguotoje lygumoje iš karstinės įgriuvos. Šis šaltinis duoda pradžią Smardonės upeliui.  </p><br>
+<p><b>Aprašymas:</b> Smardonės šaltinis yra respublikinės reikšmės hidrogeologinis paminklas. Jis trykšta silpnai banguotoje lygumoje iš karstinės įgriuvos. Šis šaltinis duoda pradžią Smardonės upeliui. Ties karstinės įgriuvos ir šios vagos pradžios riba šaltinio tėkmę sulaiko maždaug 7 m ilgio ir iki 2 m pločio ruože sumesti iki 0.6 m skersmens kristaliniai rieduliai ir dolomito gabalai. Kliūdama už akmeninės užtvaros ir prasiverždama plyšiais tarp akmenų, tėkmė čia šniokščia. Per šitokią akmenų užtvarą, nesušlampant kojų, galima pereiti ir šaltinio tėkmės vagą. 
+
+Dėl karstelėjusio skonio ir išsiskiriančių sieros vandenilio dujų kvapo čionykščiai gyventojai į Smardonės šaltinį atkreipė dėmesį labai seniai, o specifinė smarvė logiškai padiktavo ir atitinkamo vardo parinkimą. Jie nevartojo vandens iš šio šaltinio mėsai, kavai ar arbatai virti, bet naudojo duonai kepti, maudimuisi. Vanduo tiko besigydantiems gurkšnoti, mazgotis akis, taip pat tiesiog šaltinyje mirkyti skaudamas rankas, kojas. Apie Smardonės šaltinio, kaip turinčio gydomųjų savybių, panaudojimą bene pirmosios žinios yra jau iš 1587 m. rašytinių dokumentų. 1938 metais atidarius Likėnų gydyklą, kol nebuvo gręžinių, mineralinio vandens buvo semiamasi iš šaltinių.  Ir iš didžiojo Smardonės šaltinio, naudojant jį vonioms, gydomajam purvui praskiesti, gydant  įvairias ligas.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.622380456994765,56.200217568065476,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biržų regioninio parko lankytojų centras</name>
+        <description>
+          <![CDATA[Lankytojų centras<br>
+<p>Apie Biržų kraštą pasakojanti ekspozicija - moderni ir įdomi. Jau vien užėję į centrą lankytojai pasijaus lyg patekę į pačią smegduobę, mat juos pasitiks „šaltas“ stiklinis priimamasis. </p><br>
+<p>Rotušės g. 10, Biržai</p><br>
+<p><b>Aprašymas:</b> Ekspoziciją rasite Biržų regioniniame parko direkcijos patalpose esančiame Lankytojų centre (adresu: Biržai, Rotušės g. 10, I aukštas).
+
+Biržai yra unikalus kraštas, kuriame žemės paviršius aktyviai formuojasi nuolat keisdamas kraštovaizdį. Gruntiniam vandeniui išplovus gelmėje esančius gipso klodus, įgriūva žemė. Susidaro paslaptingos smegduobės: vienos sausos (pavyzdžiui garsusis gamtos paveldo objektas „Karvės ola“), kitos – virtusios ežerėliais su plika akimi matomomis sieros bakterijomis (Kirkilų ežerėliai).
+
+Apie šį kraštą pasakojanti nauja ekspozicija Biržų regioninio parko lankytojų centre – moderni ir įdomi. Jau vien užėję į centrą lankytojai pasijaus lyg patekę į pačią smegduobę, mat juos pasitiks „šaltas“ stiklinis priimamasis. Jo tūris savo reljefine struktūra simbolizuoja smegduobės šlaitų sandarą, kai po žemių griūties apsinuogina geologiniai sluoksniai, sudaryti iš įvairių uolienų, lubos taip pat imituoja smegduobes. 
+
+Ekspozicijoje įrengti interaktyvūs stendai-žaidimai „Smegduobių raidos procesas“, „Karstinių ežerėlių ekosistema“. Stendas, veikiantis kaip smėlio laikrodis, imituoja smegduobės griūtį, kiti stendai vaizduoja smegduobes prieš griūtį ir po griūties. Tai lankytojams padės suprasti apie vykstančius gamtos reiškinius Biržų krašte. 
+
+Antroje ekspozicijų salėje lankytojams parengta mineralų bei uolienų ekspozicija, supažindinanti su krašto geologiniais turtais. Lankytojų laukia dar vienas įdomus pažintinis interaktyvus kerno ekspozicijos stendas, lankytojai gali pamatyti gręžinio gylio mastelį ir pažinti geologinių sluoksnių kaitą.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.7554336194409,56.202471210815489,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Geologų duobė</name>
+        <description><![CDATA[Geologinė vertybė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.693131482939165,56.210122200687941,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karvės ola</name>
+        <description><![CDATA[Gamtinis paveldas<br> <p>Gamtos paveldo objektas "Karvės ola" </p><br> ]]></description>
+        <Point>
+          <coordinates>24.694376604399231,56.206690275728327,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lapės ola</name>
+        <description><![CDATA[Geologinė vertybė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.691622133637239,56.210261372712218,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirkilų karstiniai ežerėliai</name>
+        <description><![CDATA[Gamtinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.690867889435406,56.247878019431312,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirkilų karstiniai ežerėliai</name>
+        <description><![CDATA[Informacinis stendas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.689925395486785,56.24769313573168,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biržų regioninis parkas</name>
+        <description><![CDATA[Informacinis stendas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.690612420556018,56.247915096176541,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Užtvanka</name>
+        <description><![CDATA[Architektūros paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.762595663970476,56.222031182263478,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Astravo rūmai</name>
+        <description><![CDATA[Architektūros paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.768647626427573,56.219605054075657,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pėsčiųjų tiltas</name>
+        <description><![CDATA[Inžinerinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.769170800671709,56.212180264018087,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pėsčiųjų tiltas</name>
+        <description><![CDATA[Inžinerinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.769887500833828,56.217083886096972,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jaronio duobė</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Jaronio smegduobė atsirado labai staiga 1957 metais rugių lauke ir sukėlė aplinkui stiprokus žemės virpesius.  </p><br>
+<p><b>Aprašymas:</b> Jaronio smegduobė atsirado labai staiga 1957 metais rugių lauke ir sukėlė aplinkui stiprokus žemės virpesius. Pirmosiomis dienomis po įgriuvimo ji buvo kokių 10 - 12 m skersmens ir atrodė kaip didesnio nei 14 m gylio savotiškas šulinys su beveik stačiomis rudo riedulingo priemolio sienomis, nusileidusiomis iki 8 - 9 m gylio, o žemiau matėsi 10 - 15 m skersmens ir apie 3 m aukščio ovališkas “rentinys” iš suskeldėjusių ir aptrupėjusių gipso, jo atmainos selenito bei dolomito sluoksnių. Šitos uolienos priklauso vadinamiesiems viršutinio devono Tatulos svitos Nemunėlio sluoksniams. Po tokiu balzganu keistoku “rentiniu”, kaip nurodė vietiniai gyventojai, dar buvusi maždaug pusės metro aukščio tuštuma, o po ja įgriuvos-šulinio dugnu iš vieno šono į kitą sruvenęs požeminis vanduo. Į apačią vis byrant statiems priemolingiems kraštams, naujoji karstinė įgriuva viršutinėje dalyje plėtėsi, bet sumažėjo jos gylis. Praėjus vos keletui metų, nuo subyrėjusio grunto užsikimšo apačioje esantys požeminiai kanalai, kaupėsi paviršinis (kritulių) vanduo, kol įgriuva tapo ežeriuku. Tačiau vandens lygis šioje įduboje nebūna pastovus: pavasarinio polaidžio laikotarpiu vanduo netgi ne visada sutelpa, išsilieja į aplinkinę pievą, o labiausiai jis nuslūgsta sausringiausiais metų tarpsniais (pvz. 1974 metų birželyje vandens gylis siekė tik 6 m). Būta pora atvejų, kai iš šios smegduobės visas susitelkęs vanduo buvo išbėgęs per dugne atsinaujinusias kiaurymes, kurias po kiek laiko vėl sandariai užkimšo nuo stačių šlaitų suvirtęs molingas gruntas. Nūnai Jaronio smegduobėje vandens nestinga: jo paviršius yra tik 0.5 m žemiau nuo viršutinio krašto. Šios įgriuvos skersmuo (viršuje) siekia apie 30 m, susidariusio ežeriuko joje gylis iš pradžių buvo maždaug 10 m. 1974 m. birželio mėn. atliktų matavimų duomenimis, Jaronio karstinėje įgriuvoje vandens didžiausias gylis buvo 6 m, vidutinis - 3 m, o vandens paviršiaus plotas sudarė 570 m2.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.557497042278044,56.173865291909067,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Užušilių pažintinis miško takas</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.753524480839417,56.266918947200381,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ąžuolpamūšės piliakalnis</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Ąžuolpamūšės piliakalnis yra dviejų upių santakoje. Iš šiaurės jį juosia Tatula, iš pietų ir pietvakarių – Ūgės upė. Piliakalnio aikštelė trikampė, apie 60 m ilgio. Šoniniai šlaitai apie 9 m aukščio, beveik statmeni, ardomi upių tėkmių.  </p><br>
+<p><b>Aprašymas:</b> Ąžuolpamūšės piliakalnis yra dviejų upių santakoje. Iš šiaurės jį juosia Tatula, iš pietų ir pietvakarių – Ūgės upė. Piliakalnio aikštelė trikampė, apie 60 m ilgio. Šoniniai šlaitai apie 9 m aukščio, beveik statmeni, ardomi upių tėkmių. Į rytus nuo piliakalnio ariamame lauke vos žymūs senovės gyvenvietės pėdsakai. 
+Iš rastų lipdytos grublėtos keramikos šukių manoma, kad žmonės piliakalnyje gyveno I tūkstantmetyje. 
+Ūgės upės kairiajame krante, šios upės slėnio šlaite trykšta Ąžuolpamūšės arba Baltaduonio verdenė. Seniau čia buvo įrengtas rentinys, bet dabar visiškai sunykęs, likusi 1 m skersmens vandens duobutė, iš kurios vandens perteklius bėga į upės slėnį. Versmė trykšta negausiai, bet pastoviai. Vanduo skaidrus, bekvapis, geriamas. Vietiniai gyventojai sausrų ir šalčių metu veždavosi į namus. Dabar girdo ganomus gyvulius. Potvynių neužliejamas.
+Netoliese, Ūgės upės vagoje, prie brastos trykšta dar vienas Ažuolpamūšės šaltinis. Šaltinį vietiniai gyventojai vadindavo Strekonio verdene. Vanduo skaidrus, kietas. Vandens perteklius iš šaltinio nuteka į Ūgės upę. XX a. 8 dešimtmečio pradžioje šaltinis buvo kairiajame Ūgės šlaite. Bet vanduo išplovė šlaitą ir šaltinio versmė su vertikalia į žemę sukaltų lentų rentinio briaunomis tapo apleistas upės vagoje. Šaltinio vandenį valstiečiai veždavosi į namus žiemą ir vasarą, kai išsekdavo šuliniai.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.46048630021382,56.123347169759882,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Likėnų parkas</name>
+        <description>
+          <![CDATA[Parkas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Parkas (15 ha) yra Likėnuose. Mišraus plano parke auga paprastosios pušys, kanadinės tuopos, tųjų alėja. Jau aukšti paprastieji ąžuolai, karpotieji ir plaukuotieji beržai, ąžuolai, karpotieji ir plaukuotieji beržai, mažalapės liepos. Ošia Bankso, sibirinės, Vermuto pušys. Dar jaunos dygiosios ir baltosios eglės, europiniai maumedžiai, o sibiriniai jau augaloti. Tarp parko medžių pilkieji kėniai, paprastieji glaustašakės formos ąžuolai, bukai, gluosniai, amūriniai kamšteniai, uosialapiai, totoriniai klevai, platanalapių - raudonlapės formos atstovai. Gausu įvairių rūšių tuopų: kininių, berlyninių, pilkųjų, balzaminių, kanadinių. Ypač patrauklios glaustašakės kininės tuopos rombiškais lapais, kybančiais ant trumpo lapkočio. Kol kas Lietuvoje žinomi tik vyriškieji jų egzemplioriai, auga penkiose Lietuvos vietose. Drūti žalieji, pensilvaniniai ir paprastieji uosiai. Iš krūmų rutuliška laja čia išsiskiria trilapė ptelija. Medžių ir krūmų rūšių gausa, tvarka ir grožiu Likėnų parkas pralenkia ne vieną parką. Jame įrengta aikštelių, yra tvenkinys, šaltinių. Parkas ribojasi su naturaliu mišku. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.62617135378995,56.199427299142393,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pabiržės Švč. Trejybės katalikų bažnyčia </name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Švč. Trejybės bažnyčia priklauso Pabiržės kraštovaizdžio architektūros draustiniui. Ši bažnyčia pastatyta 1898-1910 m. (architektas Florijonas Viganovsdkis). Neogotikinio stiliaus bokštai kyla net į 48 m aukštį ir  matomi iš 10-15 km. Restauruojama 1772 m. statyta varpinė. Vienoje iš nišų rasta įdomi nukryžiuotojo freska yra atkurta. Įdomus barokinis 1785 ar 1796 m. statytas klebonijos namas. Bažnyčios šventoriuje 1997 m. pastatytas paminklas iš Pabiržės kilusiems politiniams kaliniams atminti (archit. A. Urbtas).
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.639025623859418,56.185302912604172,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pažintinis-geologinis takas</name>
+        <description>
+          <![CDATA[Geologinė vertybė<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> 2012 m. rudenį maždaug 2,5 ha ploto teritorijoje įrengtas pažintinis-geologinis pėsčiųjų takas su sutankinto grunto danga, kurio bendras ilgis yra apie 700 m. Tako pradžia yra prie smegduobės „Geologų duobė“, toliau takas veda pro smegduobę „Lapės ola“, o pasiekus „Gojelio“ pietvakarinį pakraštį „įveda“ į čia tūnantį smegduobyną, kuriame yra smegduobė “Barsuko ola” ir kitos dar didesnės bei gilesnės smegduobės. Toliau takas vingiuoja į šiaurę ir veda palei „Gojelio“ pakraštyje išsidėsčiusias smegduobes, leidžiasi pro karstinį atlikuonį, lanku juosia vieną didžiausių smegduobių ir grįžtant dar nusileidžia į kitą smegduobę, iš kurios pakilus tarp kitų mažesnių vėl grįžtama į „Gojelio“ pakraštį. Taigi, takas leidžia apžvelgti net 13 smegduobių, iš kurių trys yra sudėtingesnės savo forma, ir kurių duburiuose yra susijungusios po dvi ar tris anksčiau atsivėrusios smegduobės. Take taip pat įrengti mediniai laiptai, tilteliai ir informaciniai ženklai. 
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.693104353617116,56.210036788770758,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Širvėnos ežeras </name>
+        <description>
+          <![CDATA[Hidrografinė vertybė<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Širvėnos ežeras – seniausias dirbtinės kilmės ežeras Lietuvoje, didžiausias tvenkinys Šiaurės Lietuvoje. Jis atsirado XVI a. pabaigoje Kristoforui Mykolai Radvilai Perkūnui liepus užtvenkti Apaščios ir Agluonos upes. Taip atsirado 325,4 ha ploto ežeras – tvenkinys. Jis buvo skirtas Biržų pilies ir miesto prieigoms saugoti. Širvėnos vidutinis gylis tik 2,2 m, apie 12 km ilgio kranto linija labai vingiuota.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.760179025590581,56.214708901098454,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biržų pilis</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Biržų pilis priskiriama kultūriniam rezervatui. Tai 1586-1589 m. statyta bastioninių pilių tipo ryškiausias paminklas Lietuvoje, statytas Kristupo Radvilos (Perkūno lėšomis) kovoms su švedais atremti. Pilis du kartus buvo atitekusi švedams. Atgavę Biržus, Radvilos pilį restauravo 1655-1669 m. pagal magistro Ulricho  T. Spinovkio projektą. Ruošiantis Šiaurės karui, Biržų pilyje 1701 m. Lenkijos ir Lietuvos karalius Augustas II ir Rusijos caras Petras I  pasirašė sutartį kovai prieš švedus. 1704 m. švedai pilį užpuolė ir susprogdino. Išliko tik dalis rūmų sienų, rūsių, pilies vartų tiltas, grioviai. 1978-1986 m., pagal architekto E.Purlio projektą atstatyta pilis ir patys rūmai kuriuose įkurtas kraštotyros muziejus bei biblioteka. Pilyje vyksta įvairūs koncertai, organizuojamos parodos. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.753289353024034,56.204857647483209,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Evangelikų reformatų bažnyčia</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Neogotikinė evangelikų reformatų bažnyčia, pastatyta 1874 m. pagal Rygos architekto H. Šelo projektą, primena Radvilas, kurie nuo Kristupo Radvilos perkūno net prievarta platino reformaciją: miesto burmistru, patarėju, suolininkais galėjo būti evangelikų tikybos žmonės – katalikai neįsileidžiami. Kristupas Radvila įsakė būtinai lankyti evangelikų reformatų bažnyčią. Už pamaldų praleidimą grėsė baudos. Tokios religinės politikos pasekmė – Radvilų klestėjimo laikais Biržuose gyveno beveik išimtinai evangelikai reformatai. Karolina Radvilaitė, antrą kartą ištekėjusi už kataliko vyro ir priėmusi katalikybę, 1692 m. paskyrė lėšų katalikų bažnyčios statybai. Vėliau Biržus valdę Nesvydžiaus Radvilos savo vietininkais skirdavo katalikus. Kol galiausiai tikybos nesutarimai aprimo.   </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.75829360426567,56.207786178780744,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šv. Jono Krikštytojo bažnyčia </name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Biržų katalikų Šv. Jono Krikštytojo bažnyčia statyta 1857-1861m. grafo Jono Tiškevičiaus lėšomis. Manoma, kad pagal Vilniaus universiteto auklėtinio Tomo Tiškevičiaus projektą (jis projektavo ir Astravo rūmus). Architektūriniu požiūriu bažnyčia – darni klasicizmo ir baroko stilių harmonija, nors vyrauja vėlyvojo baroko bruožai (trijų tarpsnių bokštai). </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.757047022004556,56.204038478581523,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

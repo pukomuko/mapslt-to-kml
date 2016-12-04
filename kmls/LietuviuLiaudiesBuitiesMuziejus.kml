@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lietuvių liaudies buities muziejus</name>
+    <description><![CDATA[Lietuvių liaudies buities muziejus]]></description>
+    <Folder>
+      <name>Lietuvių liaudies buities muziejus</name>
+      <Placemark>
+        <name>Lietuvos liaudies buities muziejus</name>
+        <description>
+          <![CDATA[Muziejus, ekspozicija<br>
+<p>Muziejus po atviru dangumi įkurtas 1966 m. Ekspozicijos pagrindas - Lietuvos kaimų, dvaro pastatų, miestelių ir sodybų statiniai, jų eksterjero ir interjero elementai, perkelti iš įvairių Lietuvos vietovių ir pastatyti muziejaus teritorijoje 175 ha plote. </p><br>
+<p>S. Nėries g. 6, Rumšiškės</p><br>
+<p><b>Aprašymas:</b> Lietuvos liaudies buities muziejus įkurtas 1966 metais marių pakrantėje, kalvotose Pravienos upelio šlaituose. Jis kaupia, tiria, saugo bei po atviru dangumi eksponuoja antrosios XVIII amžiaus-pirmosios XX amžiaus pusės Lietuvos kaimų, miestelių sodybų statinius, jų eksterjero ir interjero elementus. Muziejuje pristatomi keturi Lietuvos etnografiniai regionai, išdėstyti būdingame karštovaizdyje, taip pat miestelio fragmentas, liaudies technikos paminklai. Su amatininkų aplinka ir darbu susipažinsite veikiančiuose puodžių, medžio tekintojų, drožėjų ir kitų amatininkų dirbtuvėse. Muziejuje rengiamos ne tik parodos, bet ir koncertai, ekskursijos, įvairios papročių šventės. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.194281353777441,54.866592923999349,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

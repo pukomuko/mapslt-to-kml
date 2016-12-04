@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Varnių regioninis parkas</name>
+    <description><![CDATA[Varnių regioninis parkas]]></description>
+    <Folder>
+      <name>Varnių regioninis parkas</name>
+      <Placemark>
+        <name>Aukštagirės apžvalgos bokštas</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.327916681452368,55.612408238711836,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sprūdės piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Piliakalnis priskiriamas "parako gadynei" – vėlesniam kovų su kryžiuočiais periodui. Jo aikštelė iškilusi 216 m. virš jūros lygio, apvali. Piliakalnį juosia net 3 pylimų juostos, kurių aukštis siekia iki 4m. Piliakalnio aplinkoje rasta akmeninių kirvukų, ietigalių. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.485977373283447,55.784170839932081,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Medvėgalio piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Medvėgalis - iškiliausias Žemaitijos kalnas (anot Č. Kudabos :"Tarsi šio krašto kalvų karalius"). Kalvos aukštis - 234 m. Taip pat Medvėgalis -  centrinė, žymiausia tvirtovė gynusi Žemaitiją nuo kryžiuočių antpuolių. Medvėgalio archeologinį kompleksą sudaro Medvėgalio, Pilies, Piliorių, Alkos, Ąžuolų, Sumonų kalvos su kūlgrinda.   </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.38850490159491,55.628766813484674,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šatrijos piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Šatrija - vienas žymiausių archeologinių paminklų ne tik Žemaitijoje, bet ir Lietuvoje. Apie tai liudija gausūs archeologiniai radiniai: IX-XII a. degintiniai kapai, laidojimo urnos, ašariniai puodeliai, dubeniuoti akmenys, gintaro ir stiklo papuošalai, akmens kirvukai. Archeologų manymu, kalvos viršuje yra stovėjusi medinė pilis, o pašlaitėje žmonės gyveno jau nuo II a. prieš Kristų. Manoma, čia buvus vieno svarbiausių  senojo lietuvių tikėjimo centrų, sunaikintų įvedus Žemaitijoje krikščionybę. Apie tai, jog pirmieji Žemaičių vyskupystės kunigai rezidavo Luokėje,o ne vyspupystės sostinėje Varniuose, kad prižiūrėtų pagonių šventvietę, savo veikaluose rašė Simonas Daukantas bei Motiejus Valančius. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.558046379064503,55.872741890142208,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paršpilio (Burbiškių) piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> XIV-XVa. Paršpilio piliakalnis užėmė svarbią strateginę padėtį. Čia stovėjusi Paršpilio pilis dažnai minima 1384-1402 m. Lietuvos kelių aprašymuose, padarytuose kryžiuočių žvalgų: "…2 mylios iki Paršpilio, kur daroma pirma nakvynė krašte, ten pašaro, malkų, ir vandens užtenka, pastoviui visko užtenka, tame krašte galima ir dvi naktis prabūti." Pastovių kryžiuočių žvalgai vadindavo vietą, kur kariuomenė pasidalijusi į būrius vykdavo plėšti vietos gyventojų, po to sutartu laiku būriai grįždavo atgal.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.279110189356938,55.652530354988173,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilionių (Švedkalnio) piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Piliakalnis  priskiriamas karų su kryžiuočiais laikotarpiui. Dėl ryškiai matomų piliakalnio gynybinių įtvirtinimų liekanų (terasų) jis primena laiptuotą piramidę. Pietiniame kalvos šlaite yra gausus kultūrinis sluoksnis – rasta lipdytos keramikos  gruoblėtu paviršiumi. Įžymus archeologas L. Kšivickis taip žavėjosi Bilionių piliakalniu, jog įvardijo jį vienu įdomiausių ne tik Lietuvos, bet ir viso pasaulio archeologijos paminklu.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.321191099394706,55.596951742415229,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sietuvos kūlgrinda</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> kūlgrindos įrengtos žemaičių ir kuršių kovų su Kryžiuočių ir Kalavijuočių ordinais laikotarpiu: XIII - XIV a. Kūlgrindos, kaip ir medgrindos (slaptas povandeninis kelias, grįstas rąstais), dar labai mažai Lietuvoje tyirinėta archeologinių paminklų grupė. Jos buvo įrengiamos įvairiais proistorės laikotarpiais prie svarbiausių krašto piliakalinių, alkakalnių ir senųjų gyvenviečių, pavyzdžiui: Kernavėje, prie Medvėgalio, per Biržulio pelkynus ir kitur.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.293347604440807,55.662171898213714,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sklepkalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> 1904 m. mirus dvarininkui Leonardui Sakeliui, Pavandenės dvaro valdytojui, šioje stačiašlaitėje Gludo ežero pakrantės kalvoje jo sūnus Zigmantas Sakelis įrengė šeimos mauzoliejų. Į jį buvo perkelti ir kitų Sakelių bei ankstesnių Pavandenės dvaro savininkų Danilavičių palaikai. 1930 m., mirus Elenai Sakelienei, mauzoliejus rekonstruotas – naujai išmūrytos akmeninės jo sienos, uždengtas stogas. Šiame mauzoliejuje buvo palaidotas Rainiuose 1940 m. nukankintas Zigmantas Sakelis.   </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.499398833254993,55.777404977862183,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moteraičio piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Piliakalnis įrengtas masyvios aukštumos aukščiausioje dalyje, nuo jūros lygio pakilusioje beveik 219 metrų. Pietinė kalno viršaus dalis 3 m aukštesnė už šiaurinę. Joje išsiskiria 60 x 30 m dydžio pakilumėlė, tarsi kalvelė ant kalno, savo forma primenanti netoliesę esančią galingąją Girgždūtę. Kalvelės aukščiausioje vietoje stovi medinis kryžius, dar iš tolo kreipiantis keleivio žvilgsnį į šią įspūdingą kalvą – buvusią tvirtovę. Kultūrinis sluoksnis, matyt, kiek nuslinkęs - aptiktas kalno terasoje. Čia rasta I tūkst. po Kr.  lipdytinės keramikos šukių.                </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.501250141522871,55.764445768246567,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stervo gamtinis rezervatas</name>
+        <description>
+          <![CDATA[Paukščių stebėjimo vieta<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Stervas (plotas 137,1 ha), tai eutrofinis, itin vakarinėje dalyje, pelkėjantis ežeras. Jo išlikimą lemia ežero rytinėje pakrantėje ant Govijos upelio įrengtas vandens reguliatorius ir apie 700 metrų ilgio supiltas pylimas. Abu šie hidrotechniniai įrenginiai buvo įrengti 1965 metais, vykdant Biržulio "užkariavimą".  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.403674447988923,55.77387746057051,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varnių regioninio parko lankytojų centras</name>
+        <description>
+          <![CDATA[Lankytojų centras<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Lankytojų  centras su ekspozicija "Septyni keliai iš Varnių" yra Varnių regioninio parko direkcijoje Dumbrių g. 3, Ožtakių km., Varnių sen. Telšių raj., tel/faks. 8 444 47415, el. p. varniu-rp@takas.lt. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.384037540768443,55.732172865303347,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vembūtų piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Spėjama, jog Vembūtų piliakalnis buvusio žemaičių kunigaikščio Vykinto miesto teritorija. Ipatijaus metraštyje minima Vykinto pilis Tvirement yra vienintelė visiems rusų metraščiams žinomų šio laikotarpio Žemaitijos pilių. Iš metraščio atrodo, jog tai šio krašto centras, turėjęs stiprius įtvirtinimus ir galėjęs „priglausti" daug gynėjų. 1251 m., kai vyko kova tarp Mindaugo ir prieš jį sukilusių vasalų, šiame „Vykinto mieste" stovėję ne tik žemaičių, bet ir polovcų bei rusų kunigaikščio Danilo pulkai. Visas Vembūtų pilies kompleksas rytų kryptimi tęsiasi daugiau nei vieną kilometrą. Tai rodo, kad Vembūtų pilis buvo vienas stambiausių gynybinių objektų Žemaitijoje. Šiuose įtvirtinimuose galėjo būti telkiamos gausios karinės pajėgos. Tuo šis objektas pralenkia ir netoli jo esančių Medvėgalio, Burbiškių ir Plinijos pilių galimybes. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.283343839422983,55.726368485286571,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varnių katedra (dabartinė šv.Petro ir Pauliaus parapinė bažnyčia)</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Iki krikščionybės dabartinės Varnių katedros pastato vietoje buvo pagoniška alkavietė. Katedros pastatas pastatytas 1680-1691 m. po Varniuose 1680 m. kilusio gaisro (fundatorius Žemaičių vyskupas - Kazimieras Pacas). Katedrai parinkta gana saugi vieta – dirbtinė Varnelės upės sala. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.36988759435792,55.743608273688352,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pavandenės Šv. Onos bažnyčia su varpine</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> 1620 m. įkurta Pavandenės parapija ir funduojant Pavandenės dvaro valdytojui F. B. Akmenskiui pastatyta šv. Onos bažnyčia su varpine - medinės sakralinės architektūros pavyzdys su pastebimais baroko ir klasicizmo architektūros stilių elementais (bažnyčia perstyta 1802 m.) </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.486006965650574,55.771694891863305,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šv. Aleksandro parapijinė bažnyčia</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Bažnyčia laikoma viena pirmųjų kulto pastatų Žemaitijoje, funduota paties kunigaikščio Vytauto, pašventinta 1417 m. kaip katedros bažnyčia. Tačiau netrukus 1418 m. žemaičiams sukilus sudeginta ir jau 1421 m. vėl atstatyta </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.369392420640668,55.741436029469703,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buvusios Varnių kunigų seminarijos pastatas</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Seminarijos pastatas statytas 1767-1770 m. (vėlyvasis barokas) Žemaičių vyskupo J. Lopacinskio iniciatyva buvusios Varnių katedros sklype prie vyskupo A. Tiškevičiaus rūpesčiu pradėtos statyti naujos katedros varpinės. Seminarija šiame pastate veikė iki 1865 m.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.371915825727218,55.743984623688391,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Girgždūtės piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Tai antras pagal aukštį Žemaitijos piliakalnis (228 m.). Pati kalva labai išvaizdi – su dviem viršūnėmis. Vienoje kalvų yra nedidelė dauba – sovietmečiu nusausinto ežerėlio palikimas. Manoma čia anksčiau buvus pagoniškų apeigų vietą, o kitoje kalvoje stovėjus pilį.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.481939108036261,55.691654144736738,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Požerės Kristaus Atsimainymo bažnyčia su varpine</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> 1771 m dvarininko P. Zaleskio pastatyta Kristaus Atsimainymo bažnyčia su varpine. Bažnyčia – medinė, sienos pušinių rąstų, be papuošalų, architektūra nesudėtinga, viduje – gražaus darbo medinis altorius, pasižymintis aukšta medžio drožinių technika, pagamintas vietos dievadirbių. Bažnyčioje yra stebuklinga laikoma Viešpaties Jėzaus statula. Garsūs Kristaus Atsimainymo atlaidai (08 06), kurie sutraukia aplinkinių kaimų bei miestelių gyventojus.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.302679150199982,55.634586631327394,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luokės Visų Šventųjų bažnyčia</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> 1417 m. Vytauto pavedimu čia pastatyta viena pirmųjų Žemaitijoje Visų Šventųjų vardo bažnyčia </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.526616298370893,55.891232211299631,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apžvalgos bokštelis</name>
+        <description>
+          <![CDATA[Apžvalgos aikštelė<br>
+<p>Debesnų telmologiniame draustinije šalia botaninio tako </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.351818703812061,55.737786233734035,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lūkso ežero stovyklavietė</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.340621704553822,55.725406846100881,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gintarų įlanka</name>
+        <description>
+          <![CDATA[Hidrografinė vertybė<br>
+<p>Šioje vietoje galite susirasti savo gintaro gabalėlį </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.356943472364105,55.724725292690103,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paminklas vyskupui Motiejui Valančiui</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Paminklas pastatytas 1927 m. skvere, priešais namą, kuriame savo vyskupavimo laikotarpiu M.Valančius gyveno. Biusto autorius - skultorius A. Aleksandravičius, cementinio postamento – A. Klimauskas. Skveras pradėtas tvarkyti dar 1923 m. pulkininko Saladžiaus ir jam pavaldžių kariškių jėgomis.
+1951 m. naktį paminklo biustas dingo, o postamentas visiškai sunaikintas dar po 20 m. 1988 m. biustas buvo surastas ir 1990 liepos 28 d., pastačius naują granito postamentą, atstatytas (postamento autorius - A. Rimeika, darželio sutvarkymo projektą parengė landšafto architektė I. Daujotytė). </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.37128099816325,55.745078900262719,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spigino ragas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>archeologijos paminklas – Spigino ragas ir sala. </p><br>
+<p><b>Aprašymas:</b>  Čia rasta mezolito stovyklos liekanos, aptikta didelė titnago dirbinių kolekcija.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>22.417093803330854,55.767910665146765,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atokvėpio aikštelė</name>
+        <description><![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.40602364546552,55.768968081861196,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>informacinis stendas</name>
+        <description><![CDATA[Informacinis stendas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>22.411210068272645,55.767941717097912,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

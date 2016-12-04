@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Plazės gamtinis rezervatas</name>
+    <description><![CDATA[Plazės gamtinis rezervatas]]></description>
+    <Folder>
+      <name>Plazės gamtinis rezervatas</name>
+    </Folder>
+  </Document>
+</kml>

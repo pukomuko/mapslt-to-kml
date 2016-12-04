@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Trakų istorinis nacionalinis parkas</name>
+    <description><![CDATA[Trakų istorinis nacionalinis parkas]]></description>
+    <Folder>
+      <name>Trakų istorinis nacionalinis parkas</name>
+      <Placemark>
+        <name>Trakų bažnyčia</name>
+        <description><![CDATA[Istorinis paveldas<br> <p> </p><br> <p>Birutės g. 5, Trakai</p><br> ]]></description>
+        <Point>
+          <coordinates>24.934401424207085,54.642985813502165,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Naglių gamtinis rezervatas</name>
+    <description><![CDATA[Naglių gamtinis rezervatas]]></description>
+    <Folder>
+      <name>Naglių gamtinis rezervatas</name>
+      <Placemark>
+        <name>Lydumo ragas</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>21.083277293824676,55.440095021786242,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

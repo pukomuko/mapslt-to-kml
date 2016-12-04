@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Čepkelių valstybinis gamtinis rezervatas</name>
+    <description><![CDATA[Čepkelių valstybinis gamtinis rezervatas]]></description>
+    <Folder>
+      <name>Čepkelių valstybinis gamtinis rezervatas</name>
+      <Placemark>
+        <name>ČEPKELIŲ MOKOMOJO TAKO BOKŠTAS IR APŽVALGOS AIKŠTELĖ SU INFORMACINIU STENDU</name>
+        <description>
+          <![CDATA[Apžvalgos aikštelė<br>
+<p>ČEPKELIŲ MOKOMOJO TAKO BOKŠTAS – suteikia galimybę nors akies krašteliu žvilgtelėti į vieną vertingiausių mūsų krašto objektų – Čepkelių raistą.  </p><br>
+<p><b>Aprašymas:</b> Čia iš apžvalgos bokšto atsiveria didžiuliai miškingomis salomis iškaišyti padūmavusios pelkės plotai, o medinis (pritaikytas neįgaliesiems) takas nuveda į apžvalgos aikštelę. 
+Rezervatuose siekiama užtikrinti kuo mažesnį natūralių gamtos procesų trikdymą, todėl žmonių lankymasis šiose teritorijose ribojamas. Gerbkime šią nuostatą. 
+Rezervate Jūs galite lankytis pažintiniais tikslais specialiai tam įrengtame take. Nuo balandžio 1 d. iki liepos 1 d. pažintiniais tikslais lankytis rezervato mokomajame take leidžiama tik lydint direkcijos darbuotojui arba licenziją turinčiam gamtos gidui. Šiuo laikotarpiu per dieną gali būti organizuojama ne daugiau 2 ekskursijų ne didesnėms nei 20 žmonių grupėms. 
+Nuo liepos 1 d. iki balandžio 1 d. pažintiniais tikslais lankytis rezervato mokomajame take leidžiama taip pat ir savarankiškai, turint direkcijos išduotą raštišką leidimą arba lydint mūsų gidui. Šiuo laikotarpiu ekskursijų skaičius per dieną neribojamas.
+Dėl ekskursijų kreipkitės į Marcinkonių lankytojų centrą tel. 8 310 44466 arba el. paštu: info@dzukijosparkas.lt; cepkeliai@takas.lt. Ekskursijų laiką derinkite iš anksto.
+Mokslininkai rezervate gali vykdyti tyrimus ir stebėjimus. Šių tyrimų programos turi būti suderintos su rezervato direkcija ir negali prieštarauti galiojantiems teisės aktams.  Atlikus tyrimus parengiama ataskaita. 
+Moksleivių ir studentų grupės rezervate gali lankytis mokomaisiais tikslais, siekiant tirti ir stebėti gamtą mokomosios praktikos metu. Tokias grupes turi lydėti grupių vadovai. 
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.42893894686506,54.021326712764363,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apžvalgos aikštelė</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>24.43389461335526,54.018305640456298,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,715 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Veisiejų regioninis parkas</name>
+    <description><![CDATA[Veisiejų regioninis parkas]]></description>
+    <Folder>
+      <name>Veisiejų regioninis parkas</name>
+      <Placemark>
+        <name>Vainežerio dvaro parkas</name>
+        <description>
+          <![CDATA[Parkas<br>
+<p>Vainežerio dvaro rūmai iškilo XVIII amžiuje, šalia užveistas parkas, du sodai, medelynas. Vainežerio dvaro parkas - vienas patraukliausių ir lankomiausių objektų ne tik Veisiejų regioninio pako teritorijoje, bet ir visame Lazdijų rajone. </p><br>
+<p><b>Aprašymas:</b> Vainežerio buvusio dvaro sodybos kompleksas įrašytas į nekilnojamųjų kultūros vertybių registrą, paskelbtas Valstybės saugomu, dendrologinę vertę turinčiu gamtos paveldo objektu.
+
+Vainežerio dvaro parkas - vienas patraukliausių ir lankomiausių objektų ne tik Veisiejų regioninio pako teritorijoje, bet ir visame Lazdijų rajone. Tai lėmė kraštovaizdžio grožio ir istorinių vingių dermė.  
+
+Nuo XVI a. iki XX a. pradžios Vainežerio dvarą ir jo derlingas žemes valdė keletas didikų: V. Kopočius, M. Oginskis, J. Masalskis, M. Žinevas, Tiškevičius, I. Ablamavičius ir jo dinastija.  Vainežerio dvaro rūmai iškilo XVIII amžiuje, šalia užveistas parkas, du sodai, medelynas. 
+
+Ignaco Ablamavičiaus valdymo laikais, 1831 metų gruodžio 23 d., Justinavo dvare mirė grafaitė, sukilimo dalyvė Emilija Pliaterytė. Ji palaidota Kapčiamiesčio senosiose kapinėse. 
+
+1922 metais, įsitvirtinus Lietuvos nepriklausomybei, dvaro žemės buvo išdalintos ,,dvarokams“ ir Lietuvos savanoriams. Rūmuose įsikūrė Seinų apskrities urėdija ir Vainežerio pradinė mokykla. Karo metais dvaras nenukentėjo. 1948 metais dvaro pastatai sudegė, sodai nunyko. 
+
+Vainežerio dvaro parke vyraujančios medžių rūšys: klevai, uosiai, vinkšnos, taip pat sutinkami svetimžemiai medžiai: pilkasis kėnis ir europinis maumedis. Vakarinėje ir rytinėje parko dalyse dominuoja įspūdingos alėjos su šimtamečiais klevais, liepomis ir skroblais. Senuose medžiuose gausu drevių, kuriose veisiasi įvairių rūšių paukščiai, vasarą įsikuria šikšnosparniai, naminių bičių spiečiai. Atviroje pievoje, apjuostoje ovalo formos alėja, pastatytos konstrukcijos molyje besiveisiančioms laukinių bičių rūšims. 
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.67411689015999,54.075200392010395,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Partizanų Stasio Sorakos - Mindaugo ir Leono Ivoškos - Lapino kapas</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>1945 m. už Lietuvą žuvusių Partizanų Stasio Sorakos - Mindaugo ir Leono Ivoškos - Lapino kapas </p><br>
+<p>Rūdos g., Veisiejai</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.688472547852161,54.108624978325828,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tarybinių karių, žuvusių II pasauliniame kare, kapinės Kapčiamiesčio miestelyje</name>
+        <description><![CDATA[Paminklas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.667862384016477,54.000601908527528,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spartų kaimo kapinės</name>
+        <description><![CDATA[Istorinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.665392650726716,54.169991514121079,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Čivonių kaimo kapinės vad. &quot;Duobele&quot;</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Čivonių senkapiai - tai lygi, neišsiskirianti nuo aplinkos vieta. Gyventojai gerai prisimena čia prieš II-ąjį pasaulinį karą stovėjus kryžius, buvus kauburius. Veikiausiai tai kaimo kapinaitės. </p><br>
+<p><b>Kaip atvykti:</b> Čivonių kaimo kapinės yra 300 m į R nuo kelio Lazdijai-Veisiejai, miško PR dalyje, prie balos.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.635324532692803,54.134188870443424,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neliūbonių kaimo kapinės</name>
+        <description><![CDATA[Istorinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.793223048143084,54.04355568515961,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Žuvimo vieta</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Žuvimo vieta susijusi su kova už Lietuvos nepriklausomybę. 1949-02-17 bunkeryje, nepavykus prasiveržti iš apsupimo, žuvo Dainavos apygardos Šarūno rinktinės Mindaugo tėvūnijos būrio vadas Antanas Vailionis-Papartis (g. 1923 m.) ir to paties būrio partizanas Albinas Sakalauskas-Audra (g. 1922 m.).  </p><br>
+<p><b>Kaip atvykti:</b> Žuvimo vieta yra Taikūnų kaimo R dalyje, 0,19 km į R nuo Šadžiūnų - Viktarino kelio, 3 m į V nuo Vilkaičio ež.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.773790505905563,54.067920473409451,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bunkeris-slėptuvė</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Bunkeris-slėptuvė buvo įrengtas Vilkaičio ež. šlaite. Išlikusi tik užslinkusi duobė (2,8 m ilgio, 2 m pločio). Duobės dugne auga beržas. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.773766395276972,54.067894275102908,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų miesto žydų senosios kapinės</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Senosios žydų kapinės yra nedidelėje kalvoje, apaugusioje retomis pušimis. Aptvertos vielos tinklo tvora. Išlikę keletas senų akmeninių antkapinių paminklų. Stovi naujas paminklinis akmuo, kurio priekinėje pusėje esančio juodo akmens lentoje yra įrašas, jog šioje vietoje esančios žydų senosios kapinės. </p><br>
+<p><b>Kaip atvykti:</b> Kapinės yra 50-70 m į Š nuo Alyvų g., 40-45 m į R nuo Žvejų g. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.699467623332595,54.099158185523272,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vainežerio kaimo senosios kapinės</name>
+        <description><![CDATA[Istorinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.679514768011831,54.079974493362755,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barčių (Murgelių) kaimo kapinės</name>
+        <description><![CDATA[Istorinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.717479716817799,54.059456154094967,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paterų kaimo senosios kapinės</name>
+        <description><![CDATA[Istorinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.7433834965607,54.091796706739451,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mėčiūnų kaimo senosios kapinės</name>
+        <description><![CDATA[Istorinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.671340241875004,54.065496843963317,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kompozitoriaus Juozo Neimonto kapas Veisiejų kapinėse</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Veisiejuose maestro J. Neimontas gyveno 1922 – 1957 metais. </p><br>
+<p><b>Aprašymas:</b> Veisiejiečiai jį mena kaip labai inteligentišką, šviesų, malonų žmogų. Tai visais laikais populiarios dainos ,,Pasisėjau žalią rūtą” ir kitų autorius. Už nuopelnus lietuvių tautai 1938 metais Juozas Neimontas apdovanotas Lietuvos didžiojo kunigaikščio Gedimino ordinu. Mirė pas dukrą Mariją Rūtą Neimontaitę – Jurčiukonienę Žemaitijoje 1963 metais. Palaidotas Veisiejų miesto kapinėse šalia dukrelės Aldonos ir žmonos Marijos. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.700488154593252,54.100123637966071,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mėčiūnų senovės gyvenvietė</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>2001 metais Kultūros paveldo centro specialistai atliko žvalgomuosius tyrimus ir pagal atliktą akmens amžiaus kultūrinį sluoksnį nustatė minimą piliakalnį esant senovės gyvenviete. </p><br>
+<p><b>Aprašymas:</b> Mėčiūnų senovės gyvenvietė yra Ančios ežero vakariniame krante, Gudiškės miške. Tai mišku apaugusi 180 m ilgio Š-P kryptimi ir iki 160 m pločio kalva. Kalvos šlaitai yra iki 25 m aukščio. Kalvos viršuje yra apie 20x25 m dydžio nelygi aikštelė, o 3-4 m žemiau jos - didelė terasa. Iš šiaurės, rytų ir pietryčių senovės gyvenvietę juosia Ančios ežeras, o į vakarus ir pietvakarius - yra mišku apaugusi iki 15 gylio dauba, skirianti nuo gretimos aukštumos. Mėčiūnų senovės gyvenvietėje ištirtas 8 m 2 plotas. Rasti titnago skeltė ir nuoskalos, skaldytinis, ovalinio kirvelio fragmentas. Datuojama - akmens amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Pasiekiamas nuo Vainežerio važiuojant į rytus keliuku 1 km į mišką, miške keliukų sankryžoje pasukus į dešinę pietų kryptimi, už 350 m ­- į kairę rytų kryptimi, pavažiavus iki keliuko galo 1 km, paėjus 200 m į kairę šiaurės rytų kryptimi nuo jo mišku.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.701120806824097,54.077956871463549,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šlavantų piliakalnis su senovės gyvenviete</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p>Piliakalnis yra 6 km į Š nuo Veisiejų miesto, Šlavanto ežero vakariniame krante </p><br>
+<p><b>Aprašymas:</b> Piliakalnio šlaitai statūs, 13-14 m aukščio. Piliakalnio šiaurinis galas sutvirtintas pylimu. Piliakalnio aikštelė yra apie 30 m ilgio ir 20-25 m pločio. Piliakalnis naudotas X-XIV mūsų eros amžiuje. Piliakalnyje rasta lipdytos keramikos grublėtu paviršiumi ir žiestos keramikos. Piliakalnio pietvakarinėje papėdėje yra senovės gyvenvietės pėdsakų. </p><br>
+<p><b>Kaip atvykti:</b> Pasiekiamas keliu Gudeliai – Seirijai Gegutėje pasukus keliuku į dešinę pietuosna, už 450 m, keliuko susikirtime su nuo buvusio karjero ateinančiu keliuku, pasukus į kairę rytų kryptimi, pavažiavus 350 m iki ežero, paėjus į kairę šiaurėn 150 m – yra kitapus upelio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.649315433930465,54.15853481707957,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vainežerio senovės gynybinis įtvirtinimas vad. &quot;Okopka&quot;</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p>Senovės gynybinis įtvirtinimas įrengtas Ančios ežero pusiasalyje. </p><br>
+<p><b>Aprašymas:</b> Tai 5-6 m aukščio pylimas, žiedu juosiąs trapecijos formos aikštelę, kuri yra apie 60 m ilgio šiauriniame pakraštyje, 50 m ilgio pietiniame pakraštyje ir 40 m pločio. Pylimo viršus plokščias ir yra 2-4 m pločio. Prie pagrindo jis yra 15-20 m. pločio. Vainežerio senovės gynybinis įtvirtinimas greičiausiai naudotas dvarininkų XVII-XVIII a.
+Vainežerio gynybinis įtvirtinimas minimas ir Justinavos vardu, kadangi netoliese būta Justinavo dvaro.
+Vietos gyventojai pasakojo, kad 1812 m. šiame kalne buvę prancūzų apkasai – “okopkos” ir dėl to jis vadinamas “Okopkos kalnu”. 1863 m. čia slapstėsi sukilėliai.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.673420952987755,54.080034189411215,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taikūnų kapinynas</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Taikūnų kapinynas įrengtas 0,3 km į ŠR nuo Veisiejų - Viktarino kelio sankryžos su keliu į Beržinius ir tiek pat į Š nuo upelio, jungiančio Trikojo ir Vilkaičio ež., Vilkaičio ež. vakariniame krante. </p><br>
+<p><b>Aprašymas:</b> Archeologiniai tyrinėjimai kapinyne pradėti 1937 m. tiesiant kelią. Tyrimams vadovavo archeologas J. Puzinas. Archeologinių tyrimų metu rasta XIV a. II puse - XV a. datuojamų geležinių dirbinių. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.774125895997731,54.070175030861257,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kalnas vadinamas Prancūzkalniu</name>
+        <description>
+          <![CDATA[Mitologinis objektas<br>
+<p>Alkakalnis yra rytinėje kelio Veisiejai – Viktarina pusėje, 650 m į vakarus nuo Vilkinio ežero, 1 km į pietryčius nuo Verpyno ežero rytinio kranto, 1,1 km į rytus nuo Ilgio ežero šiaurinio kranto. </p><br>
+<p><b>Aprašymas:</b> Alkakalnis vadinamas Prancūzkalniu. Tai lėkšta kalvelė, apaugusi menkaverte žole. Pietinėje dalyje – beržynėlis. Teritorijos plotas 0,1 ha. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.772884075441592,54.051431546510067,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dainaviškių senkapis</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Senkapiai yra 250 m į vakarus nuo Ančios ežero vakarinio kranto, 100 m į rytus nuo kelio Kapčiamiestis - Veisiejai, 700 m į pietus nuo Šlavantėlio (Malūnėlio) upės, 1,5 km į pietryčius nuo Gudežerio ežero. </p><br>
+<p><b>Aprašymas:</b> Senkapiai netaisyklingos formos kalvelėje, pietvakarinė dalis apaugusi pušimis, kitur menkaverte žole. Anksčiau senkapiai buvo ariami. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.667460898737968,54.087384738210751,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stankūnų senkapis</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Senkapis yra 600 m į pietus nuo pietinio Zervylio ežero kranto, į šiaurę nuo Alytaus KSV Nr. 8 Stankūnų žvyryno, 1,7 km į pietryčius nuo kelio Leipalingis - Lazdijai - Kalvarija. </p><br>
+<p><b>Aprašymas:</b> Senkapis yra nedidelėje lėkštoje kalvelėje, apie 1,0 ha dydžio. Apaugę menkaverte žole, auga viena kriaušė. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.617860151155469,54.174486267629248,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų buvusio dvaro sodybos fragmentas (dešinysis fligelis)</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p>1743 – 1745 m. Veisiejų savininkas Lietuvos didysis etmonas Mykolas Masalskis pastatė U raidės formos reprezentacinius rūmus. 1928 m. centrinė rūmų dalis bei rytinis fligelis buvo nugriauti. Likęs vakarinis fligelis yra valstybės nuosavybė. </p><br>
+<p>Santarvės g. 9, Veisiejai</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.692837693149507,54.099953380784967,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų Šv. Jurgio bažnyčia</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p>Veisiejų Šv. Jurgio bažnyčia pastatyta 1817 metais. Dėl įspūdingo dydžio Veisiejų bažnyčia vadinama Dzūkijos katedra. </p><br>
+<p>Dariaus ir Girėno g. 1, Veisiejai</p><br>
+<p><b>Aprašymas:</b> Švento Jurgio bažnyčia pagrindiniu fasadu atgręžta į centrinę Veisiejų aikštę. Veisiejų bažnyčia pereinamųjų iš baroko į klasicizmą formų architektūros paminklas, baigtas statyti 1817 metais. Bažnyčia nors ir be bokštų, tačiau dėl stambaus tūrio ir auštesnės vietos, kurioje ji stovi, tik pastačius tapo itin ryškia miestelio dominante, gerokai padidinusia jo poveikį aplinkai. Dėl įspūdingo dydžio Veisiejų bažnyčia vadinama Dzūkijos katedra. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.694969276603043,54.101646864335116,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šlavantų Viešpaties apsireiškimo Švč. Mergelei Marijai bažnyčia</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p>J. Galeckas bažnyčią pastatė 1921 m.  </p><br>
+<p><b>Aprašymas:</b> Šlavantuose 1822 m. pastatyta koplyčia, priklausiusi Veisiejų parapijai. 1880 m. koplyčia išardyta, nuvežta į Šventežerį. Dėl lenkų teroro kunigas Juozas Galeckas iš Kučiūnų pasitraukė ir 1919 m. nupirko Šlavantų dvarą. Jo rūpesčiu 1920 m. įkurta parapija (iš Lazdijų, Šventežerio ir Veisiejų parapijų dalies kaimų). Dvare J. Galeckas įrengė kleboniją, o iš kluono 1921 m. pastatė dabartinę bažnyčią, netoli jos – mokyklą. </p><br>
+<p><b>Kaip atvykti:</b> Šlavantų bažnyčia stovi Gegutės kaime, 1,5 km į vakarus nuo Šlavantų kaimo, 8 km į šiaurės vakarus nuo Veisiejų.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.643409606409829,54.164360260951291,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų miestelio istorinis centras</name>
+        <description>
+          <![CDATA[Urbanistikos vertybė<br>
+<p>Senoji Veisiejų dalis susidariusi iki XIX a pab. Istorijos šaltiniuose jau 1501 m. minimas Veisiejų dvaras, vėliau buvo pastatyti puikūs rūmai, XVIII a viduryje prie rūmų įkurtas parkas. Senoje Veisiejų miestelio teritorijoje yra išlikę gana daug senų gyvenamųjų namų. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.694929910162692,54.102325555740137,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų dvaro parko alksnis</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Juodalksnis, kamieno apimtis 1,3 m aukštyje - 3 m, aukštis - 30 m, lajos aukštis - 17 m, skersmuo - 13 m, lajos forma - kupolas, projekcijos plotas 265 kv.m. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.690046135605513,54.099179462440695,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų dvaro parko uosis</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Paprastasis uosis, kamieno apimtis 1,3 m aukštyje - 5,2 m, aukštis - 31 m, lajos aukštis 22 m, skersmuo - 28,5 m, lajos forma - kupolas, projekcijos plotas 1275 kv.m.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.691071592144194,54.098364220267683,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taikūnų pušis</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Paprastoji pušis, kamieno apimtis 1,3 m aukštyje - 3,01 m, aukštis - 20 m, lajos aukštis - 7 m, skersmuo - 12 m, lajos forma - kupolas, projekcijos plotas 226 kv.m. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.773859312305145,54.067903959726856,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų miesto skulptūrų parkas</name>
+        <description><![CDATA[Parkas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.693439618596599,54.100888104475644,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų autobusų stotis</name>
+        <description><![CDATA[Autobusų stotis<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.69563592473493,54.101211081909561,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liudviko Zamenhofo paminklas gyvenamojo namo vietoje</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Namas yra Ančios ežero pakrantėje, Zamenhofo gatvėje. </p><br>
+<p>Zamehofo g., Veisiejai</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.70149174738782,54.103172963899304,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liudviko Lazario Zamenhofo paminklinis biustas Veisiejų miesto parke</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p>Paminklinis biustas (aut. J. Narušis) pastatytas 1998 – aisiais – 34 – ių Baltijos esperantininkų dienų, vykusių Veisiejuose, proga). </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.693389902271107,54.099127399390177,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paminklinė kompozicija Juozui Neimontui</name>
+        <description><![CDATA[Paminklas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.693940328770928,54.10128761896425,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trys išminčiai</name>
+        <description><![CDATA[Paminklas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.694455216944952,54.100585171942832,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų baptistų bendruomenės bažnyčia</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.696037608125298,54.099942484776463,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų krašto muziejus</name>
+        <description><![CDATA[Muziejus, ekspozicija<br> <p> </p><br> <p>Vytauto g. 47, Veisiejai</p><br> ]]></description>
+        <Point>
+          <coordinates>23.69662088851997,54.100947283856783,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų technologijų ir verslo mokyklos bendrabutis - viešbutis</name>
+        <description><![CDATA[Viešbučiai, apgyvendinimo paslaugos<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.703060013146935,54.093179233273887,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skulptūrų parkas - pažintinis takas &quot;Vaikystės sodas&quot;</name>
+        <description>
+          <![CDATA[Parkas<br>
+<p>Parkas pradėtas kurti 2007 m. pavasarį menininkų plenero "Veisiejų pavasaris" metu.  </p><br>
+<p><b>Aprašymas:</b> Parko projektuotojas ir įgyvendintojas - Lietuvos tautodailininkų sąjungos narys, medžio drožėjas, skulptorius Antanas Česnulis (Druskininkai). Galutinai suformuoti parką planuojama 2014 m. Parko kūrėja ir prižiūrėtoja V.Į. Veisiejų miškų urėdija </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.675824489097028,54.104449881227723,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų dvaro parkas</name>
+        <description>
+          <![CDATA[Parkas<br>
+<p>Parkas įkurtas XVII a. Parke auga apie 2000 rūšių medžių, taip pat Veisiejų uosis - gamtos paminklas.  </p><br>
+<p><b>Aprašymas:</b> XVII a. įkurtas dvaro parkas, užėmė 5,9 ha plotą. XIX a. parkas pertvarkytas į peizažinį. Parkas buvo suniokotas per I ir II Pasaulinius karus.
+Praūžus karų audroms, veisiejiečiai ėmėsi parko tvarkymo darbų. Parke įrengtas stadionas, futbolo, tinklinio ir krepšinio aikštelės. Parke vyksta rajoninės dainų ir šokių šventės, mitingai ir kiti renginiai.
+Veisiejų parko plotas 17,5 ha. Svarbiausias parko elementas – labai aukštų, ratu sodintų dvidešimt dviejų mažalapių liepų ratas. Dabar liepos, kurių amžius apie 200 metų, supa šokių aikštelę. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.689326515633031,54.099392775117991,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VĮ Veisiejų miškų urėdija</name>
+        <description>
+          <![CDATA[Girininkija<br>
+<p>Veisiejų (Seinų) urėdija įkurta 1919 m. liepos mėn. I d. septintoje pagal dydį Lietuvos girioje (vadinamoje Leipalingio - Kapčiamiesčio giria - pūščia). Urėdijos būstinė tuomet buvo Papečių kaime. Nuo 1920 m. ji persikėlė į Justinavo (vėliau pavadinto Vainežeriu) dvarą, prieš pat karą - į Veisiejus. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.677056955920449,54.104901363618438,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vido tomkevičiaus kaimo turizmo sodyba</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Gegutės k., Šlavantų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.645384072600336,54.161834019808047,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viktoro Stankevičiaus kaimo turizmo sodyba &quot;Joginta&quot;</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Kalvelių k., Veisiejų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.648063635216527,54.121048049790133,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų tecnologijos ir verslo mokyklos kaimo turizmo sodyba</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Kailinių k., Veisiejų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.702520731930782,54.092236389552589,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poilsio namai &quot;Ančia&quot;</name>
+        <description>
+          <![CDATA[Poilsio, laisvalaikio centras<br>
+<p> </p><br>
+<p>Jezdo k., Kapčiamiesčio sen.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.674891073193596,54.04013897756284,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonatos Vernelienės stovyklavietė &quot;Saulėtekis&quot;</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p> </p><br>
+<p>Kailinių k., Veisiejų sen.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.725357191374652,54.094544596957213,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aleksandro Augustinavičiaus kaimo turizmo sodyba</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Salučių k., Veisiejų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.753386714290155,54.044871476792096,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dainos Kaknevičienės kaimo turizmo sodyba</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Dvarciškės k., Veisiejų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.779872685419232,54.044088342156549,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adolfo ir Julijos Juodžių sodyba “Tėviškė”</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Kailinių k., Veisiejų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.744302509885078,54.079479360189758,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salomėjos Paškevičienės kaimo turizmo sodyba</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Purviškės k., Veisiejų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.737390978290076,54.12710579713184,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nijolės Maziliauskienės kaimo turizmo sodyba</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Kailinių k., Veisiejų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.736160365431452,54.083135107128264,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vytauto Žukausko kaimo turizmo sodyba</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Šilainės k., Veisiejų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.715814913847058,54.068597539886795,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Danutės Janulevičienės kaimo turizmo sodyba &quot;Trikojis&quot;</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Taikūnų k., Veisiejų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.756776440793814,54.073197560258691,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daivos ir Povilo Varnų kaimo turizmo sodyba &quot;Varnalizdis&quot;</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> <p>Bertašiūnų k., Veisiejų sen.</p><br> ]]></description>
+        <Point>
+          <coordinates>23.7671758014801,54.060636078552562,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaimo turizmo sodyba &quot;Penktas sezonas&quot;</name>
+        <description>
+          <![CDATA[Kaimo turizmo sodyba<br>
+<p> </p><br>
+<p>Padumblių k., Kapčiamiesčio sen.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.676467388174427,54.026235571256109,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apžvalgos bokštas</name>
+        <description>
+          <![CDATA[Apžvalgos aikštelė<br>
+<p>Ančios ežero šiaurinės apyežerės apžvalgos bokštas </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.69061429784211,54.107901784275434,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ančios ežero šiaurinė apyežerė</name>
+        <description>
+          <![CDATA[Informacinis stendas<br>
+<p>Informacinis stendas Ančios šiaurinės apyežerės pažintinio tako pradžioje </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.68901769653111,54.106606659981097,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ringėliškės botaninis - zoologinis draustinis</name>
+        <description>
+          <![CDATA[Informacinis stendas<br>
+<p>Informacinis stendas Ringėliškės botanininiame - zoologiniame draustinyje </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.637547745282994,54.123231531312797,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Takas per Petroškų mišką</name>
+        <description>
+          <![CDATA[Informacinis stendas<br>
+<p>Tako per Petroškų mišką informacinis stendas </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.622907613488351,54.103394619638607,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sustojimo vieta automobiliams</name>
+        <description>
+          <![CDATA[Stovėjimo aikštelė<br>
+<p>Čia galima pastatyti automobilį pasivaikščiojimui Petroškų miško pažintiniu taku </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.617181709661125,54.106392473280458,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stovėjimo aikštelė</name>
+        <description>
+          <![CDATA[Stovėjimo aikštelė<br>
+<p>Čia galima pastatyti automobilį pasivaikščiojimui skulptūrų parke "Vaikystės sodas". </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.677122699569679,54.104250090477272,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sustojimo vieta kelkraštyje</name>
+        <description>
+          <![CDATA[Stovėjimo aikštelė<br>
+<p>Čia galima sustoti kelkraštyje pasivaikščiojimui Ančios ežero šiaurinės apyežerės pažintiniu taku </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.688070957984529,54.106200620855084,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paprastoji pušis (Pinus Sylvestris)</name>
+        <description><![CDATA[Gamtinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.623789238125035,54.106112547641693,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mažasis erelis rėksnys (Aquila Pamarina)</name>
+        <description><![CDATA[Gamtinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.629604793176242,54.11183671636374,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Didžialapis šakys (Pteridium Aquilinum)</name>
+        <description><![CDATA[Gamtinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.635226998189594,54.119022203179682,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šilinis viržis (Calluna Vulgaris (L.) Hull)</name>
+        <description><![CDATA[Gamtinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>23.636874003026488,54.122748047613186,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veisiejų regioninio parko direkcija</name>
+        <description>
+          <![CDATA[Lankytojų centras<br>
+<p>Šiuo metu Veisiejų regioninio parko direkcija laikinai įsikūrusi Veisiejų seniūnijos pastate, 23 kab., Santarvės g. 3, Veisiejų m., Lazdijų r. </p><br>
+<p>Santarvės g. 3, Veisiejai</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.69373472571727,54.100366983537057,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vainežerio dvaro parkas</name>
+        <description><![CDATA[Gamtinis paveldas<br> <p>Vainežerio dvaro parko stendas </p><br> ]]></description>
+        <Point>
+          <coordinates>23.667347276130819,54.073274778821769,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automobilių stovėjimo aikštelė</name>
+        <description>
+          <![CDATA[Stovėjimo aikštelė<br>
+<p>Automobilių stovėjimo aikštelė Vainežerio dvaro parko lankytojams </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.668063902235957,54.0731412367441,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automobilių stovėjimo aikštelė</name>
+        <description>
+          <![CDATA[Stovėjimo aikštelė<br>
+<p>Automobilių stovėjimo aikštelė prie dviračių/pėsčiųjų tako </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.681854883879101,54.10151424235741,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apžvalgos bokštas prie Snaigyno ežero</name>
+        <description>
+          <![CDATA[Apžvalgos aikštelė<br>
+<p>Iš 15 m aukščio apžvalgos bokšto galima grožėtis trimis ežero salomis, jo gamta, o iš kitos pusės –  atsiveriančia Veisiejų panorama. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.720048384864384,54.100784313665578,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muzikinis fontanas Ančios ežere</name>
+        <description>
+          <![CDATA[Vandens transporto nuoma<br>
+<p>Fontanas veikia šiltuoju metų laiku.  Vandens, muzikos ir šviesos reginys -  puiki galimybė maloniai praleisti laiką ir  atitrūkti nuo pilkos kasdienybės.  </p><br>
+<p><b>Aprašymas:</b> Šalia fontano galima išsinuomoti vandens dviračius.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.695327025456873,54.098372692122737,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
