@@ -3,7 +3,7 @@ Download data from Maps.lt DB and convert it to KML.
 
 ## Kam šito reikia?
 
-[Maps.lt](http://maps.lt) turi skiltį [Keliaujantiems lėtai](http://services.maps.lt/stmarsrutai/), kurioje yra sukaupta daug inormacijos apie visokias lankytinas vietas Lietuvoje. Nors ta informacija įdomi ir naudinga, bet ja sunku naudotis:
+[Maps.lt](http://maps.lt) turi skiltį [Keliaujantiems lėtai](http://services.maps.lt/stmarsrutai/), kurioje yra sukaupta daug informacijos apie visokias lankytinas vietas Lietuvoje. Nors ta informacija įdomi ir naudinga, bet ja sunku naudotis:
 
   - per telefoną reikia atsidarinėti maps.lt desktop versiją, rezultatai netelpa ekrane.
   - vienu metu žemėlapyje matosi tik vienas taškas.
