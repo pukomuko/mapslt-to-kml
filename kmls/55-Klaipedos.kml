@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Klaipėdos r. sav.</name>
+    <description><![CDATA[Klaipėdos r. sav.]]></description>
+    <Folder>
+      <name>Klaipėdos r. sav.</name>
+      <Placemark>
+        <name>Pajūrio regioninio parko lankytojų centras</name>
+        <description>
+          <![CDATA[Lankytojų centras<br>
+<p>Įžengęs į lankytojų centro holą lankytojas turėtų pasijusti atsidūręs po vandeniu. Pakėlęs galvą jis išvys stilizuotą paskendusio laivo karkasą, prieš save – 648 litrų akvariumą. </p><br>
+<p><b>Aprašymas:</b> Parko lankytojų centro ekspozicija atspindi jūros ir sausumos sankirtą. Įžengęs į lankytojų centro holą lankytojas turėtų pasijusti atsidūręs po vandeniu. Pakėlęs galvą jis išvys stilizuotą paskendusio laivo karkasą, prieš save – 648 litrų akvariumą su Baltijos jūros priekrantės ties Karklės kaimu ekosistemos modeliu. 
+Ekspozicijos salėje galėsite ne tik susipažinti su gamtiniu bei kultūriniu parko paveldu, žemyninio pajūrio gyvenviečių bei gyventojų verslų savitumu, bet ir pasitikrinti savo žinias apie pajūrio žuvis, augalus bei gyvūnus ir jų gyvenamąsias buveines.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.074151366993171,55.807555681104759,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>jachtu minia</name>
+        <description><![CDATA[Kavinė, baras, restoranas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>21.11989453898094,55.532937253726324,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gintaro įlanka</name>
+        <description>
+          <![CDATA[Geologinė vertybė<br>
+<p>1855m. čia buvo aptikta gintaro. Juodkrantę išgarsino gintaro lobis: 1860-1881m. gintaro kasykloje ir apylinkės senovės gyvenviečių vietose buvo surinkta daugiau kaip 400 radinių. Gintaro įlankoje pavasario pabaigoje arba vasaros pradžioje Lietuvos ir Latvijos menininkai įrengia nendrines skulptūras </p><br>
+<p><b>Aprašymas:</b> 1855m. čia buvo aptikta gintaro. Juodkrantę išgarsino gintaro lobis: 1860-1881m. gintaro kasykloje ir apylinkės senovės gyvenviečių vietose buvo surinkta daugiau kaip 400 radinių. Gintaro įlankoje pavasario pabaigoje arba vasaros pradžioje Lietuvos ir Latvijos menininkai įrengia nendrines skulptūras. Jos sudeginamos rudens lygiadienio metu - rugsėjo 22d. Tą parą nakties ir dienos trukmė susilygina, vėliau naktis tampa ilgesnė už dieną. Senovės baltai rudens lygiadienio metu džiaugdavosi derliumi, aukodavo gyvulius. Rugsėjo 22d. taip pat yra Baltų vienybės diena. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.127068021790318,55.552601040960646,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apžvalgos aikštelė</name>
+        <description><![CDATA[Apžvalgos aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>21.12146218401039,55.533173877898214,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

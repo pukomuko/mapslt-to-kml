@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pasvalio r. sav.</name>
+    <description><![CDATA[Pasvalio r. sav.]]></description>
+    <Folder>
+      <name>Pasvalio r. sav.</name>
+      <Placemark>
+        <name>Ąžuolpamūšės piliakalnis</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Ąžuolpamūšės piliakalnis yra dviejų upių santakoje. Iš šiaurės jį juosia Tatula, iš pietų ir pietvakarių – Ūgės upė. Piliakalnio aikštelė trikampė, apie 60 m ilgio. Šoniniai šlaitai apie 9 m aukščio, beveik statmeni, ardomi upių tėkmių.  </p><br>
+<p><b>Aprašymas:</b> Ąžuolpamūšės piliakalnis yra dviejų upių santakoje. Iš šiaurės jį juosia Tatula, iš pietų ir pietvakarių – Ūgės upė. Piliakalnio aikštelė trikampė, apie 60 m ilgio. Šoniniai šlaitai apie 9 m aukščio, beveik statmeni, ardomi upių tėkmių. Į rytus nuo piliakalnio ariamame lauke vos žymūs senovės gyvenvietės pėdsakai. 
+Iš rastų lipdytos grublėtos keramikos šukių manoma, kad žmonės piliakalnyje gyveno I tūkstantmetyje. 
+Ūgės upės kairiajame krante, šios upės slėnio šlaite trykšta Ąžuolpamūšės arba Baltaduonio verdenė. Seniau čia buvo įrengtas rentinys, bet dabar visiškai sunykęs, likusi 1 m skersmens vandens duobutė, iš kurios vandens perteklius bėga į upės slėnį. Versmė trykšta negausiai, bet pastoviai. Vanduo skaidrus, bekvapis, geriamas. Vietiniai gyventojai sausrų ir šalčių metu veždavosi į namus. Dabar girdo ganomus gyvulius. Potvynių neužliejamas.
+Netoliese, Ūgės upės vagoje, prie brastos trykšta dar vienas Ažuolpamūšės šaltinis. Šaltinį vietiniai gyventojai vadindavo Strekonio verdene. Vanduo skaidrus, kietas. Vandens perteklius iš šaltinio nuteka į Ūgės upę. XX a. 8 dešimtmečio pradžioje šaltinis buvo kairiajame Ūgės šlaite. Bet vanduo išplovė šlaitą ir šaltinio versmė su vertikalia į žemę sukaltų lentų rentinio briaunomis tapo apleistas upės vagoje. Šaltinio vandenį valstiečiai veždavosi į namus žiemą ir vasarą, kai išsekdavo šuliniai.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.46048630021382,56.123347169759882,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

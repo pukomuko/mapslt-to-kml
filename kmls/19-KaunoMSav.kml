@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kauno m. sav.</name>
+    <description><![CDATA[Kauno m. sav.]]></description>
+    <Folder>
+      <name>Kauno m. sav.</name>
+      <Placemark>
+        <name>V fortas</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p>Šis Zuikinėje esantis fortas yra vienas iš mažesnių artilerinių fortų. Jis priklauso pirmajam Kauno tvirtovės gynybiniam žiedui, susidedančiam iš septynių fortų.   </p><br>
+<p><b>Aprašymas:</b> Savo išplanavimu išsiskiriantis, asimetriškas penkiakampės formos, pritaikytas prie aplinkos V fortas buvo pastatytas 1889 m. I pasaulinio karo metu 1915 m. rugpjūčio 5 d. fortas, kaip ir visa Kauno tvirtovė, buvo užimta vokiečių kariuomenės, iki 1941 m. buvo naudojama ūkiniams reikalams, o 1944 m. perėjus į sovietų armijos jurisdikciją, forte įsikūrė techninis PVO (oro gynybos) divizionas. Teritorijos kraštovaizdį formuoja forto teritorijos želdiniai ir sovietmečiu pastatyti priešlėktuvinių raketų bazės pastatai.
+
+Šiuo metu forte vėl vyksta "Kovos", kurias organizuoja dažasvydžio klubas "Legionas". </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.000655627258563,54.861666941136896,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pažaislio vienuolyno architektūrinis ansamblis</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p>Brandžiojo baroko sakralinės architektūros ir dailės šedevras. </p><br>
+<p>T. Masiulio 31, Kaunas</p><br>
+<p><b>Aprašymas:</b> Ansamblis pradėtas statyti 1667 m., baigtas XVI a. pab.- XVII a. pr. K.Z. Paco sumanymą įgyvendino iš Italijos pakviesti menininkai.
+
+Barokinio stiliaus ansamblis suprojektuotas pagal griežtą ašinę simetriją. Didžiausias architektūrinis akcentas - monumentali, barokiškai puošni bažnyčia. Ji originalaus šešiakampio plano su dviem bokštais. Didingą kupolą užbaigia grakščių proporcijų šešiakampis žibintas.
+
+Pažaislio unikalumas yra įvairiapusiškas. Ansamblio pastatuose išlikę apie 140 freskų, taip pat paveikslų, portretų, lipdinių, skulptūrų. Žavinga aplinkos ir architektūros darna.
+
+Nuo 1991 m. pradžios ansamblį globoja ir tvarko, prarastąjį dvasingumą stengiasi grąžinti Šv. Kazimiero kongregacijos seserys. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.022384349465852,54.876350267596983,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salomėjos Nėries memorialinis muziejus</name>
+        <description>
+          <![CDATA[Muziejus, ekspozicija<br>
+<p>Muziejaus ekspozicija atspindi poetės Salomėjos Nėries gyvenimo ir kūrybos kelią. </p><br>
+<p>S. Nėries g. 7, Kaunas</p><br>
+<p><b>Aprašymas:</b> Muziejus įkurtas 1962 metais name, kuriame poetė su šeima gyveno  nuo 1937 iki 1941 metų. Ekspozicijoje atsispindi S. Neries gyvenimo ir kūrybos kelias - eksponuojamos fotonuotraukos, rankraščiai, knygos ir dokumentai, ištraukos iš poetės dienoraščių, asmeniniai daiktai.
+
+Muziejuje vyksta įvairūs renginiai: Salomėjos Nėries gimimo metinių minėjimai, tradicija tapusi moterų poezijos ir muzikos popietė, edukacinės programos. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.061600822001495,54.909912695406256,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taikos kalno ąžuolas</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Storiausias Kauno miesto ąžuolas auga 100 m į pietus nuo Pažaislio vienuolyno tvoros. Apimtis 5,15 m, aukštis 21 m, amžiaus 600 metų. Jis paskelbtas savivaldybės gamtos paveldo objektu. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.021599778440706,54.873982683152114,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vieškūnų piliakalnis</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Dar yra vadinamas Šuneliškės kalnu. Įrengtas XIV a.  vid., priklausė strategiškai svarbiam Kauno mūrinės pilies išoriniam medinių pilių gynybiniam žiedui. Jame stovėjusi medinė pilaitė buvo ne kartą pulta, tačiau jos istorinis vardas nėra žinomas.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.050482394763751,54.899478241170648,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kauno tvirtovės Geležinkelio (Palemono) forto liekanos</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p>1913-1915 m. buvo pradėtas statyti antrasis Kauno tvirtovės gynybinis žiedas. Palemone spėta atlikti tik kai kurie smulkūs darbai - iškasti apsauginiai grioviai, supilti pylimai, apylinkėse įrengta smulkių šaudymo lizdų sistema. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.044680436934559,54.901239659597415,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

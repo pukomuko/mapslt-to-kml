@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Širvintų r. sav.</name>
+    <description><![CDATA[Širvintų r. sav.]]></description>
+    <Folder>
+      <name>Širvintų r. sav.</name>
+      <Placemark>
+        <name>KERNAVĖ</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Kernavė – Lietuvos Troja. Čia, vaizdingoje Neries pakrantėje Pajautos slėnio amfiteatre, stūkso piliakalniai, šalia kurių nuo neatmenamų laikų kūrėsi senovės gyvenvietės ir buvo laidojami žmonės.  </p><br>
+<p><b>Aprašymas:</b> Kernavė – Lietuvos Troja. Čia, vaizdingoje Neries pakrantėje Pajautos slėnio amfiteatre, stūkso piliakalniai, šalia kurių nuo neatmenamų laikų kūrėsi senovės gyvenvietės ir buvo laidojami žmonės. Nedideliame 194 hektarų žemės lopinėlyje išlikusios kultūros vertybės, gausūs archeologiniai radiniai, istorijos tėkmėje susiformavęs kraštovaizdis mums byloja apie kultūras, gyvavusias šiame areale 11 tūkstančių metų – nuo vėlyvojo paleolito laikų (IX tūkstanmetis pr. Kr.) iki pat šių dienų. Kartais klestintis, kartais apmiręs gyvenimas šioje vietovėje niekada nebuvo nutrūkęs...
+   Pirmiausia lietuvio vaizduotėje Kernavė iškyla kaip vienas iš valstybingumo simbolių – pagoniškos Lietuvos sostinė, apipinta legendomis ir padavimais. Istoriniuose rašytiniuose šaltiniuose Kernavė pirmą kartą paminėta 1279 metais eiliuotoje Livonijos ir Hermano Vartbergės kronikose, kur aprašytas nesėkmingas kalavijuočių žygis į Lietuvą, į Kernavę, į kunigaikščio Traidenio žemę. Viduramžiai buvo išskirtinis laikotarpis Kernavei – vieno svarbiausių Lietuvos politinių ekonominių centrų klestėjimo ir, deja, žlugimo metas, palikęs neįkainojamas vertybes: penkių piliakalnių fortifikacinę sistemą, kapinyną su įstabaus grožio įkapėmis, sudegintų kunigaikščio pilių ir sunykusio amatininkų bei pirklių miesto liekanas.
+   Čia, po sąnašų sluoksniu, nuo mūsų akių paslėptas paskutinės Europoje pagoniškos valstybės kultūrinis palikimas. Daugiau nei prieš tris dešimtmečius pradėti šios vietovės archeologiniai tyrinėjimai padėjo parašyti ne vieną naują Lietuvos priešistorės puslapį ir praplėtė mūsų žinias apie vieną iš svarbiausių procesų Lietuvos ir Europos istorijoje – pagoniškosios bendruomenės virsmą krikščioniškąja. Šiuo metu ištirta tik apie 2% kultūrinio rezervato teritorijos. Šioje teritorijoje jau žinoma 16 archeologinių ir 3 istorinės vertybės, kurios įtrauktos į valstybės nekilnojamųjų kultūros vertybių registrą, o archeologijos ir istorijos muziejaus saugyklose sukaupta virš 20 tūkstančių eksponatų. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.852337770943741,54.884233619835733,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akmuo KUNIGAS</name>
+        <description>
+          <![CDATA[Mitologinis objektas<br>
+<p>Akmens pavadinimas aiškinamas tuo, jog čia paskendęs kunigas. Mitologijos tyrinėtojai pažymi, kad mitinėje pasaulėžiūroje skenduoliai (pvz., jaunoji ir jaunasis, kunigas, varpas ir kt.) dažnai turi ypatingą statusą...  </p><br>
+<p><b>Aprašymas:</b> Akmuo yra apie 0,3 km aukščiau Kernavėlės žiočių, prie Semeniškių kaimo, arčiau dešiniojo kranto.
+
+Akmens pavadinimas aiškinamas tuo, jog čia paskendęs kunigas. Mitologijos tyrinėtojai pažymi, kad mitinėje pasaulėžiūroje skenduoliai (pvz., jaunoji ir jaunasis, kunigas, varpas ir kt.) dažnai turi ypatingą statusą... Jais įprasta reikšti vandens telkinio ar tam tikros jo vietos sakralumą.
+Padavimo motyvas gali būti sietinas ir su padavimais apie kunigą, vykstantį pas ligonį. Besikeliant per upę arba ežerą, kunigas nuskęsta, o Švenčiausiasis – ne.
+
+Akmuo tokiu pavadinimu užfiksuota ir Neryje žemiau Kernaviškių (Jonavos r.), keliose Nemuno vietose. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.846508946483556,54.864262064820167,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akmuo AVINAS</name>
+        <description>
+          <![CDATA[Mitologinis objektas<br>
+<p>Žvelgiant iš toliau akmens forma šiek tiek primena  avino galvą su ragais. </p><br>
+<p><b>Aprašymas:</b> Žvelgiant iš toliau akmens forma šiek tiek primena  avino galvą su ragais. 
+
+Avinu vadinamas akmuo yra apie 12 m nuo dešiniojo upės kranto, 1x2 x 1,5 m dydžio, iškiliu paviršiumi. 0,5 m dalis kyšo virš vandens , 0,4 m dalis panirusi.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.847295646586861,54.866006292745951,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

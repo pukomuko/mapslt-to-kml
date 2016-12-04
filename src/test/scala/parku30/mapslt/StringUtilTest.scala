@@ -13,6 +13,7 @@ class StringUtilTest extends FlatSpec {
     assert("PlokstinesRZV" === "Plokštinės gamtinis rezervatas".sanitize)
     assert("SvenciuliskiuMiskoParkas" === "Švenčiuliškių miško parkas".sanitize)
     assert("KursiuNerijosNP" === "Kuršių nerijos nacionalinis parkas".sanitize)
+    assert("Radviliskio" === "Radviliškio r. sav.".sanitize)
   }
 
 }

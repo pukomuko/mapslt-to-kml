@@ -13,7 +13,7 @@ case class MapsltAttributes(Pavadinimas: String,
                             Miestas: String,
                             KaipAtvykti: String,
                             Savivaldybe: Int,
-                            SaugomaTeritorija: String,
+                            SaugomaTeritorija: Option[String],
                             GlobalID: String)
 
 case class MapsltFeature(attributes: MapsltAttributes, geometry: MapsltGeometry)

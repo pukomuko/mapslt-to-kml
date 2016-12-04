@@ -6,13 +6,19 @@ import java.nio.file.{Files, Paths}
 
 import parku30.kml.KmlDoc
 import parku30.mapslt.StringUtil._
-import parku30.mapslt.{MapsltMapSearchServer, MapsltTerritoryServer, MapsltToKmlConverter}
+import parku30.mapslt.{MapsltClassifiers, MapsltMapSearchServer, MapsltTerritoryServer, MapsltToKmlConverter}
 
 case class Config(teritorija: Option[String] = None,
                   savivaldybe: Option[String] = None,
                   kategorija: Option[String] = None,
-                  saveAll: Boolean = false,
-                  combine: Boolean = false)
+                  allTerritories: Boolean = false,
+                  combine: Boolean = false,
+                  allSavivaldybes: Boolean = false) {
+
+  def valid: Boolean = singleSearch || allTerritories || allSavivaldybes
+
+  def singleSearch: Boolean = teritorija.isDefined || savivaldybe.isDefined || kategorija.isDefined
+}
 
 object MapsltToKml {
 
@@ -32,27 +38,30 @@ object MapsltToKml {
       opt[String]('k', "kategorija").action((x, c) =>
         c.copy(kategorija = Some(x))).text("Kategorija")
 
-      opt[Unit]('a', "all").action((_, c) =>
-        c.copy(saveAll = true)).text("save all territories to kml files")
+      opt[Unit]('a', "all-territories").action((_, c) =>
+        c.copy(allTerritories = true)).text("save all territories to kml files")
 
       opt[Unit]('c', "combine").action((_, c) =>
         c.copy(combine = true)).text("combine all territories into one kml file")
 
+      opt[Unit]("all-savivaldybes").action((x, c) =>
+        c.copy(allSavivaldybes = true)).text("save all savivaldybes to kml files")
+
       checkConfig(c =>
-        if ((c.teritorija.isEmpty && c.savivaldybe.isEmpty && c.kategorija.isEmpty) && !c.saveAll)
+        if (!c.valid)
           failure("at least one search param must be set")
         else success)
     }
 
     parser.parse(args, Config()) match {
       case Some(config) =>
-        if (!config.saveAll) {
+        if (config.singleSearch) {
           val response = MapsltMapSearchServer.query(saugomaTeritorija = config.teritorija,
             savivaldybe = config.savivaldybe,
             kategorija = config.kategorija)
           val kmlDoc = MapsltToKmlConverter.mapsltSearchResponseToKmlDoc(searchResponse = response)
           println(kmlDoc.toXmlString)
-        } else {
+        } else if (config.allTerritories) {
           val territories = MapsltTerritoryServer.query()
           if (!config.combine) {
             territories.features.foreach { territory =>
@@ -72,6 +81,16 @@ object MapsltToKml {
               MapsltToKmlConverter.mapsltSearchResponseToKmlFolder(response, territory.attributes.PAVADINIM.sanitize)
             }
             saveFile("kmls/allCombined.kml", KmlDoc("Saugomos Teritorijos", "", folders).toXmlString)
+          }
+        } else if (config.allSavivaldybes) {
+          MapsltClassifiers.SavivaldybesMap.foreach { case (key: Int, value: String) =>
+            println(key + " " + value + " - " + value.sanitize)
+            val response = MapsltMapSearchServer.query(savivaldybe = Some(key.toString))
+            if (response.features.size > 99)
+              Console.err.println(s"savivaldybe '${value}' has more than 100 results: " + response.features.size)
+            val kmlDoc = MapsltToKmlConverter.mapsltSearchResponseToKmlDoc(response, folderName = value, docName = value)
+            saveFile("kmls/" + key + "-" + value.sanitize + ".kml", kmlDoc.toXmlString)
+
           }
         }
 

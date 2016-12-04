@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Rietavo sav.</name>
+    <description><![CDATA[Rietavo sav.]]></description>
+    <Folder>
+      <name>Rietavo sav.</name>
+      <Placemark>
+        <name>Bandymas</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p>sdsds </p><br> <p><b>Aprašymas:</b> sadsad </p><br> ]]></description>
+        <Point>
+          <coordinates>21.987749987890869,55.822741539464197,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bandymas</name>
+        <description><![CDATA[Kaimo turizmo sodyba<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>21.989180086238552,55.822443982994216,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

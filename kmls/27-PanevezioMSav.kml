@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Panevėžio m. sav.</name>
+    <description><![CDATA[Panevėžio m. sav.]]></description>
+    <Folder>
+      <name>Panevėžio m. sav.</name>
+    </Folder>
+  </Document>
+</kml>

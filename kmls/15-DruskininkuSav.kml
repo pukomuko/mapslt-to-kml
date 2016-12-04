@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Druskininkų sav.</name>
+    <description><![CDATA[Druskininkų sav.]]></description>
+    <Folder>
+      <name>Druskininkų sav.</name>
+      <Placemark>
+        <name>Druskininkų turizmo ir verslo informacijos centras </name>
+        <description>
+          <![CDATA[Turizmo informacijos centras<br>
+<p> </p><br>
+<p><b>Aprašymas:</b> Druskininkai – tarptautinis ištisus metus veikiantis balneologinis, purvo, mineralinio vandens ir klimato terapijos kurortas.
+
+Dar 1794 m. didysis Lietuvos kunigaikštis ir Lenkijos karalius Stanislovas Augustas Poniatovskis savo dekretu paskelbė Druskininkus gydomąja vietove, o 1837 m., Vilniaus universiteto profesoriui Ignacijui Fonbergui atlikus ir paskelbus mineralinio vandens cheminės sudėties tyrimus, Rusijos imperatorius Nikolajus I patvirtino Druskininkų kurorto įrengimo projektą.
+
+Kurortas turtingas įvairios mineralizacijos vandenimis, bei gydomojo durpinio purvo telkiniais.  Dėl Druskininkus supančių pušynų, daugybės vandens telkinių oras čia labai švarus, o jame vyraujantys neigiami (lengvieji) jonai – esminis oro švarumo požymis. Šiuo metu kurorte veikia atnaujinta Druskininkų gydykla ir 7 sanatorijos, 16 viešbučių nuo 2 iki 4 žvaigždučių, 11 svečių namų, 16 kaimo turizmo sodybų ir SPA kompleksai.
+
+Dėl konsultacijų ir turizmo informacijos, kviečiame atvykti į Druskininkų turizmo informacijos centrą, kur galėsite:
+
+• Užsakyti vietas Druskininkų viešbučiuose, sanatorijose, privačiame sektoriuje,
+• Gauti informacinių leidinių (žemėlapių, katalogų, atvirukų) bei suvenyrų,
+• Užsakyti gidų paslaugas ir dar daugiau.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.977325217022539,54.009487236853879,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

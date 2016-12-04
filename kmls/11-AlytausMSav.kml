@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Alytaus m. sav.</name>
+    <description><![CDATA[Alytaus m. sav.]]></description>
+    <Folder>
+      <name>Alytaus m. sav.</name>
+      <Placemark>
+        <name>Alytaus piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Piliakalnis (Vienuolyno Kalnas) įrengtas Nemuno dešiniojo kranto kyšulyje, jo santakoje su Alytupiu. </p><br>
+<p><b>Aprašymas:</b> Piliakalnis (Vienuolyno Kalnas) įrengtas Nemuno dešiniojo kranto kyšulyje, jo santakoje su Alytupiu. Aikštelė netaisyklingo keturkampio formos, pailga P–Š kryptimi, 28x20 m dydžio, kiek žemesne P dalimi, su storu kultūriniu sluoksniu. Ji apjuosta pylimu, kuris R pakraštyje 40 m ilgio, 2,5 m aukščio ir 12 m pločio, nuskleistas, 4 m pločio viršumi, išsivertusiu aikštelės pusėn vidumi, Š ir V pakraštyje – 0,5–1 m aukščio. Pylimo R išoriniame 9 m aukščio šlaite, 4 m žemiau jo viršaus yra 3 m pločio terasa. Šlaitai statūs, į upių slėnius – 25–30 m aukščio. Į PV nuo piliakalnio yra 40 m pločio, 7 m gylio grioviu atskirtas 5 m skersmens viršuje kūgio formos kalvos smaigalys, kurio paskirtis nėra aiški. Piliakalnis buvo ariamas, pylimas apardytas apkasų. 2002 m. piliakalnis sutvarkytas: padaryti takai, laiptai, nukirsti želdiniai, iškelta PV papėdėje buvusi sodyba, pastatytas informacinis stendas.
+Į R nuo piliakalnio 1 ha dydžio plote yra VII–XII a. papėdės gyvenvietė su 60 cm storio kultūriniu sluoksniu, tyrinėta 1985–1986 m. Joje rasta sudegusių pastatų liekanų, ūkyje naudojamų dirbinių, kalavijo galas, pentinas su spygliu. 500 m į ŠV yra 1984–1986 m. tyrinėtas vėlesnio laikotarpio senkapis, įrengtas greičiausiai dar pilėnų.
+Piliakalnyje stovėjo Alytaus pilis, kurios apylinkes 1377 ir 1382 m. niokojo kryžiuočiai. Alytaus pilis minima 1384 ir 1387 m.
+Piliakalnis datuojamas I tūkst. viduriu – XIV a.
+Pasiekiamas iš Nemuno dešiniajame krante esančio senojo (pirmojo) Alytaus centrinės A. Juozapavičiaus gatvės pasukus į Merkinės gatvę, iš jos – į Piliakalnio gatvę, važiuojant laikytis arčiau dešiniojo Nemuno kranto – iš viso 1,1 km (yra kairėje).
+Lit.: Wejtko, 1889, p. 895–896 (II); Radziukynas, 1909, p. 34–35; Покровскй, 1893, c. 123; LAA, p. 27 (Nr. 7); Svetikas, 1986; 1988; Baranauskas, 2003, p. 66, 78. Informacijos šaltinis: www.piliakalniai.lt </p><br>
+<p><b>Kaip atvykti:</b> Pagal nuorodas mieste</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>24.079989081051391,54.396626415481769,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alytaus geležinkelio stotis</name>
+        <description><![CDATA[Architektūros paveldas<br> <p> </p><br> <p>Gardino g. 14, </p><br> ]]></description>
+        <Point>
+          <coordinates>24.055887300160983,54.388406091029978,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

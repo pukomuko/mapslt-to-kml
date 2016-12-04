@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pakruojo r. sav.</name>
+    <description><![CDATA[Pakruojo r. sav.]]></description>
+    <Folder>
+      <name>Pakruojo r. sav.</name>
+    </Folder>
+  </Document>
+</kml>

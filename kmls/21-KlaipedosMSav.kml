@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Klaipėdos m. sav.</name>
+    <description><![CDATA[Klaipėdos m. sav.]]></description>
+    <Folder>
+      <name>Klaipėdos m. sav.</name>
+      <Placemark>
+        <name>Smiltynės girininkija</name>
+        <description>
+          <![CDATA[Girininkija<br>
+<p>Kuršių nerijos nacionalinio parko direkcijos Smiltynės girinikija </p><br>
+<p>Smiltynės g. 11, Smiltynė, </p><br>
+<p><b>Aprašymas:</b> Kuršių nerijos nacionalinio parko direkcijos Smiltynės girinikija </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.110606135870228,55.707854416446281,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smiltynės Lankytojų centras</name>
+        <description>
+          <![CDATA[Lankytojų centras<br>
+<p>Lankytojų centre Jums bus suteikta išsami informacija apie Kuršių nerijos gamtos ir kultūros vertybes, lankytinas vietas, vykstančius renginius, teikiamas pažintinio turizmo ir kitas paslaugas.  </p><br>
+<p>Smiltynės g. 11, Klaipėda</p><br>
+<p><b>Aprašymas:</b> Lankytojų centre Jums bus suteikta išsami informacija apie Kuršių nerijos gamtos ir kultūros vertybes, lankytinas vietas, vykstančius renginius, teikiamas pažintinio turizmo ir kitas paslaugas. Čia platinami informaciniai leidiniai ir suvenyrai šiai saugomai teritorijai pažinti. Į Jūs dominančius klausimus maloniai atsakys paslaugūs Lankytojų centro darbuotojai.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.110726359844445,55.70780909238232,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> Laivų-veteranų ekspozicija</name>
+        <description>
+          <![CDATA[Muziejus, ekspozicija<br>
+<p>Laivų-veteranų aikštelėje eksponuojami stambiausi Lietuvos jūrų muziejaus eksponatai. </p><br>
+<p><b>Aprašymas:</b> Laivų-veteranų aikštelėje eksponuojami stambiausi Lietuvos jūrų muziejaus eksponatai.
+Vidutiniojo žvejybos traleris "Dubingiai" buvo pastatytas Klaipėdos laivų statykloje "Baltija" ir skirtas žvejybai Atlanto vandenyne (svoris apie 330 tonų). Laivo triumuose įrengtoje salėje rengiamos parodos, vasaros sezono metu veikia pastovi XVIII-XIX a. graviūrų ekspozicija.
+Du laivus muziejui perdavė Neringos žuvininkystės ūkis. 1949m. pastatyta motorinė dorė atstovauja laivų tipui, pakeitusiam Kuršmarių žvejams senąsias burvaltes - kurėnus. Tai pačiais metais Suomijoje pastatytas mažasis žvejybos traleris "Kolyma" beveik 30 metų tarnavo Klaipėdos žvejams Baltijos jūroje. 1954 m. iš Vokietijos buvo atplukdytas plieninis tralbotas (PTB - 7167). 2001m. pastatytas kurėnas „SüD.1“. Tokiomis burvaltėmis buvo žvejojama Kuršių mariose iki XX a. 6-ojo dešimtmečio.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.105720556070416,55.71313441785432,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stovėjimo aikštelė</name>
+        <description><![CDATA[Stovėjimo aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>21.112225437823419,55.70570178743953,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Senųjų vilų komplekso pastatas</name>
+        <description><![CDATA[Architektūros paveldas<br> <p> </p><br> <p>Smiltynės g. 9, Klaipėda</p><br> ]]></description>
+        <Point>
+          <coordinates>21.110105466806257,55.708403244864471,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pajūrio žvejo etnografinės sodybos kompleksas </name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>ajūrio žvejo etnografinė sodybos kompleksas pastatytas 1977-1979m. remiantis Palangos – Šventosios pajūrio ruože išlikusiais senųjų žvejų sodybų ir pastatų pavyzdžiais. Sodybą sudaro gyvenamasis namas, tvartas, klėtis, pirtis, rūsys ir rūkykla. Gyvenamajame name atkurtas XX a. pradžios interjeras. </p><br>
+<p><b>Aprašymas:</b> Pajūrio žvejo etnografinė sodybos kompleksas pastatytas 1977-1979m. remiantis Palangos – Šventosios pajūrio ruože išlikusiais senųjų žvejų sodybų ir pastatų pavyzdžiais. Sodybą sudaro gyvenamasis namas, tvartas, klėtis, pirtis, rūsys ir rūkykla. Gyvenamajame name atkurtas XX a. pradžios interjeras.
+Vienoje iš gyvenamojo namo patalpų veikiaekspozicija apie žvejybą Lietuvos pajūryje ir pamaryje XIX-XX a. pr. Eksponuojamos senos fotografijos; žvejybos priemonės: kabliukai, ūdos, tinklų pasvarai, žeberklai, tinklai; burvalčių detalės ir modeliai; laivadirbių įrankiai.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.104293987578867,55.714054352315927,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stovėjimo aikštelė</name>
+        <description><![CDATA[Stovėjimo aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>21.101870705612463,55.717480950928042,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> Lietuvos Jūrų muziejus ir delfinariumas </name>
+        <description>
+          <![CDATA[Muziejus, ekspozicija<br>
+<p>Delfinų, Kalifornijos jūrų liūtų pasirodymai bei muziejus laukia Jūsų. </p><br>
+<p>Smiltynės g. 3, Klaipėda</p><br>
+<p><b>Aprašymas:</b> 1994m. atidarytas delfinariumas. Lietuvos jūrų muziejaus delfinariume gyvena 11 Juodosios jūros afalinų bei 2 Kalifornijos jūrai su 1 atžala. Nuo 2009-ųjų metų Lietuvos jūrų muziejaus delfinariume pradėti rengti pramoginiai plaukiojimai su delfinais. Nuo 2010m. spalio pabaigos delfinariumas uždarytas rekonstrukcijai. Atidarymas planuojamas 1213m. gegužės mėn.
+Delfinariumas kartu su Jūrų muziejumi, akvariumu užima 33 000 m² plotą ir sudaro unikalų vandenų pasaulio pažinimo kompleksą.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.101776049195774,55.716995978541753,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kopgalio kaimo kapinaitės</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>XIXa. – XXa. pr. Kopgalio kapinaitėse palaidoti Smiltynės, Kopgalio gyventojai. Čia taip pat ilsisi pirmasis Lietuvos kapitonas L. Stulpinas (1871-1934m.) bei poetas, publicistas, Klaipėdos krašto gubernatorius Jonas Žilius–Jonila (1870-1932m.). </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.107362183901262,55.711156563796308,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viešbutis - Kavinė &quot;Palva&quot;</name>
+        <description>
+          <![CDATA[Viešbučiai, apgyvendinimo paslaugos<br>
+<p>Jaukiame, jūrinio stiliaus trijų aukštų viešbutyje yra:
+15 dviviečių ir triviečių numerių kuriuose gali poilsiauti iki 45 svečių;
+2 apartamentai su virtuvėlėmis;
+Konferencijų salė;
+Žiemos sodas;
+Kavinė su vaizdu į marias;
+Pirtis ir baseinas;
+Stalo tenisas;
+Lauko kavinė
+Automobilių stovėjimo aikštelė </p><br>
+<p>Smiltynės g. 19, Klaipėda</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.116962091450329,55.701089239458589,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viešbutis - Kavinė &quot;Palva&quot;</name>
+        <description>
+          <![CDATA[Viešbučiai, apgyvendinimo paslaugos<br>
+<p>15 dviviečių ir triviečių numerių, kuriuose gali poilsiauti iki 45 svečių; 2 apartamentai su virtuvėlėmis;
+Konferencijų salė;
+Žiemos sodas;
+Kavinė su vaizdu į marias;
+Pirtis ir baseinas;
+Stalo tenisas;
+Lauko kavinė su šašlykine;
+Automobilių stovėjimo aikštelė </p><br>
+<p>Smiltynės g. 19, Klaipėda</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.116855599555105,55.701105761802957,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viešbutis-Kavinė &quot;Palva&quot;</name>
+        <description>
+          <![CDATA[Viešbučiai, apgyvendinimo paslaugos<br>
+<p>Jaukiame, jūrinio stiliaus trijų aukštų viešbutyje yra:
+15 dviviečių ir triviečių numerių, kuriuose gali poilsiauti iki 45 svečių
+2 apartamentai su virtuvėlėmis;
+Konferencijų salė
+Žiemos sodas
+Kavinė su vaizdu į marias;
+Pirtis ir baseinas
+Stalo tenisas
+Lauko kavinė su šašlykine
+Automobilių aikštelė </p><br>
+<p>Smiltynės g. 19, Kalipėda</p><br>
+<p><b>Aprašymas:</b> Jaukiame, jūrinio stiliaus trijų aukštų viešbutyje yra:
+15 dviviečių ir triviečių numerių, kuriuose gali poilsiauti iki 45 svečių;
+2 apartamentai su virtuvėlėmis;
+Konferencijų salė;
+Žiemos sodas;
+Kavinė su vaizdu į marias;
+Pirtis ir baseinas;
+Stalo tenisas;
+Lauko kavinė su šašlykine;
+Automobilių stovėjimo aikštelė.
+ </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.116930645832735,55.701058776413795,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viešbuti-Kavinė &quot;Palva&quot;</name>
+        <description>
+          <![CDATA[Viešbučiai, apgyvendinimo paslaugos<br>
+<p>Jaukiame, jūrinio stiliaus trijų aukštų viešbutyje yra:
+15 dviviečių ir triviečių numerių, kuriuose gali poilsiauti iki 45 svečių
+2 apartamentai su virtuvėlėmis;
+Konferencijų salė
+Žiemos sodas
+Kavinė su vaizdu į marias
+Pirtis ir baseinas
+Stalo tenisas
+Lauko kavinė su šašlykine
+Automobilių stovėjimas </p><br>
+<p>Smiltynės g. 19, Klaipėda</p><br>
+<p><b>Aprašymas:</b> Jaukiame, jūrinio stiliaus trijų aukštų viešbutyje yra:
+15 dviviečių ir triviečių numerių, kuriuose gali poilsiauti iki 45 svečių;
+2 apartamentai su virtuvėlėmis;
+Konferencijų salė;
+Žiemos sodas;
+Kavinė su vaizdu į marias;
+Pirtis ir baseinas;
+Stalo tenisas;
+Lauko kavinė su šašlykine;
+Automobilių stovėjimo aikštelė. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.116936955059529,55.701087460714582,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smiltynės Molas</name>
+        <description><![CDATA[Gamtinis paveldas<br> <p>Smiltynės Molas </p><br> ]]></description>
+        <Point>
+          <coordinates>21.096328548657574,55.721342660213423,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autobusų stotelė</name>
+        <description>
+          <![CDATA[Autobusų stotis<br>
+<p>Autobusų stotelė važiuojantiems Į Juodkrantę, Pervalką, Preilą, Nidą. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.112447733751576,55.705600007392306,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>&quot;Meda project&quot;, &quot;Ebru&quot; tapymas ant vandensst</name>
+        <description>
+          <![CDATA[Poilsio, laisvalaikio centras<br>
+<p>Viloje Smiltynės g. 10, vasaros laikotarpiu, įsikūrė viešoji įstaiga „MEDA PROJECT“, kuri jau ketvirtus metus visoje Lietuvoje organizuoja unikalų, socialinį neformalaus ugdymo projektą "Ebru menas - tapymas ant vandens".  </p><br>
+<p>Smiltynės g. 10, Klaipėda</p><br>
+<p><b>Aprašymas:</b> Viloje Smiltynės g. 10, vasaros laikotarpiu, įsikūrė viešoji įstaiga „MEDA PROJECT“, kuri jau ketvirtus metus visoje Lietuvoje organizuoja unikalų, socialinį neformalaus ugdymo projektą "Ebru menas - tapymas ant vandens". Kerinti Kuršių nerijos gamta dovanoja neaprėpiamas galimybes pasireikšti kiekvieno žmogaus kūrybiškumui. Atsidūrus pusiasalyje, dviejų vandenų apsuptyje, tapyba ant vandens įgauna dar gilesnę prasmę, o paveikslo kūrimas, atrodo, sulaiko kvėpavimą. Nuostabi gamta, natūralūs, iš gamtos išgauti, Ebru meno dažai bei kitos tapymo priemonės, atvykusiems lankytojams padės išlaisvinti emocijas. Nupiešti paveikslai perkeliami ne tik ant specialaus papiruso, bet ir ant jūros akmenukų, kriauklių, medžio žievės gabaliukų ar net šakelių. Vaikai, kuriantys meninėje dirbtuvėje, gamtines „žaliavas“, susirenka patys, keliaudami miško takais prie jūros. O tokių, dienos žygių metu susipažįsta su Kuršių nerijos nacionalinio parko gamta. Įspūdingiausi kūrinių motyvai – augalai, jūra, žuvys... „Ebru menas - tapymas ant vandens“ gali būti taikomas ir kaip atpalaiduojanti, netgi gydanti, terapija. O vasaros pabaigoje, lankytojus pakvies vaikų darbų paroda atspindinti Kuršių nerijos nacionalinio parko vertybes. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.110209891546603,55.708186926702446,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>&quot;MEDA PROJECT&quot; tapymas ant vandens</name>
+        <description>
+          <![CDATA[Poilsio bazė<br>
+<p>Viloje Smiltynės g. 10, vasaros laikotarpiu, įsikūrė viešoji įstaiga „MEDA PROJECT“, kuri jau ketvirtus metus visoje Lietuvoje organizuoja unikalų, socialinį neformalaus ugdymo projektą "Ebru menas - tapymas ant vandens". </p><br>
+<p>Smiltynės g.10 , Klaipėda</p><br>
+<p><b>Aprašymas:</b> Viloje Smiltynės g. 10, vasaros laikotarpiu, įsikūrė viešoji įstaiga „MEDA PROJECT“, kuri jau ketvirtus metus visoje Lietuvoje organizuoja unikalų, socialinį neformalaus ugdymo projektą "Ebru menas - tapymas ant vandens". Kerinti Kuršių nerijos gamta dovanoja neaprėpiamas galimybes pasireikšti kiekvieno žmogaus kūrybiškumui. Atsidūrus pusiasalyje, dviejų vandenų apsuptyje, tapyba ant vandens įgauna dar gilesnę prasmę, o paveikslo kūrimas, atrodo, sulaiko kvėpavimą. Nuostabi gamta, natūralūs, iš gamtos išgauti, Ebru meno dažai bei kitos tapymo priemonės, atvykusiems lankytojams padės išlaisvinti emocijas. Nupiešti paveikslai perkeliami ne tik ant specialaus papiruso, bet ir ant jūros akmenukų, kriauklių, medžio žievės gabaliukų ar net šakelių. Vaikai, kuriantys meninėje dirbtuvėje, gamtines „žaliavas“, susirenka patys, keliaudami miško takais prie jūros. O tokių, dienos žygių metu susipažįsta su Kuršių nerijos nacionalinio parko gamta. Įspūdingiausi kūrinių motyvai – augalai, jūra, žuvys... „Ebru menas - tapymas ant vandens“ gali būti taikomas ir kaip atpalaiduojanti, netgi gydanti, terapija. O vasaros pabaigoje, lankytojus pakvies vaikų darbų paroda atspindinti Kuršių nerijos nacionalinio parko vertybes. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>21.110183963505435,55.708195828802928,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>lkyhihyghuitgfu</name>
+        <description><![CDATA[Kempingas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>21.100538280639576,55.7122679750982,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Labutis</name>
+        <description><![CDATA[Poilsio bazė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>21.100293016213769,55.706768951941477,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sveikatingumo tako pradžia</name>
+        <description><![CDATA[Parkas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>21.111560524974411,55.704069090339367,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mašinų stovėjimo aikštelė</name>
+        <description><![CDATA[Stovėjimo aikštelė<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>21.129261110752754,55.685175053318268,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Senųjų vilų komplekso pastatas</name>
+        <description><![CDATA[Architektūros paveldas<br> <p> </p><br> <p>smiltynės g. 12, Klaipėda</p><br> ]]></description>
+        <Point>
+          <coordinates>21.111187286344826,55.707356231080588,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Senųjų vilų kompleksas - vila</name>
+        <description><![CDATA[Architektūros paveldas<br> <p> </p><br> <p>Smiltynė g. 10, Klaipėda</p><br> ]]></description>
+        <Point>
+          <coordinates>21.110130881910571,55.708201712437983,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,773 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Utenos r. sav.</name>
+    <description><![CDATA[Utenos r. sav.]]></description>
+    <Folder>
+      <name>Utenos r. sav.</name>
+      <Placemark>
+        <name>Daunorių Šv. Jėzaus Širdies parapijos bažnyčia</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p>Architektūros ir sakralinio paveldo objektas </p><br>
+<p>Daunorių k., Tauragnų sen. LT– 28437, </p><br>
+<p><b>Aprašymas:</b> Bažnyčia pastatyta ir įšventinta 1934 metais. Ji stačiakampė, moderno stiliaus. Pagrindiniame bažnyčios fasade yra kvadrato plano bokštas, šoniniuose fasaduose – stačiakampiai langai. Viduje – trys altoriai. Didžiajame altoriuje yra Šv. Jėzaus Širdies statula, todėl ir bažnyčia tituluota Šv. Jėzaus Širdies bažnyčia. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Daunoriai - Vaišniūnai. Bažnyčia yra Daunorių kaimo centrinėje dalyje į pietryčius nuo pagrindinio kelio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.949561556748762,55.442141753126471,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minčios vandens malūnas</name>
+        <description>
+          <![CDATA[Inžinerinis paveldas<br>
+<p>Architektūros ir technikos paveldo objektas </p><br>
+<p>Minčios k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pirmą kartą malūnas Minčios kaime paminėtas XVIII amžiaus dokumente. Dabartinis malūno pastatas pastatytas XIX amžiaus pabaigoje. Malūno pastatas medinis, su akmenų mūro cokoliu, anksčiau jame veikė milo vėlykla ir lentpjūvė. Šiuo metu malūne veikia privati poilsio bazė.  </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Vaišniūnai - Šeimatis - Tauragnai, Vaišnoriškės kaime pasukti į šiaurę į kelią Vaišnoriškė - Rūgšteliškis - Minčia / Vykti keliu Tauragnai - Šeimatis - Vaišniūnai, pravažiavus Šeimaties kaimą, sukti į šiaurę į kelią Šeimatis - Minčia. Vandens malūnas matomas nuo pagrindinės Minčios kaimo gatvės.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.980234733681932,55.476453505627013,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pakaso vandens malūnas</name>
+        <description>
+          <![CDATA[Inžinerinis paveldas<br>
+<p>Architektūros ir technikos paveldo objektas </p><br>
+<p>Stripeikių k., Linkmenų sen., </p><br>
+<p><b>Aprašymas:</b> Malūnas pastatytas XIX amžiuje. Malūno pastatas dviaukštis, pirmas aukštas ir cokolis sumūrytas iš akmenų, antras aukštas medinis, apkaltas stačiomis lentomis. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Kirdeikiai - Sėla - Tauragnai, prie Kirdeikių kaimo pasukti į šiaurę į kelią Kirdeikiai - Stripeikiai. Pravažiavus Namaitiškio upelį, už 130 m pasukti į dešinę. / Vykti keliu Ginučiai - Stripeikiai. Stripeikių kaime pasukti į pietus į kelią Stripeikiai - Kirdeikiai, pravažiavus Stripeikių kapines, pasukti į kairę.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.941476000667286,55.400547479655145,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paminklas Lietuvos partizanams</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p>Paminklas "Lokio"rinktinės partizanams atminti </p><br>
+<p>Strazdų k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Strazdų kaime 1951 metų balandžio 11 dieną žuvo septyni Vytauto apygardos „Lokio“ rinktinės partizanai, vadovaujami Balio Vaičėno – Liubarto. Jiems atminti Strazdų kaime pastatytas paminklas. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Vaišniūnai - Šeimatis - Tauragnai. Paminklas yra Strazdų kaime prie pagrindinio kelio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>26.030589384895904,55.410325594552837,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1863 metų sukilėlių kapai (Žigų kapinės)</name>
+        <description>
+          <![CDATA[Istorinis paveldas<br>
+<p>Sukilėlių, žuvusių mūšyje su caro kariuomene Minčios miške, kapinės </p><br>
+<p>Ignalinos miškų urėdijos Minčiagirės girininkijos 365 kvartalo pietvakarių dalis, </p><br>
+<p><b>Aprašymas:</b> Per 1863 metų sukilimą Minčios apylinkėse laikėsi K. Maleckio vadovaujamas 300 sukilėlių būrys. 1863 metų gegužės 4 dieną caro kariuomenės dalinys užpuolė ir išblaškė sukilėlių būrį. Žuvę šeši sukilėliai buvo palaidoti miške netoli Minčios kaimo esančiose kapinėse. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Šeimaties kaime pasukti į kelią Šeimatis - Minčia. Pervažiavus Žiežulnos upelį, už 700 m sukti į kairę. Kapinės yra kairėje miško keliuko pusėje už 200 m nuo sankryžos.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.95660937886645,55.467079790022382,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tauragnų piliakalnis su gyvenviete</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Tauragnų k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Piliakalnis įrengtas pietiniame Tauragno ežero krante, palei jo rytinį šlaitą teka Šventės upelis. Nuo gretimų pievų piliakalnį saugo pelkėta dauba, statūs šlaitai ir pylimai. Šalia jo buvo įrengta gyvenvietė. Piliakalnis naudotas II tūkstantmečio po Kristaus pradžioje. 1998 metais piliakalnis Vyriausybės paskelbtas kultūros paminklu. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Sėla - Kirdeikiai. Piliakalnis yra pietiniame Tauragno ežero krante, šalia senojo vieškelio iš Tauragnų į Taurapilio kaimą, už 400 m nuo vieškelio sankryžos su pagrindiniu Tauragnų - Kirdeikių keliu.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.830594588059419,55.439638491302794,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taurapilio piliakalnis su gyvenviete</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Taurapilio k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Taurapilio piliakalnis – svarbus viduramžių archeologijos objektas, Tauragnų pilies vieta. Pirmą kartą istorijos šaltiniuose pilis paminėta 1255 metais, nuo 1387 metų pilis priklausė Vilniaus vyskupams. Piliakalnis įrengtas pietiniame Tauragno ežero krante, atskiroje kalvoje. Šalia piliakalnio buvo gyvenvietė.  </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Sėla - Kirdeikiai. Prie pagrindinio kelio yra informacinis ženklas. Pavažiavus vieškeliu 1 km, sankryžoje sukti į dešinę. Piliakalnis matomas nuo pagrindinio kelio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.86952232207452,55.448130520891155,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šeimaties piliakalnis su gyvenviete</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Tauragnų sen., Minčiagirės girininkija, </p><br>
+<p><b>Aprašymas:</b> Piliakalnis įrengtas Žiežulnio ežero pietvakarių krante. Tai – pailga kalva stačiais šlaitais, nuo gretimų aukštumų atskirta gilia 10 metrų pločio dauba. Šalia piliakalnio buvo gyvenvietė. Piliakalnis naudotas I tūkstantmetyje po Kristaus. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Šeimaties kaime pasukti į kelią Šeimatis - Minčia. Piliakalnis yra pietvakariniame Žiežulnio ežero krante, netoli kelio Šeimatis - Minčia tilto per Žiežulnos upelį, miške, už 500 m į šiaurės vakarus.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.949306246437224,55.46376442286428,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sėlės piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Sėlės k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Piliakalnis įrengtas atskiroje pailgoje kalvoje, apsuptas pelkės. Pietrytiniame aikštelės gale supiltas pylimas, žemiau šio pylimo kalno šlaite yra terasa. Piliakalnis naudotas I tūkstantmetyje po Kristaus.  </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Sėlė Kirdeikiai. Sėlės kaime pasukti į kelią Sėlė -  Stripeikiai ir važiuoti juo 700 m, po to pasukti į kairę į kelią Sėlė - Varniškės (pro Mirėlio ežerą). Važiuoti keliu 1,1 km ir sustoti. piliakalnis yra už 300 m į rytus nuo kelio esančiame miškelyje. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.90595461184439,55.426386214384628,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taurapilio pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Taurapilio k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas įrengtas kalvoje, esančioje Tauragno ežero pietiniame krante, netoli Taurapilio piliakalnio. Pilkapyną sudaro dvi pilkapių grupės, anksčiau buvę atskirtos upelio: pirmąją grupę sudarė 8 pilkapiai su akmenų vainikais, juose buvo palaidoti kariai; antrąją grupę sudarė keliasdešimt pilkapių su akmenų vainikais, kuriuose buvo palaidoti eiliniai bendruomenės nariai. Pilkapynas naudotas V – VI amžiuose. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Sėla - Kirdeikiai. Prie pagrindinio kelio yra informacinis ženklas. Pavažiavus vieškeliu 1 km, sankryžoje sukti į dešinę. Pilkapynas yra kairėje kelio pusėje už 1,2 km nuo posūkio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.876321012871376,55.444858474427228,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varniškių pilkapynas vad. Milžinkapiais</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Varniškių I vs., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas įrengtas šalia Tauragno ežero rytinio kranto esančioje kalvoje. Jame yra 12 pilkapių, išsidėsčiusių kompaktiškoje grupėje. Sampilai 8 – 10 metrų skersmens, iki 2 metrų aukščio. Pilkapių pagrindus juosia grioviai. Pilkapynas naudotas IX – XII amžiuose.  </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Ginučiai - Stripeikiai. Stripeikių kaime sukti į kelią Stridpeikiai - Varniškės - Daunoriai. Privažiavus kelio sankryžą su keliu Skroblus I - Varniškės ties Tauragno ežeru, sukti į dešinę link Varniškių I viensėdžio. Pilkapynas yra už 100 m į šiaurės rytus nuo sodybos, pasiekiamas pro sodybą link miško vedančiu keliuku.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.938281224611874,55.424339960091686,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šeimaties pilkapis II</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Šeimaties k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapis įrengtas šalia stataus link Tauragno ežero besileidžiančio šlaito, šalia jo eina kelais iš Tauragnų į Šeimatį. Pilkapio sampilas yra 10 metrų skersmens ir 2 metrų aukščio. Pilkapis datuojamas IX – XII amžiais. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Už 900 m į rytus nuo Stučių kaimo ir už 1,4 km į vakarus nuo Šeimaties kaimo yra kelio nuoroda į Moko ir Mokiuko akmenis. Pilkapis yra pietinėje kelio pusėje esančiame krūmyne, šalia kelio nuorodos.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.895806168444693,55.454904855091698,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šimkūnų akmuo su dubeniu</name>
+        <description>
+          <![CDATA[Mitologinis objektas<br>
+<p>Mitologinis akmuo </p><br>
+<p>Šimkūnų k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Akmuo yra netoli Tauragnų – Sėlos kelio, senoje sodybvietėje, prie gyvenamojo namo pamatų. Akmuo 1X1,1 metro dydžio, netaisyklingo apskritimo formos, viršutinė dalis plokščia. Plokštumos viduryje yra 21 centimetro skersmens ir 19,5 centimetro gylio smailiadugnis dubuo.  </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Sėla. Prie kelio nuorodos į Taurapilio piliakalnį, sukti į šiaurę į žvyrkelį ir pavažiuoti 120 m. Akmuo yra senoje sodybvietėje kairėje kelio pusėje už 50 m nuo kelio, šalia pastato pamatų.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.856806257864388,55.436594975281793,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šeimaties akmenys vad. Mokas ir Mokiukas</name>
+        <description>
+          <![CDATA[Mitologinis objektas<br>
+<p>Mitologiniai akmenys </p><br>
+<p>Šeimaties k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Mitologiniai akmenys yra šalia Šeimaties pilkapių, nedidelės kalvos šlaite.  Mokas – penkiakampio kūgio nupjauta viršūne formos akmuo, kurio dydis – 3,3X3,6 metro, aukštis – 2,8 metro. Kiek žemiau Moko yra Mokiukas – netaisyklingos formos, 1 metro aukščio akmuo. Pasakojama, kad akmuo vadinamas Mokiene yra Tauragno ežero dugne netoli kranto. Apie akmenis žinoma daug padavimų ir sakmių. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Už 900 m į rytus nuo Stučių kaimo ir už 1,4 km į vakarus nuo Šeimaties kaimo yra kelio nuoroda į Moko ir Mokiuko akmenis. Prie kelio nuorodos yra miško kelias, vedantis į šiaurę nuo pagrindinio kelio. Akmenys yra už 100 m nuo posūkio esančiame kalvos šlaite.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.895167697802261,55.45594181401276,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vyžių, Kauprinės akmuo</name>
+        <description>
+          <![CDATA[Mitologinis objektas<br>
+<p>Mitologinis akmuo </p><br>
+<p>Vyžių k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Akmuo yra vadinamajame Kauprinių miške, pailgos kalvos papėdėje. Akmuo 2 m aukščio, tačiau teigiama, kad iš tikro jis yra daug didesnis įskaitant požeminę dalį. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.984675479908493,55.430462210736081,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varniškių II dvi sodybos</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p>Etnografinis kaimas </p><br>
+<p>Varniškių II vs., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> XVIII amžiaus viduryje Varniškės buvo Tauragnų dvaro užsienis; šio amžiaus pabaigoje įsikūrė pirmieji vienkiemiai. Iki XX amžiaus pradžios susiformavo padrikasis išretėjęs 2 sodybų kaimas, kuriame šiandien valstybės saugomais paskelbti 9 pastatai. Gamtinės sąlygos nulėmė netaisyklingą sodybų išsidėstymą – pastatai statyti lygesnėse vietose, prie keliukų; sodybose gausu medžių. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Ginučiai - Stripeikiai. Stripeikių kaime sukti į kelią Stridpeikiai - Varniškės - Daunoriai. Privažiavus kelio sankryžą su keliu Skroblus I - Varniškės ties Tauragno ežeru, sukti į dešinę link Varniškių I viensėdžio. Už 860 m nuo sankryžos, pravažiavus paskutines Varniškių I sodybas, sukti į kairę. Kaimas prasideda už 800 m nuo posūkio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.959577892683804,55.420448596128509,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vaišnoriškės keturių sodybų kaimas</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p>Etnografinis kaimas </p><br>
+<p>Vaišnoriškės k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> XVIII amžiuje Vaišnoriškės vietovėje buvo smuklė, stovėjusi prie senojo Tauragnų – Breslaujos vieškelio. XIX amžiuje vietovėje ėmė kurtis sodybos. Šiuo metu Vaišnoriškė – 4 sodybų padrikasis kaimas. Jo planas kompaktiškas, tačiau sodybos ir pastatai išdėstyti laisvai, abiejuose Būkos upės krantuose, kiemų erdvės atviros, netaisyklingos. Kaimo pakraščiuose, prie gatvės, stovi kluonai, paupyje – pirtelės.  </p><br>
+<p><b>Kaip atvykti:</b> Vykti keiu Tauragnai - Šeimatis - Vaišniūnai. Už 6 km nuo pagrindinio Vaišniūnų - Ginučių kelio yra nuoroda į kaimą. Kaimas yra kitoje Būkos upės pusėje, už  100 m nuo sankryžos ir kelio nuorodos.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>26.02689409596432,55.425849306531603,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strazdų penkių sodybų kaimas</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p>Etnografinis kaimas </p><br>
+<p>Strazdų k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Kaimo apylinkėse XVIII amžiuje buvo Baluošekulio užsienis, kuriame gyveno Jurgio Strazdo šeima. XIX amžiaus viduryje vienkiemis suskirstytas į atskirus sklypus; taip pradėjo formuotis padrikasis kaimas. Šiuo metu kaime yra 5 sodybos iš kurių 3 yra saugomos valstybės. Kaimas įsikūręs Ažvinčių girios laukymėje, Baluošo ežero aukštutinėje terasoje. Sodybos išsidėstę padrikai, sklypai netaisyklingos formos, be aiškių ribų. Pastatai kaimavietėje išsidėstę tolygiai, dauguma – prie Vaišnoriškės – Šuminų kelio. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Vaišniūnai - Šeimatis - Tauragnai. Kaimas yra prie pagrindinio kelio už 4 km nuo sankryžos su keliu Vaišniūnai - Ginučiai ir už 2 km nuo Vaišnoriškės kaimo.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>26.029715995346915,55.410448274009774,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šuminų septynių sodybų kaimas</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p>Etnografinis kaimas </p><br>
+<p>Šuminų k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> XVIII amžiaus pradžioje Šuminų kaimo vietoje buvo deguto varykla ir anglių degykla. XVII amžiaus antrojoje pusėje čia įsikūrė eigulys Antanas Šuminas. Kaimas augo ir iki XX amžiaus vidurio susiformavo padrikasis 13 sodybų kaimas, išsidėstęs Baluošo ežero pusiasalyje. Kaime pastatai išsidėstę laisvai, kaimo vidurinėje dalyje yra pirkios ir svirnai, toliau – tvartai, dar atokiau – kartu sustatyti kluonai. Pirtys stovi prie ežero. Pastatai statyti vien iš pušinių rąstų, akmenys pamatams vežti iš kaimo apylinkių.  </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Vaišniūnai - Šeimatis - Tauragnai. Už 3,8 km nuo kelio sankryžos su keliu Vaišniūnai - Ginučiai yra nuoroda į Šuminų kaimą. Prie kelio nuorodos sukti į pietus. kaimas prasideda už 850 m nuo posūkio ir kelio nuorodos.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>26.041368868061856,55.399664627893401,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tauragnų pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Šimkūnų k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas yra lygumoje šalia Tauragno ežero. Pilkapyne išlikę 4 pilkapiai, kurių skersmuo - iki 8 m, aukštis - 0,3 m. Pilkapynas ilgą laiką buvo ariamas, dauguma jo pilkapių sampilų sunaikinti, bet kapai, manoma, gali būti išlikę. Pilkapynas datuojamas V - VIII amžiais, mirusieji jame laidoti degintiniuose kapuose. Archeologinių tyrimų metu ratas vyro kapas su įkapėmis (ginklais ir žalvarinėmis apyrankėmis). Už 0,7 km į pietvakarius nuo pilkapyno yra Tauragnų piliakalnis su gyvenviete. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Sėla - Kirdeikiai. Piliakalnis yra pietiniame Tauragno ežero krante, šalia senojo vieškelio iš Tauragnų į Taurapilio kaimą, už 1 km nuo vieškelio sankryžos su pagrindiniu Tauragnų - Kirdeikių keliu.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.83998595480573,55.443565420314449,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šimkūnų akmuo su &quot;Velnio pėda&quot;</name>
+        <description>
+          <![CDATA[Mitologinis objektas<br>
+<p>Mitologinis akmuo </p><br>
+<p>Šimkūnų k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Akmuo 1,72 X 1,3 m dydžio, 0,75 m aukščio. Vakarinėje akmens viršūnės dalyje - 0,4 X 0,15 m dydžio natūrali ovalinė duobutė, žmonių vadinama "Velnio pėda". Akmens pietinis kraštas nuskilęs. Apie šį akmenį sakoma: “Pavieškelėje prie akmens vaidenasi. Dieną per sumą matę baltą vištą bėgiojant, gaidžio balsu rėkiant girdėję.” </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Sėla - Kirdeikiai. Akmuo yra pakelėje augančiame krūmyne, priešais kelio sankryžą su keliu, vedančiu į Taurapilio kaimą, netoli autobusų stotelės.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.857410894141793,55.434733754257671,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šeimaties pilkapis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Šeimaties k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapis - didesnio, vėliau sunaikinto pilkapyno dalis. Kitoje   Tauragnų - Šeimaties kelio pusėje yra kitas panašaus laikotarpio pilkapis, anksčiau priklausęs tam pačiam pilkapynui. Pilkapio sampilas 10 m skersmens, aukštis - 1,3 m. Pilkapis datuojamas IX - XII amžiais. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Už 900 m į rytus nuo Stučių kaimo ir už 1,4 km į vakarus nuo Šeimaties kaimo yra kelio nuoroda į Moko ir Mokiuko akmenis. Prie kelio nuorodos yra miško kelias, vedantis į šiaurę nuo pagrindinio kelio. Pilkapis yra kairėje miško keliuko pusėje aukštumoje už 50 m nuo posūkio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.895016833096957,55.455456768840705,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stučių pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Stučių k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas įrengtas aukštame Tauragno ežero krante, jį sudaro du pilkapiai, nutolę vienas nuo kito per 10 m. Pilkapių sampilai 8 ir 10 m skersmens, 0,7 ir 1,5 m aukščio. Pilkapynas datuojamas IX - XII amžiumi. Už 0,35 km  į šiaurės rytus yra Šeimaties I ir Šeimaties II pilkpiai. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Už 600 m į rytus nuo Stučių kaimo yra sankryža su miško keliu, einančiu į pietus palei Tauragno ežerą link Skroblaus I kaimo. Pasukus į miško kelią pavažiuoti 150 m. Pilkapynas yra dešinėje kelio pusėje.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.890838663486402,55.453647958805554,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šeimaties akmuo vad. Velniapėdžiu</name>
+        <description>
+          <![CDATA[Mitologinis objektas<br>
+<p>Mitologinis akmuo </p><br>
+<p>Šeimaties k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Akmuo pilkai melsvos spalvos smulkiagrūdis granitas, 0,45 X 1,17 m dydžio, siekia 0,24–0,26 m aukštį. Akmens viršuje yra netaisyklingos formos, 9 X 10 cm dydžio, 8 cm gylio įdubimas, vadinamas Velnio pėda. Pėduoto akmens aplinkoje iš žemės kyšo dar keli nedideli akmenys. Pasakojama, kad pėdą įmynė Velnias, vydamasis švedus. 1935 m. duomenimis, Velnio pėdoje susirenkančiu lietaus vandeniu, moterys trindavo skaudamas vietas ir pagydavo. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis -Vaišniūnai. Šeimaties kaime sukti į kelią Šeimatis - Liumpiškės. Akmuo yra kelio 
+šiaurinėje pusėje už 1,1 km nuo posūkio, alksnyne, vos žymioje lomoje.
+</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.938280436790222,55.464543441654904,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šeimaties pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Šeimaties k. Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapyną sudaro penki pilkapiai, esantys gana kompaktiškoje grupėje, vienas nuo kito nutolę per 6 - 15 m. Pilkapių sampilai 9 - 12 m skersmens, 0,2 - 1 m aukščio, jų pagrindus juosia akmenų vainikai. Dalis pilkapių buvo sunaikinta statant sodybą, išlikusieji pilkapiai apardyti. Pilkapynas datuojamas I tūkstantmečio po Kristaus viduriu. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis -Vaišniūnai. Šeimaties kaime sukti į kelią Šeimatis - Liumpiškės. Pilkapynas yra kelio 
+pietrytinėje pusėje už 1,1 km nuo posūkio, šalia sodybos pastatų.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.939691093904518,55.464040836509689,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daunorių, Paduobių pilkapynas vad. Kuronais</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Daunorių k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas yra netoli Žiežulio ežero ir Šeimaties piliakalnio. Jį sudaro 30 pilkapių. Jų sampilų skersmuo  6 - 12 m, aukštis  0,3 - 1 m. Sampilų pagrindus juosia akmenų vainikai arba supa duobės.  Daugumos pilkapių sampilai apardyti ariant ir kasant duobes. Pilkapynas netyrinėtas, datuojamas VI - VIII amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Už 200 m pietryčius nuo Šeimaties kaimo sukti į kelią Šeimatis - Minčia. Pilkapynas yra abiejose kelio pusėse už 2 km nuo posūkio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.954795815336347,55.457409765619346,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minčios pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Minčios k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas yra į pietus nuo Krakežerio (Daglėjaus) ežero esančioje kalvoje. Pilkapyne yra 26 pilkapiai, jų sampilai 8 - 20 m skersmens, 0,6 - 1,8 m aukščio. Sampilai apjuosti grioviais bei duobėmis. Pilkapynas datuojamas IX - XII amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Minčia  - Balčiai - Sirvydžiai. Pilkapynas yra abiejose kelio pusėse už 2,4 km į vakarus nuo Minčios kaimo, netoli kelio sankryžos su miško keliu, einančiu link Žiežulnio ežero.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.943604118008228,55.479356355601745,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minčios II pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Minčios k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas yra kalvotoje vietovėje į pietus nuo Krakežerio (Daglėjaus) ežero. Pilkapyne yra 72 pilkapiai. Jie išsidėįstę dviejose pakilumose, kurias skiria šlapia loma. Pilkapiai nutolę vienas nuo kito nuo kelių iki 100 m. Jų sampilai 5 - 14 m skersmens, 0,5 - 1,7 m aukščio. Sampilų pagrindus juosia grioviai ir duobės. Pilkapynas datuojamas IX - XII amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Minčia  - Balčiai - Sirvydžiai. Pilkapynas yra  už 500 m į pietvakarius nuo kelio sankryžos su keliu Šeimatis - Minčia, miške, šalia  keliuko.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.934890877377022,55.477442637494654,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minčios III pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Minčios k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas yra kalvotoje vietovėje į pietryčius nuo Krakežerio (Daglėjaus) ežero. Pilkapyne yra 29 pilkapiai. Jų sampilai 7 - 14 m skersmens, 0,4 - 2,5 m aukščio. Dalies pilkapių sampilus supa duobės, kitus juosia grioviai. Pilkapynas tyrinėtas 1985 metais, ištyrus 5 pilkapius, rasti tik degintiniai palaidojimai, pilkapynas datuojamas IX - XII amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Minčia  - Balčiai - Sirvydžiai. Pilkapynas yra abiejose kelio pusėse už 1,8 km į vakarus nuo Minčios kaimo.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.952478313459284,55.47849711378948,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minčios IV pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Minčios k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas yra netoli Minčios III pilkapyno. Jame yra 2 pilkapiai: vienas yra 12 m skersmens ir 2 m aukščio, kitas - 10 m skersmens ir 1 m aukščio. Pilkapių sampilų pagrindus juosia grioviai. Pilkapynas datuojamas IX - XII amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Minčia  - Balčiai - Sirvydžiai. Pilkapynas yra pietinėje kelio pusėje, už 1,5 km į vakarus nuo Minčios kaimo,  miške už 30 m nuo kelio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.957957805744346,55.478197985111535,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minčios V pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Minčios k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas įrengtas aukštumoje į vakarus nuo Minčios upės slėnio. Jame yra trys pilkapiai. Jų sampilai  yra 10, 11 ir 12 m skersmens, 1, 1,5, 1,8 m aukščio. Pilkapių sampilus juosia grioviai. Pilkapynas datuojamas IX - XII amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Minčia  - Balčiai - Sirvydžiai. Pilkapynas yra šiaurinėje kelio pusėje, už 400 m į vakarus nuo Minčios kaimo,  miške, už 260 m nuo kelio, šalia miško kvartalinės linijos.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.97479666832696,55.479665409536345,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minčios VI pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Minčios k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas įrengtas aukštumoje Į vakarus nuo Krakežerio (Daglėjaus) ežero. Pilkapyne yra 3 pilkapiai, kurių sampilai 9 m skersmens ir 0,4 m aukščio. Pilkapių sampilus juosia duobės. Pilkapynas datuojamas IX - XII amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Minčia  - Balčiai - Sirvydžiai. Pilkapynas yra pietinėje kelio pusėje, už 1 km į pietryčius nuo Balčių kaimo,  miške už 300 m nuo kelio. Link pilkapyno veda miško keliukas, toliau einantis į Liumpiškių kaimą.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.931062243020953,55.481968011689034,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skroblaus I pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Skroblaus I k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas įrengtas aukštumos šlaite prie Tauragno ežero, netoli Varniškių pilkapyno. Pilkapyne yra 10 pilkapių. Jų sampilai 6 - 8 mskersmens, 0,3 - 1,5 m aukščio, apjuosti grioviais ir duobėmis. Pilkapynas datuojamas IX - XII amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Ginučiai - Stripeikiai. Stripeikių kaime sukti į kelią Stridpeikiai - Varniškės - Daunoriai. Privažiavus kelio sankryžą su keliu Skroblus I - Varniškės ties Tauragno ežeru, sukti į kairę link Skroblaus I kaimo. Pilkapynas yra dešinėje kelio pusėje už 500 m nuo sankryžos.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.93349452843584,55.427672899737985,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varniškių pilkapis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Varniškių I vs., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapis įrengtas aukštumoje šalia Tauragno ežero, netoli Skroblaus I pilkapyno. Pilkapio sampilas 8 m skersmens ir 1,5 m aukščio. Pilkapis datuojamas IX - XII amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Ginučiai - Stripeikiai. Stripeikių kaime sukti į kelią Stridpeikiai - Varniškės - Daunoriai. Privažiavus kelio sankryžą su keliu Skroblus I - Varniškės ties Tauragno ežeru, važiuoti tiesiai 320 m. Pilkapis įrengtas kairėje kelio pusėje, šalia kelkraščio. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.936779216678701,55.426620004024116,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varniškių II pilkapynas</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Archeologijos paveldo objektas </p><br>
+<p>Varniškių I vs., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Pilkapynas įrengtas aukštumoje šalia Tauragno ežero, netoli Skroblaus I pilkapyno. Pilkapyne yra 4 pilkapiai, jų sampilai 7 - 8 m skersmens, iki 1 m aukščio, suplokštėję. Pilkapynas datuojamas IX - XII amžiumi. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Ginučiai - Stripeikiai. Stripeikių kaime sukti į kelią Stridpeikiai - Varniškės - Daunoriai. Privažiavus kelio sankryžą su keliu Skroblus I - Varniškės ties Tauragno ežeru, važiuoti tiesiai 60 m. Pilkapynas įrengtas kairėje kelio pusėje, šalia kelkraščio. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.936678589089905,55.424393877401862,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ragas vad. Dievaragiu</name>
+        <description>
+          <![CDATA[Mitologinis objektas<br>
+<p>Mitologinė vietovė </p><br>
+<p>Aukštaglynio vs., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Tai pusiasalis, įsiterpęs tarp Uteno ežero šiaurėje ir Utenykščio ežero rytuose. Pietuose ir vakaruose ragas ribojasi su pelke ir Utenykščio ežero įlanka, vadinama “Lašmeniu”, iš kurios išteka Būkos upė. Pusiasalio paviršius iškilęs. Tai sunkiai prieinama vietovė, kurią pasiekti lengviausia brasta per Novenos upelį, jungiantį Uteno ir Utenykščio ežerus. Pasakojama, kad čia buvęs labai didelis miškas. Kartą žmonės grybaudami pasiklydę ir pamatę seną žmogų, kuris, parodęs kelią, dingo iš akių. Grįžę namo pasakojo, kad matė Dievą. Taipogi pasakojama, kad čia buvo trimituojama suktiniu ragu, sveikinant pirmąją vasaros mėnulio jaunatį. Pusiasalio teritorijoje draudžiama stovyklauti, statyti palapines ir kūrenti laužus. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Šeimaties kaime pasukti į kelią Šeimatis - Minčia. Už 1,7, km nuo posūkio sukti į dešinę  į miško keliuką. Rago teritorija prasideda abipus kelio už 3 km nuo posūkio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>26.006592199627235,55.452574122655861,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šeimaties pradinė mokykla</name>
+        <description>
+          <![CDATA[Architektūros paveldas<br>
+<p>Architektūros paveldo objektas </p><br>
+<p>Šeimaties k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Tai eklektikos architektūros stiliaus plytų ir akmens mūro pastatas, pastatytas Šeimaties kaimo pietiniame pakraštyje, vietoje, kurioje XVIII amžiuje teigiama buvus smuklę. Šiame pastate nuo 1913 metų iki 1988 metų veikė pradinė mokykla. 1992 metais mokyklos pastatas įtrauktas į Kultūros vertybių registrą, o 1993 metais privatizuotas. Šiuo metu pastats apleistas ir nenaudojamas. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Pastatas yra pietiniame Šeimaties kaimo pakraštyje esančioje medžiais apaugusioje kalvoje, už 350 m nuo pagrindinio kelio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.91868569333597,55.455106934664954,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šeimaties sentikių maldos namai</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p>Šeimaties sentikių religinės bendruomenės maldos namai </p><br>
+<p>Šeimaties k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Tai medinis sentikių sakralinei architektūrai būdingo stiliaus pastatas. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Pastatas yra šiauriniame Šeimaties kaimo pakraštyje, šalia miško, už 50 m nuo pagrindinio kelio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.916018647949976,55.458774385825841,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Šuminų pušis</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Valstybės saugomas botaninis gamtos paveldo objektas </p><br>
+<p>Šuminų k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Šuminų pušis - valstybės saugomas botaninis gamtos paveldo objektas. Pušies kamieno apimtis -1,3 m, aukštis - 18 m, amžius - apie 250 metų.  </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Vaišniūnai - Šeimatis - Tauragnai. Už 3,8 km nuo kelio sankryžos su keliu Vaišniūnai - Ginučiai yra nuoroda į Šuminų kaimą. Medis yra Šuminų kaime, apie 100 m į rytus nuo ežero kranto, ežero terasos šlaite.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>26.039630857520237,55.399137283719369,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varniškių II ąžuolas</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Valstybės saugomas botaninis gamtos paveldo objektas </p><br>
+<p>Varniškių II k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Ąžuolo kamieno apimtis - 5 m, aukštis - 23 m, amžius - apie 450 metų. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Ginučiai - Stripeikiai. Stripeikių kaime sukti į kelią Stridpeikiai - Varniškės - Daunoriai. Privažiavus kelio sankryžą su keliu Skroblus I - Varniškės ties Tauragno ežeru, sukti į dešinę link Varniškių I viensėdžio. Už 860 m nuo sankryžos, pravažiavus paskutines Varniškių I sodybas, sukti į kairę.  Už 800 m nuo posūkio prasideda Varniškių II kaimas. Ąžuolas yra miško laukymėje šalia Pliaušės upės už 800 m į šiaurės vakarus nuo kaimo. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.955471657617686,55.427945858605185,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varniškių liepa</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Valstybės saugomas botaninis gamtos paveldo objektas </p><br>
+<p>varniškių II k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Varniškių liepa yra valstybės saugomas botaninis gamtos paveldo objektas.  Mažalapė liepa (Tilia cordata Mill.) auga Varniškių II kaimo pakraštyje, šalia sodybos. Jos apimtis - 3,1 m, aukštis - 25 m, amžius - apie 200 metų. Liepos būklė patenkinama, tačiau stambi kamieno rytinės dalies atšaka nulaužta. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Ginučiai - Stripeikiai. Stripeikių kaime sukti į kelią Stridpeikiai - Varniškės - Daunoriai. Privažiavus kelio sankryžą su keliu Skroblus I - Varniškės ties Tauragno ežeru, sukti į dešinę link Varniškių I viensėdžio. Už 860 m nuo sankryžos, pravažiavus paskutines Varniškių I sodybas, sukti į kairę. Varniškių II prasideda už 800 m nuo posūkio. Liepa yra kaimo pietinėje dalyje už 150 m nuo pagrindinio kelio</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.960020812329397,55.41909525981314,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vyžių kaimo kryžius</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p>Sakralinio ir tautodailės paveldo objektas </p><br>
+<p>Vyžių k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Kryžius pastatytas 1992 metais gamtos mokslų daktaro Romualdo Šimkūno iniciatyva, jo autorius - tautodailininkas Gediminas Isokas. Iš kitų nacionalinio parko teritorijoje esančių kryžių šis išsiskiria drožybos technika, primenančia tašytą akmenį. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeinamtis - Vaišniūnai. Už 940 m nuo Vaišnoriškės kaimo arba už 4,5 km nuo Daunorių kaimo sukti į pietus į miško kelią, vedantį link Baluošo ežero. Miške, už 150 m nuo  posūkio sukti  į dešinę į kitą miško kelią, vedantį į Vyžių kaimą. Kryžius stovi kelių sankryžoje už 800 m nuo posūkio.  </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>26.001259889978414,55.423274550996545,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paminklas 1863 metų sukilėliams</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p>1863 metų sukilimo dalyvių atminties ir pagerbimo vieta </p><br>
+<p>Minčios k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Per 1863 metų sukilimą Minčios apylinkėse laikėsi K. Maleckio vadovaujamas 300 sukilėlių būrys. 1863 metų gegužės 4 dieną caro kariuomenės dalinys užpuolė ir išblaškė sukilėlių būrį. Šiam įvykiui atminti prie Minčios vandens malūno pastatytas paminklas. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Vaišniūnai - Šeimatis - Tauragnai, Vaišnoriškės kaime pasukti į šiaurę į kelią Vaišnoriškė - Rūgšteliškis - Minčia / Vykti keliu Tauragnai - Šeimatis - Vaišniūnai, pravažiavus Šeimaties kaimą, sukti į šiaurę į kelią Šeimatis - Minčia. Paminklas pastatytas netoli vandens malūno  ir matomas nuo pagrindinės Minčios kaimo gatvės.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.97997387096947,55.476009565561654,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ineigos stovyklavietė</name>
+        <description>
+          <![CDATA[Poilsiavietė, stovyklavietė, laužavietė<br>
+<p> </p><br>
+<p>Vyžių k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Stovyklavietė įrengta prie Būkos upės, šalia kelio Vaišniūnai - Šeimatis - Tauragnai. Lankytojų patogumui stovyklavietėje įrengtos pavėsinės, lauko stalai su suolais, laužavietės, lauko tualetai, lieptas į ežerą, persirengimo kabina, informacinis stendas bei kita infrastruktūra. Stovyklavietė pasiekiama automobiliu. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeinamtis - Vaišniūnai. Už 2 Km nuo Vaišnoriškės kaimo arba už 3,4 km nuo Daunorių kaimo sukti į šiaurę į miško kelią, vedantį link Būkos upės. Stovyklavietė yra kelio gale už 100 m nuo posūkio.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>26.000768058448063,55.437147183790486,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minčiagirės girininkija</name>
+        <description>
+          <![CDATA[Girininkija<br>
+<p> </p><br>
+<p>Šeimaties k., LT-28437 Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Minčiagirės girininkija priklauso Ignalinos miškų urėdijai. Ji įkurta 1958 metais. Didelis dėmesys girininkijoje skiriamas rekreacijai, gamtos ir kultūros paveldo apsaugai. Kasmet pagaminama apie 4 tūkst. m3 likvidinės medienos, miško želdinimo darbai vykdomi apie 3 ha plote. G-je vykdomi kraštovaizdžio formavimo kirtimai. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Girininkija yra centrinėje Šeimaties kaimo dalyje pagrindinės kaimo gatvės šiaurinėje pusėje, už 200 m nuo kelio Tauragnai - Šeimatis - Vaišniūnai.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.921580081987923,55.456426190890973,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Informacinis stendas prie įvažiavimo į Aukštaitijos nacionalinį parką</name>
+        <description>
+          <![CDATA[Informacinis stendas<br>
+<p> </p><br>
+<p>Kirdeikių k., Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Informacinis stendas informuoja  pie Aukštaitijos nacionalinį parką, lankymosi ir poilsiavimo galimybes jame, gamtos ir kultūros vertybes. Šalia pateikta nacionalinio parko turistinė schema. Prie stendo įrengta automobilių stovėjimo aikštelė. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Kirdeikiai - Ginučiai. Stendas yra rytinėje kelio pusėje už 230 m nuo kelio sankryžos su keliu Kirdeikiai - Šakarva.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.957563918569463,55.370053577499512,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Informacinis stendas prie įvažiavimo į Aukštaitijos nacionalinį parką</name>
+        <description>
+          <![CDATA[Informacinis stendas<br>
+<p> </p><br>
+<p>Tauragnai, Tauragnų sen., </p><br>
+<p><b>Aprašymas:</b> Informacinis stendas informuoja  pie Aukštaitijos nacionalinį parką, lankymosi ir poilsiavimo galimybes jame, gamtos ir kultūros vertybes. Šalia pateikta nacionalinio parko turistinė schema.  </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Tauragnai - Šeimatis - Vaišniūnai. Stendas yra pietinėje kelio pusėje už 500 m nuo Tauragnų.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.837186836733025,55.448850944253401,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automobilių stovėjimo aikštelė prie įvažiavimo į Aukštaitijos nacionalinį parką</name>
+        <description><![CDATA[Stovėjimo aikštelė<br> <p> </p><br> <p>Kirdeikių k., </p><br> ]]></description>
+        <Point>
+          <coordinates>25.957951955200386,55.369922540848577,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirdeikių bažnyčia</name>
+        <description>
+          <![CDATA[Maldos namai, sakralinis paveldas<br>
+<p>Kirdeikių Šv. Jono krikštytojo parapijos bažnyčia. </p><br>
+<p>Kirdeikių k., Kirdeikiai</p><br>
+<p><b>Aprašymas:</b> Kirdeikių Šv. Jono krikštytojo parapijos bažnyčia, pastatyta ir įšventinta 1927 metais pirmojo jos klebono Juozo Breivos iniciatyva. Bažnyčia eklektinės architektūros, su 12 langų ir trisiene apside. Vidus padalintas į tris navas, paremtas kolonomis. Sienos ir lubos lentinės. Didysis altorius su keturiomis skulptūromis ir paveikslais.  </p><br>
+<p><b>Kaip atvykti:</b> Nuo Tauragnų važiuoti pietryčių kryptimi, Kirdeikių kaimo link. Privažiavus kaimą važiuoti pagrindiniu keliu. Privažiavus sankryžą, kurios dešinėje pusėje yra medinis kryžius, kairėje pusėje, Pakaso ežero pakrantėje, pamatysite bažnyčią. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.941755565179239,55.377257632384527,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tauragnų krašto muziejus</name>
+        <description>
+          <![CDATA[Muziejus, ekspozicija<br>
+<p>Tauragnų kašto muziejus. Nuolatinė ekspozicija supažindina su Tauragnų krašto praeitimi.  </p><br>
+<p>A. Musteikio g. 29, Tauragnai</p><br>
+<p><b>Aprašymas:</b> Muziejus Tauragnuose  įrengtas 1971 m. Tuomet jis buvo pavadintas Teofilio Tilvyčio memorialiniu muziejumi. Po nepriklausomybės atgavimo muziejaus ekspozicija buvo pakeista, kartu pakeistas ir muziejaus pavadinimas, kuris išliko iki šių dienų. Nuolatinė muziejaus ekspozicija supažindina lankytojus su Tauragnų krašto praeitimi nuo 1261 m. iki nepriklausomybės atkūrimo 1990 m. Ekspozicijoje pristatomi žymiausi šio krašto kultūros veikėjai (A. Gineitis, J. Tilvytis-Žalvarnis, J. Šnapštys-Margalis, M. Balčiūnas), rašytojai (T. Tilvytis, P. Andriušis, E. Mikulėnaitė), dailininkai (L. Katinas, E. Lukštaitė-Marčiulionienė), tremtiniai, kovotojai už Lietuvos laisvę. Šalia nuolatinės ekspozicijos muziejuje rengiamos parodos: tautodailės, fotografijų, tapybos, grafikos ir kt. </p><br>
+<p><b>Kaip atvykti:</b> Vykti keliu Utena - Tauragnai - Kirdeikiai - Ignalina. Muziejus yra prie pagrindinės Tauragnų gatvės. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.814605954570137,55.442740314096952,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Žigo liepa</name>
+        <description>
+          <![CDATA[Gamtinis paveldas<br>
+<p>Buvusiso Žigų sodybos vietoje auganti liepa </p><br>
+<p><b>Kaip atvykti:</b> Važiuoti keliu Daunoriai-Minčia. Pervažiavus tiltą per Žiežulnos upelį važiuoti dar apie 600 m iki į kairę atsišakojančio keliuko. Juo pasukus eiti dar apie 300 m kol priekyje pasimatys ežeras. Liepa yra dešnėje pusėje.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.954472621865058,55.465339132377359,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koplytstulpis Šv. J.Nepomukui</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p>Koplytstulpis Šventajam Jonui Nepomukui šalia tilto per Būkos upę šalia Strazdų kaimo. </p><br>
+<p><b>Kaip atvykti:</b> Važiuojant keliu iš Vaišniūnų į Vaišnoriškę koplystulpis stovi dešnėje kelio pusėje vos pervažiavus tiltą per Būkos upę.</p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>26.034762764395456,55.407818034501624,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stučių kaimo kryžius</name>
+        <description><![CDATA[Paminklas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>25.873198628739591,55.454696711990252,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paminklas generolui K.Musteikiui </name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p>Generolo K.Musteikio gimtinėje pastatytas paminklas jo atminimui. </p><br>
+<p><b>Aprašymas:</b> Brigados admirolas ir Krašto apsaugos ministras Kazys Musteikis 1940 m. birželio 14-15 d. Lietuvos Respublikos Vyriausybės posėdyje siūlė atmesti sovietų ultimatumą ir priešintis okupacijai ginklu. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.87748737195113,55.454973336133946,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaboriškių kaimo kryžius</name>
+        <description><![CDATA[Maldos namai, sakralinis paveldas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>25.89616678882912,55.406389152024559,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rūpintojėlis</name>
+        <description>
+          <![CDATA[Paminklas<br>
+<p>Medinė rūpintojėlio skulptūra prie Kirdeikių-Ginučių-Šakarvos kelių sankryžos </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>25.954490318806968,55.369059031728121,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>skūlptura &quot;medžitojas&quot;</name>
+        <description><![CDATA[Paminklas<br> <p> </p><br> ]]></description>
+        <Point>
+          <coordinates>25.961034845283045,55.371143905554604,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

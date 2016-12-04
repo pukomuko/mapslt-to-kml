@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jurbarko r. sav.</name>
+    <description><![CDATA[Jurbarko r. sav.]]></description>
+    <Folder>
+      <name>Jurbarko r. sav.</name>
+      <Placemark>
+        <name>Seredžiaus piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Šalia Nemuno ir Dubysos santakos įsikūrusio Seredžiaus miestelio didingai iškilęs  piliakalnis, vadinamas Palemono kalnu. Legenda pasakoja, kad tai legendinio Lietuvos valstybės įkūrėjo Romos kunigaikščio Palemono kapas. </p><br>
+<p><b>Aprašymas:</b> Palemono kalnas padavimuose laikomas šventa senovės apeigų vieta, perkūnviete. Jau I tūkstantmetyje bei II pradžioje čia stovėjusios pilies egzistavimą liudija piliakalnio papilio plote aptinkama lipdyta grublėtu paviršiumi keramika bei kiti radiniai.   
+
+Nuo 1293 m. ant Seredžiaus piliakalnio stovėjusi lietuvių Pieštvės pilis minima rašytiniuose šaltiniuose. Pilis buvo dažnai puldinėjama vokiečių riterių. Sugriauta 1363m. Pieštvės pilis Lietuvos gynybiniame kare su Kryžiuočių ordinu vaidino reikšmingą vaidmenį. Nuo XIII a. paskutiniojo dešimtmečio iki XIV a. septintojo dešimtmečio stabdė Ordino veržimąsi Nemunu į Lietuvos gilumą. Apie to meto įvykius liudija Petro Dusburgiečio „Prūsijos žemės kronika“ (sudaryta 1326 – 1330 m.) ir Vygando Marburgiečio „Naujoji Prūsijos kronika“ (užbaigta 1394 m.) bei kiti rašytiniai šaltiniai.
+. </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.406883860822472,55.080272214899793,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

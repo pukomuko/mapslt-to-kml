@@ -17,6 +17,7 @@ object StringUtil {
       sanitized = sanitized.replace("regioninis parkas", "RP")
       sanitized = sanitized.replace("nacionalinis parkas", "NP")
       sanitized = sanitized.replace("gamtinis rezervatas", "RZV")
+      sanitized = sanitized.replace(" r. sav.", "")
       sanitized = Normalizer.normalize(sanitized, Form.NFD).replaceAll("\\p{InCombiningDiacriticalMarks}+", "")
       sanitized = toCamel(sanitized)
       sanitized = sanitized.replaceAll("\\W", "")

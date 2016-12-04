@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Radviliškio r. sav.</name>
+    <description><![CDATA[Radviliškio r. sav.]]></description>
+    <Folder>
+      <name>Radviliškio r. sav.</name>
+      <Placemark>
+        <name>Kudinų (Šiaulės) piliakalnis</name>
+        <description>
+          <![CDATA[Archeologinis paveldas<br>
+<p>Kudinų piliakalnis, kitaip vadinamas Šiaulės, Saulės kalnas, datuojamas I tūkst. pab. – II tūkst. pr.  </p><br>
+<p><b>Aprašymas:</b> Kudinų piliakalnis, kitaip vadinamas Šiaulės, Saulės kalnas, datuojamas I tūkst. pab. – II tūkst. pr. Jis įrengtas atskiroje kalvoje, šlaitai statūs, 12-18 m aukščio, aikštelė apvali, 25 m skersmens. Jos centre stovi kryžius. Piliakalnio prieigose, 2,5 ha plote yra papėdės gyvenvietė. Netoli piliakalnio yra Varpinės kalnas, šiek tiek atokiau – Kartuvių kalnas. Piliakalnis apipintas istorijomis. Pasak žmonių pasakojimų, čia stovėjusi stipri, toli žinoma pilis. Pilis turėjo ir savo miestą, kurį pasak legendos, pakilęs vėjas užpustė smėliu. Mieste buvusi varpinė, bažnyčia, kurios varpus gaudžiant galima išgirsti priglaudus ausį prie Didžiojo (Šiaulės, Kudinų) kalno. Sakoma, kad kažkur netoliese  įvykęs ir garsusis Saulės mūšis, nes legenda byloja, kad prasivėrusi žemė prarijo netikėlių kariuomenę... </p><br>
+]]>
+        </description>
+        <Point>
+          <coordinates>23.401197869650044,55.650427877170038,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
